@@ -19,8 +19,6 @@ jobs:
         with:
           node-version: 20
 
-      
-
       - run: node update-clans.js
         env:
           COC_TOKEN: ${{ secrets.COC_TOKEN }}
