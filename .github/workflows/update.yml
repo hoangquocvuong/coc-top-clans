@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: 20
 
-      - run: npm install
+      
 
       - run: node update-clans.js
         env:
