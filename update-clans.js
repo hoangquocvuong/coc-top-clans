@@ -37,7 +37,7 @@ const JOBS = [
   file: "top_builder_clans.json",
   key: "clans",
   normalize: normalizeBuilderClan
-}
+},
   {
     name: "Top Clan Capital Clans",
     url: `${API_BASE}/locations/global/rankings/capitals?limit=200`,
