@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-09-21T23:00:09.999Z",
+  "updatedAt": "2026-09-22T05:00:12.725Z",
   "total": 200,
   "source": "Clash of Clans API",
   "players": [
     {
       "rank": 1,
+      "previousRank": 1,
+      "tag": "#LGJLC8VYR",
+      "name": "Little Gavin",
+      "expLevel": 296,
+      "builderBaseTrophies": 6909,
+      "trophies": 6909,
+      "clan": {
+        "tag": "#2L0YYR2PL",
+        "name": "Knights 3.0",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/zq2i8CKKaJvoLMl4VecipmCewASxzYBJC6d9vL0j8a0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/zq2i8CKKaJvoLMl4VecipmCewASxzYBJC6d9vL0j8a0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/zq2i8CKKaJvoLMl4VecipmCewASxzYBJC6d9vL0j8a0.png"
+        }
+      }
+    },
+    {
+      "rank": 2,
       "previousRank": 2,
       "tag": "#2GP9LPG80",
       "name": "CHN.BH❤️syyy",
@@ -22,43 +40,7 @@
       }
     },
     {
-      "rank": 2,
-      "previousRank": 1,
-      "tag": "#LGJLC8VYR",
-      "name": "Little Gavin",
-      "expLevel": 296,
-      "builderBaseTrophies": 6794,
-      "trophies": 6794,
-      "clan": {
-        "tag": "#2L0YYR2PL",
-        "name": "Knights 3.0",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/zq2i8CKKaJvoLMl4VecipmCewASxzYBJC6d9vL0j8a0.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/zq2i8CKKaJvoLMl4VecipmCewASxzYBJC6d9vL0j8a0.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/zq2i8CKKaJvoLMl4VecipmCewASxzYBJC6d9vL0j8a0.png"
-        }
-      }
-    },
-    {
       "rank": 3,
-      "previousRank": 4,
-      "tag": "#PQGQ20RUU",
-      "name": "VN.HẢI TUỔI TRẺ",
-      "expLevel": 229,
-      "builderBaseTrophies": 6783,
-      "trophies": 6783,
-      "clan": {
-        "tag": "#2C8JG2JR2",
-        "name": "King 2Light",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/ODxgaw7m9h0kQQfjHHgszEFopYOF6E5pAFt8AQF8doQ.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/ODxgaw7m9h0kQQfjHHgszEFopYOF6E5pAFt8AQF8doQ.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/ODxgaw7m9h0kQQfjHHgszEFopYOF6E5pAFt8AQF8doQ.png"
-        }
-      }
-    },
-    {
-      "rank": 4,
       "previousRank": 3,
       "tag": "#Y0GPQVRL",
       "name": "起风了",
@@ -68,13 +50,13 @@
       "clan": null
     },
     {
-      "rank": 5,
-      "previousRank": 5,
+      "rank": 4,
+      "previousRank": 4,
       "tag": "#VCJL9YUR",
       "name": "Gunner",
       "expLevel": 236,
-      "builderBaseTrophies": 6711,
-      "trophies": 6711,
+      "builderBaseTrophies": 6724,
+      "trophies": 6724,
       "clan": {
         "tag": "#2YRCJVUC9",
         "name": "Barbaros BR",
@@ -86,8 +68,8 @@
       }
     },
     {
-      "rank": 6,
-      "previousRank": 6,
+      "rank": 5,
+      "previousRank": 5,
       "tag": "#82R8QGQ9J",
       "name": "═✦ ZORVAXION ✦═",
       "expLevel": 238,
@@ -104,13 +86,31 @@
       }
     },
     {
+      "rank": 6,
+      "previousRank": 6,
+      "tag": "#PQGQ20RUU",
+      "name": "VN.HẢI TUỔI TRẺ",
+      "expLevel": 229,
+      "builderBaseTrophies": 6704,
+      "trophies": 6704,
+      "clan": {
+        "tag": "#2C8JG2JR2",
+        "name": "King 2Light",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ODxgaw7m9h0kQQfjHHgszEFopYOF6E5pAFt8AQF8doQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ODxgaw7m9h0kQQfjHHgszEFopYOF6E5pAFt8AQF8doQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ODxgaw7m9h0kQQfjHHgszEFopYOF6E5pAFt8AQF8doQ.png"
+        }
+      }
+    },
+    {
       "rank": 7,
-      "previousRank": 8,
+      "previousRank": 7,
       "tag": "#P2PVG0PUY",
       "name": "Ephesians 6:10",
       "expLevel": 243,
-      "builderBaseTrophies": 6657,
-      "trophies": 6657,
+      "builderBaseTrophies": 6658,
+      "trophies": 6658,
       "clan": {
         "tag": "#2YRCJVUC9",
         "name": "Barbaros BR",
@@ -123,7 +123,7 @@
     },
     {
       "rank": 8,
-      "previousRank": 9,
+      "previousRank": 8,
       "tag": "#YQ2CVR0RY",
       "name": "☆Lion☆︻╤デ╦╾━",
       "expLevel": 307,
@@ -141,12 +141,30 @@
     },
     {
       "rank": 9,
-      "previousRank": 30,
+      "previousRank": 9,
+      "tag": "#L80QJPPL9",
+      "name": "Lord Gavin",
+      "expLevel": 346,
+      "builderBaseTrophies": 6510,
+      "trophies": 6510,
+      "clan": {
+        "tag": "#2GP2L98YU",
+        "name": "Knights 4.0",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/rSLscGYpSQFpKXZMhmQTMCsZdVre9bAiTxPkPM2LEuY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/rSLscGYpSQFpKXZMhmQTMCsZdVre9bAiTxPkPM2LEuY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/rSLscGYpSQFpKXZMhmQTMCsZdVre9bAiTxPkPM2LEuY.png"
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "previousRank": 10,
       "tag": "#Y2LVQQRGQ",
       "name": "るーく。",
       "expLevel": 254,
-      "builderBaseTrophies": 6510,
-      "trophies": 6510,
+      "builderBaseTrophies": 6473,
+      "trophies": 6473,
       "clan": {
         "tag": "#YPUYRU0G",
         "name": "BAD GIRLs",
@@ -158,26 +176,26 @@
       }
     },
     {
-      "rank": 10,
-      "previousRank": 17,
-      "tag": "#PVUYG09QR",
-      "name": "Krish",
-      "expLevel": 224,
-      "builderBaseTrophies": 6502,
-      "trophies": 6502,
+      "rank": 11,
+      "previousRank": 11,
+      "tag": "#GLC289U92",
+      "name": "Clapmaster",
+      "expLevel": 247,
+      "builderBaseTrophies": 6451,
+      "trophies": 6451,
       "clan": {
-        "tag": "#2U8QYV28Y",
-        "name": "....",
+        "tag": "#2RC28RQ88",
+        "name": "The Creators",
         "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/fZ-3unWUHR1w60HciLL4A3y2fy-PCsG0k2Er-uBfjuM.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/fZ-3unWUHR1w60HciLL4A3y2fy-PCsG0k2Er-uBfjuM.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/fZ-3unWUHR1w60HciLL4A3y2fy-PCsG0k2Er-uBfjuM.png"
+          "small": "https://api-assets.clashofclans.com/badges/70/amDK6k1GPaB8kurPJBfDx97Jep5sOlznkuJHjHUq9nc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/amDK6k1GPaB8kurPJBfDx97Jep5sOlznkuJHjHUq9nc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/amDK6k1GPaB8kurPJBfDx97Jep5sOlznkuJHjHUq9nc.png"
         }
       }
     },
     {
-      "rank": 11,
-      "previousRank": 10,
+      "rank": 12,
+      "previousRank": 12,
       "tag": "#YYRGV8Y",
       "name": "Mr.✨6✨Star",
       "expLevel": 220,
@@ -194,8 +212,8 @@
       }
     },
     {
-      "rank": 12,
-      "previousRank": 11,
+      "rank": 13,
+      "previousRank": 13,
       "tag": "#PQRCGYQLJ",
       "name": "CHN.BH❤️xgggggg",
       "expLevel": 239,
@@ -212,7 +230,25 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
+      "previousRank": 14,
+      "tag": "#PVUYG09QR",
+      "name": "Krish",
+      "expLevel": 224,
+      "builderBaseTrophies": 6435,
+      "trophies": 6435,
+      "clan": {
+        "tag": "#2U8QYV28Y",
+        "name": "....",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/fZ-3unWUHR1w60HciLL4A3y2fy-PCsG0k2Er-uBfjuM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/fZ-3unWUHR1w60HciLL4A3y2fy-PCsG0k2Er-uBfjuM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/fZ-3unWUHR1w60HciLL4A3y2fy-PCsG0k2Er-uBfjuM.png"
+        }
+      }
+    },
+    {
+      "rank": 15,
       "previousRank": 15,
       "tag": "#QYG9G20VY",
       "name": "TH10✨Heartland❤",
@@ -230,26 +266,8 @@
       }
     },
     {
-      "rank": 14,
-      "previousRank": 19,
-      "tag": "#GLC289U92",
-      "name": "Clapmaster",
-      "expLevel": 247,
-      "builderBaseTrophies": 6426,
-      "trophies": 6426,
-      "clan": {
-        "tag": "#2RC28RQ88",
-        "name": "The Creators",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/amDK6k1GPaB8kurPJBfDx97Jep5sOlznkuJHjHUq9nc.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/amDK6k1GPaB8kurPJBfDx97Jep5sOlznkuJHjHUq9nc.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/amDK6k1GPaB8kurPJBfDx97Jep5sOlznkuJHjHUq9nc.png"
-        }
-      }
-    },
-    {
-      "rank": 15,
-      "previousRank": 13,
+      "rank": 16,
+      "previousRank": 16,
       "tag": "#LUUJLVRU0",
       "name": "☆Lion☆︻╤デ╦╾━",
       "expLevel": 182,
@@ -266,8 +284,8 @@
       }
     },
     {
-      "rank": 16,
-      "previousRank": 7,
+      "rank": 17,
+      "previousRank": 17,
       "tag": "#Y08L922JJ",
       "name": "☠ATOMIX☠",
       "expLevel": 207,
@@ -284,13 +302,13 @@
       }
     },
     {
-      "rank": 17,
-      "previousRank": 14,
+      "rank": 18,
+      "previousRank": 18,
       "tag": "#2PLCYQGV2",
       "name": "☆★☆Dybala☆★☆",
       "expLevel": 276,
-      "builderBaseTrophies": 6353,
-      "trophies": 6353,
+      "builderBaseTrophies": 6335,
+      "trophies": 6335,
       "clan": {
         "tag": "#28LQY00LC",
         "name": "Dybala_10",
@@ -302,80 +320,8 @@
       }
     },
     {
-      "rank": 18,
-      "previousRank": 22,
-      "tag": "#PLJUQLRRV",
-      "name": "[G]_Gill",
-      "expLevel": 234,
-      "builderBaseTrophies": 6307,
-      "trophies": 6307,
-      "clan": {
-        "tag": "#2YJYRGRUJ",
-        "name": "TOKYO -VIỆT NAM",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png"
-        }
-      }
-    },
-    {
       "rank": 19,
-      "previousRank": 20,
-      "tag": "#VG289Q0U",
-      "name": "Zero☠️",
-      "expLevel": 231,
-      "builderBaseTrophies": 6303,
-      "trophies": 6303,
-      "clan": {
-        "tag": "#2898VUJC2",
-        "name": "涂山",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/avJwnMOBHweX6g1iE8a0kxhNPjITwhEslCUjJsff4Dk.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/avJwnMOBHweX6g1iE8a0kxhNPjITwhEslCUjJsff4Dk.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/avJwnMOBHweX6g1iE8a0kxhNPjITwhEslCUjJsff4Dk.png"
-        }
-      }
-    },
-    {
-      "rank": 20,
-      "previousRank": 21,
-      "tag": "#QL9YLVPPQ",
-      "name": "BaNaNANACHI",
-      "expLevel": 210,
-      "builderBaseTrophies": 6298,
-      "trophies": 6298,
-      "clan": {
-        "tag": "#20U9RVRVL",
-        "name": "クラひげ盗賊団 大阪友の絆たち",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png"
-        }
-      }
-    },
-    {
-      "rank": 21,
-      "previousRank": 18,
-      "tag": "#PLPG9UP2",
-      "name": "Llane",
-      "expLevel": 261,
-      "builderBaseTrophies": 6296,
-      "trophies": 6296,
-      "clan": {
-        "tag": "#U0UPUPJY",
-        "name": "(SAVAŞÇİ)",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/0mIIvT1qMEwyYZIFEWCcGSfI0L3yixIp9ZlMPnZpHXg.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/0mIIvT1qMEwyYZIFEWCcGSfI0L3yixIp9ZlMPnZpHXg.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/0mIIvT1qMEwyYZIFEWCcGSfI0L3yixIp9ZlMPnZpHXg.png"
-        }
-      }
-    },
-    {
-      "rank": 22,
-      "previousRank": 233,
+      "previousRank": 19,
       "tag": "#QLGURG0P0",
       "name": "DeAtH⚓DeAleR",
       "expLevel": 238,
@@ -392,26 +338,8 @@
       }
     },
     {
-      "rank": 23,
-      "previousRank": 12,
-      "tag": "#L80QJPPL9",
-      "name": "Lord Gavin",
-      "expLevel": 346,
-      "builderBaseTrophies": 6280,
-      "trophies": 6280,
-      "clan": {
-        "tag": "#2GP2L98YU",
-        "name": "Knights 4.0",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/rSLscGYpSQFpKXZMhmQTMCsZdVre9bAiTxPkPM2LEuY.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/rSLscGYpSQFpKXZMhmQTMCsZdVre9bAiTxPkPM2LEuY.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/rSLscGYpSQFpKXZMhmQTMCsZdVre9bAiTxPkPM2LEuY.png"
-        }
-      }
-    },
-    {
-      "rank": 24,
-      "previousRank": 29,
+      "rank": 20,
+      "previousRank": 20,
       "tag": "#RURY90LP",
       "name": "ALI ⚔️",
       "expLevel": 273,
@@ -428,26 +356,44 @@
       }
     },
     {
-      "rank": 25,
-      "previousRank": 16,
-      "tag": "#92RC9CY02",
-      "name": "DIARY_GAMING",
-      "expLevel": 242,
-      "builderBaseTrophies": 6273,
-      "trophies": 6273,
+      "rank": 21,
+      "previousRank": 21,
+      "tag": "#YQRCPPPUQ",
+      "name": "帝丨S A M A N",
+      "expLevel": 287,
+      "builderBaseTrophies": 6251,
+      "trophies": 6251,
       "clan": {
-        "tag": "#2QQV8UVUU",
-        "name": "KURD",
+        "tag": "#2Q0YGUP08",
+        "name": "HYPER GIZARDS",
         "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png"
+          "small": "https://api-assets.clashofclans.com/badges/70/e1VRvDtsd-fA2Stvc4VsJWYAvld9mYGTSkff_260Av4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/e1VRvDtsd-fA2Stvc4VsJWYAvld9mYGTSkff_260Av4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/e1VRvDtsd-fA2Stvc4VsJWYAvld9mYGTSkff_260Av4.png"
         }
       }
     },
     {
-      "rank": 26,
-      "previousRank": 32,
+      "rank": 22,
+      "previousRank": 22,
+      "tag": "#PLJUQLRRV",
+      "name": "[G]_Gill",
+      "expLevel": 234,
+      "builderBaseTrophies": 6243,
+      "trophies": 6243,
+      "clan": {
+        "tag": "#2C8JG2JR2",
+        "name": "King 2Light",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ODxgaw7m9h0kQQfjHHgszEFopYOF6E5pAFt8AQF8doQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ODxgaw7m9h0kQQfjHHgszEFopYOF6E5pAFt8AQF8doQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ODxgaw7m9h0kQQfjHHgszEFopYOF6E5pAFt8AQF8doQ.png"
+        }
+      }
+    },
+    {
+      "rank": 23,
+      "previousRank": 23,
       "tag": "#P9QGC0G8Y",
       "name": "KAYAH",
       "expLevel": 255,
@@ -464,26 +410,8 @@
       }
     },
     {
-      "rank": 27,
-      "previousRank": 23,
-      "tag": "#YQRCPPPUQ",
-      "name": "帝丨S A M A N",
-      "expLevel": 287,
-      "builderBaseTrophies": 6241,
-      "trophies": 6241,
-      "clan": {
-        "tag": "#2Q0YGUP08",
-        "name": "HYPER GIZARDS",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/e1VRvDtsd-fA2Stvc4VsJWYAvld9mYGTSkff_260Av4.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/e1VRvDtsd-fA2Stvc4VsJWYAvld9mYGTSkff_260Av4.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/e1VRvDtsd-fA2Stvc4VsJWYAvld9mYGTSkff_260Av4.png"
-        }
-      }
-    },
-    {
-      "rank": 28,
-      "previousRank": 124,
+      "rank": 24,
+      "previousRank": 24,
       "tag": "#P9JV29VU0",
       "name": "DS⚜️Tanvir",
       "expLevel": 262,
@@ -500,8 +428,8 @@
       }
     },
     {
-      "rank": 29,
-      "previousRank": 31,
+      "rank": 25,
+      "previousRank": 25,
       "tag": "#QQRL9PJYQ",
       "name": "Faker",
       "expLevel": 108,
@@ -518,7 +446,7 @@
       }
     },
     {
-      "rank": 30,
+      "rank": 26,
       "previousRank": 26,
       "tag": "#PLYPYCCUG",
       "name": "Miroshka♥️AJ",
@@ -536,26 +464,26 @@
       }
     },
     {
-      "rank": 31,
-      "previousRank": 25,
-      "tag": "#QVCUC9V0",
-      "name": "まるごといちご",
-      "expLevel": 237,
-      "builderBaseTrophies": 6220,
-      "trophies": 6220,
+      "rank": 27,
+      "previousRank": 27,
+      "tag": "#QL9YLVPPQ",
+      "name": "BaNaNANACHI",
+      "expLevel": 211,
+      "builderBaseTrophies": 6221,
+      "trophies": 6221,
       "clan": {
-        "tag": "#2CGYYGG8Q",
-        "name": "Zoo",
+        "tag": "#20U9RVRVL",
+        "name": "クラひげ盗賊団 大阪友の絆たち",
         "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/iIzVnbVU_2f7su-u422hL1X8QbLz-pL6Y7P41vS82M8.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/iIzVnbVU_2f7su-u422hL1X8QbLz-pL6Y7P41vS82M8.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/iIzVnbVU_2f7su-u422hL1X8QbLz-pL6Y7P41vS82M8.png"
+          "small": "https://api-assets.clashofclans.com/badges/70/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png"
         }
       }
     },
     {
-      "rank": 32,
-      "previousRank": 53,
+      "rank": 28,
+      "previousRank": 28,
       "tag": "#RGGCQUCR",
       "name": "Clasher",
       "expLevel": 212,
@@ -572,8 +500,62 @@
       }
     },
     {
-      "rank": 33,
-      "previousRank": 24,
+      "rank": 29,
+      "previousRank": 29,
+      "tag": "#VG289Q0U",
+      "name": "Zero☠️",
+      "expLevel": 231,
+      "builderBaseTrophies": 6212,
+      "trophies": 6212,
+      "clan": {
+        "tag": "#2898VUJC2",
+        "name": "涂山",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/avJwnMOBHweX6g1iE8a0kxhNPjITwhEslCUjJsff4Dk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/avJwnMOBHweX6g1iE8a0kxhNPjITwhEslCUjJsff4Dk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/avJwnMOBHweX6g1iE8a0kxhNPjITwhEslCUjJsff4Dk.png"
+        }
+      }
+    },
+    {
+      "rank": 30,
+      "previousRank": 30,
+      "tag": "#9ULP0JCQY",
+      "name": "Talal",
+      "expLevel": 295,
+      "builderBaseTrophies": 6212,
+      "trophies": 6212,
+      "clan": {
+        "tag": "#2RYQLLQLP",
+        "name": "❤ⱤɆł₦Ø〆ⱧØ₦ɆɎ❤️✨",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/CA5Wbb0u_guAvM00fbdx8qUclAK9Z-Wq09UZu6VEaIU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/CA5Wbb0u_guAvM00fbdx8qUclAK9Z-Wq09UZu6VEaIU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/CA5Wbb0u_guAvM00fbdx8qUclAK9Z-Wq09UZu6VEaIU.png"
+        }
+      }
+    },
+    {
+      "rank": 31,
+      "previousRank": 31,
+      "tag": "#YPY2JLLQV",
+      "name": "P.E.K.K.A.M.A.N",
+      "expLevel": 227,
+      "builderBaseTrophies": 6211,
+      "trophies": 6211,
+      "clan": {
+        "tag": "#UCR0CJY",
+        "name": "#Puzzles",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png"
+        }
+      }
+    },
+    {
+      "rank": 32,
+      "previousRank": 32,
       "tag": "#L9QCP99V8",
       "name": "٨٨٨",
       "expLevel": 302,
@@ -590,8 +572,8 @@
       }
     },
     {
-      "rank": 34,
-      "previousRank": 28,
+      "rank": 33,
+      "previousRank": 33,
       "tag": "#9VQJYY8C8",
       "name": "ENG/MOTAZ SEDQI",
       "expLevel": 224,
@@ -608,8 +590,26 @@
       }
     },
     {
+      "rank": 34,
+      "previousRank": 34,
+      "tag": "#PLPG9UP2",
+      "name": "Llane",
+      "expLevel": 262,
+      "builderBaseTrophies": 6207,
+      "trophies": 6207,
+      "clan": {
+        "tag": "#U0UPUPJY",
+        "name": "(SAVAŞÇİ)",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/0mIIvT1qMEwyYZIFEWCcGSfI0L3yixIp9ZlMPnZpHXg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/0mIIvT1qMEwyYZIFEWCcGSfI0L3yixIp9ZlMPnZpHXg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/0mIIvT1qMEwyYZIFEWCcGSfI0L3yixIp9ZlMPnZpHXg.png"
+        }
+      }
+    },
+    {
       "rank": 35,
-      "previousRank": 52,
+      "previousRank": 35,
       "tag": "#GY2LLPYPU",
       "name": "Clapmaster 2",
       "expLevel": 218,
@@ -627,7 +627,7 @@
     },
     {
       "rank": 36,
-      "previousRank": 40,
+      "previousRank": 36,
       "tag": "#20PCY2VG8",
       "name": "ᴹᴿ〆V E X 亗",
       "expLevel": 265,
@@ -645,7 +645,25 @@
     },
     {
       "rank": 37,
-      "previousRank": 33,
+      "previousRank": 37,
+      "tag": "#9LJLRLPRJ",
+      "name": "今晚我是你的人",
+      "expLevel": 231,
+      "builderBaseTrophies": 6192,
+      "trophies": 6192,
+      "clan": {
+        "tag": "#JVPUVYJJ",
+        "name": "DARK KNIGHT$",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/7zHkn6o_aVQjxglG8V8uUxvjAFYNZeyWkIEAtL_zaoA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/7zHkn6o_aVQjxglG8V8uUxvjAFYNZeyWkIEAtL_zaoA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/7zHkn6o_aVQjxglG8V8uUxvjAFYNZeyWkIEAtL_zaoA.png"
+        }
+      }
+    },
+    {
+      "rank": 38,
+      "previousRank": 38,
       "tag": "#LV8RJCGUV",
       "name": "FighteR☠AFG☠",
       "expLevel": 229,
@@ -662,11 +680,29 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 39,
       "previousRank": 39,
+      "tag": "#9JVYCQQLC",
+      "name": "DeAtHLy HaLLoWs",
+      "expLevel": 270,
+      "builderBaseTrophies": 6185,
+      "trophies": 6185,
+      "clan": {
+        "tag": "#VY89PL9Y",
+        "name": "Indian champion",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/tB5Xxc-UzzMYgMuKUoDhIY_Z_jW9cYK_u9NapLBZIiY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/tB5Xxc-UzzMYgMuKUoDhIY_Z_jW9cYK_u9NapLBZIiY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/tB5Xxc-UzzMYgMuKUoDhIY_Z_jW9cYK_u9NapLBZIiY.png"
+        }
+      }
+    },
+    {
+      "rank": 40,
+      "previousRank": 40,
       "tag": "#Y9P2LVY2G",
       "name": "Loading...",
-      "expLevel": 313,
+      "expLevel": 314,
       "builderBaseTrophies": 6184,
       "trophies": 6184,
       "clan": {
@@ -680,8 +716,44 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 41,
+      "previousRank": 41,
+      "tag": "#92RC9CY02",
+      "name": "DIARY_GAMING",
+      "expLevel": 242,
+      "builderBaseTrophies": 6178,
+      "trophies": 6178,
+      "clan": {
+        "tag": "#2QQV8UVUU",
+        "name": "KURD",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png"
+        }
+      }
+    },
+    {
+      "rank": 42,
       "previousRank": 42,
+      "tag": "#QVCUC9V0",
+      "name": "まるごといちご",
+      "expLevel": 237,
+      "builderBaseTrophies": 6141,
+      "trophies": 6141,
+      "clan": {
+        "tag": "#2CGYYGG8Q",
+        "name": "Zoo",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/iIzVnbVU_2f7su-u422hL1X8QbLz-pL6Y7P41vS82M8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/iIzVnbVU_2f7su-u422hL1X8QbLz-pL6Y7P41vS82M8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/iIzVnbVU_2f7su-u422hL1X8QbLz-pL6Y7P41vS82M8.png"
+        }
+      }
+    },
+    {
+      "rank": 43,
+      "previousRank": 43,
       "tag": "#9JPVCVV",
       "name": "NN",
       "expLevel": 273,
@@ -698,26 +770,26 @@
       }
     },
     {
-      "rank": 40,
-      "previousRank": 27,
-      "tag": "#9ULP0JCQY",
-      "name": "Talal",
-      "expLevel": 295,
-      "builderBaseTrophies": 6136,
-      "trophies": 6136,
+      "rank": 44,
+      "previousRank": 44,
+      "tag": "#Q9RGRVULY",
+      "name": "不登校ニートα",
+      "expLevel": 234,
+      "builderBaseTrophies": 6134,
+      "trophies": 6134,
       "clan": {
-        "tag": "#2RYQLLQLP",
-        "name": "❤ⱤɆł₦Ø〆ⱧØ₦ɆɎ❤️✨",
+        "tag": "#2CGQCU08Y",
+        "name": "このゲームイラつく！",
         "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/CA5Wbb0u_guAvM00fbdx8qUclAK9Z-Wq09UZu6VEaIU.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/CA5Wbb0u_guAvM00fbdx8qUclAK9Z-Wq09UZu6VEaIU.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/CA5Wbb0u_guAvM00fbdx8qUclAK9Z-Wq09UZu6VEaIU.png"
+          "small": "https://api-assets.clashofclans.com/badges/70/8P0wYTpQGAX0h1fCWIgmnxLnvKKxXUPICqp2h1wt5Pk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/8P0wYTpQGAX0h1fCWIgmnxLnvKKxXUPICqp2h1wt5Pk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/8P0wYTpQGAX0h1fCWIgmnxLnvKKxXUPICqp2h1wt5Pk.png"
         }
       }
     },
     {
-      "rank": 41,
-      "previousRank": 51,
+      "rank": 45,
+      "previousRank": 45,
       "tag": "#8LY0GY8QY",
       "name": "!!! shehan !!!",
       "expLevel": 255,
@@ -734,26 +806,62 @@
       }
     },
     {
-      "rank": 42,
-      "previousRank": 106,
-      "tag": "#9LJLRLPRJ",
-      "name": "今晚我是你的人",
-      "expLevel": 231,
-      "builderBaseTrophies": 6124,
-      "trophies": 6124,
+      "rank": 46,
+      "previousRank": 46,
+      "tag": "#QGRLCQRP0",
+      "name": "Gs Ws.Curry",
+      "expLevel": 194,
+      "builderBaseTrophies": 6123,
+      "trophies": 6123,
       "clan": {
-        "tag": "#JVPUVYJJ",
-        "name": "DARK KNIGHT$",
+        "tag": "#2CJPJRYU9",
+        "name": "铁炉四队",
         "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/7zHkn6o_aVQjxglG8V8uUxvjAFYNZeyWkIEAtL_zaoA.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/7zHkn6o_aVQjxglG8V8uUxvjAFYNZeyWkIEAtL_zaoA.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/7zHkn6o_aVQjxglG8V8uUxvjAFYNZeyWkIEAtL_zaoA.png"
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
         }
       }
     },
     {
-      "rank": 43,
-      "previousRank": 36,
+      "rank": 47,
+      "previousRank": 47,
+      "tag": "#20YYYG0C0",
+      "name": "『ＨＵＳＳＥＩＮ』ツ",
+      "expLevel": 240,
+      "builderBaseTrophies": 6121,
+      "trophies": 6121,
+      "clan": {
+        "tag": "#UCR0CJY",
+        "name": "#Puzzles",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png"
+        }
+      }
+    },
+    {
+      "rank": 48,
+      "previousRank": 48,
+      "tag": "#9JYRQP0JU",
+      "name": "Jyotirmay",
+      "expLevel": 197,
+      "builderBaseTrophies": 6118,
+      "trophies": 6118,
+      "clan": {
+        "tag": "#2CJ2P0QC0",
+        "name": "神神",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        }
+      }
+    },
+    {
+      "rank": 49,
+      "previousRank": 49,
       "tag": "#2C2GURR98",
       "name": "⠀⠀⠀⠀⠀",
       "expLevel": 252,
@@ -770,26 +878,8 @@
       }
     },
     {
-      "rank": 44,
-      "previousRank": 139,
-      "tag": "#Q9RGRVULY",
-      "name": "不登校ニートα",
-      "expLevel": 234,
-      "builderBaseTrophies": 6103,
-      "trophies": 6103,
-      "clan": {
-        "tag": "#2CGQCU08Y",
-        "name": "このゲームイラつく！",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/8P0wYTpQGAX0h1fCWIgmnxLnvKKxXUPICqp2h1wt5Pk.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/8P0wYTpQGAX0h1fCWIgmnxLnvKKxXUPICqp2h1wt5Pk.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/8P0wYTpQGAX0h1fCWIgmnxLnvKKxXUPICqp2h1wt5Pk.png"
-        }
-      }
-    },
-    {
-      "rank": 45,
-      "previousRank": 37,
+      "rank": 50,
+      "previousRank": 50,
       "tag": "#8RQQLQYU9",
       "name": "!!! shehan !!!",
       "expLevel": 195,
@@ -806,26 +896,8 @@
       }
     },
     {
-      "rank": 46,
-      "previousRank": 73,
-      "tag": "#9JVYCQQLC",
-      "name": "DeAtHLy HaLLoWs",
-      "expLevel": 270,
-      "builderBaseTrophies": 6091,
-      "trophies": 6091,
-      "clan": {
-        "tag": "#VY89PL9Y",
-        "name": "Indian champion",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/tB5Xxc-UzzMYgMuKUoDhIY_Z_jW9cYK_u9NapLBZIiY.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/tB5Xxc-UzzMYgMuKUoDhIY_Z_jW9cYK_u9NapLBZIiY.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/tB5Xxc-UzzMYgMuKUoDhIY_Z_jW9cYK_u9NapLBZIiY.png"
-        }
-      }
-    },
-    {
-      "rank": 47,
-      "previousRank": 48,
+      "rank": 51,
+      "previousRank": 51,
       "tag": "#QRL98UJ22",
       "name": "ماعندي اسم",
       "expLevel": 234,
@@ -842,18 +914,36 @@
       }
     },
     {
-      "rank": 48,
-      "previousRank": 44,
-      "tag": "#8UUPYCQPV",
-      "name": "Serein",
-      "expLevel": 237,
-      "builderBaseTrophies": 6072,
-      "trophies": 6072,
+      "rank": 52,
+      "previousRank": 52,
+      "tag": "#LJ2UVYJPP",
+      "name": "FlaM❤️Skarex",
+      "expLevel": 160,
+      "builderBaseTrophies": 6078,
+      "trophies": 6078,
       "clan": null
     },
     {
-      "rank": 49,
-      "previousRank": 47,
+      "rank": 53,
+      "previousRank": 53,
+      "tag": "#LLQV0QRY0",
+      "name": "(Ravİ)™",
+      "expLevel": 221,
+      "builderBaseTrophies": 6076,
+      "trophies": 6076,
+      "clan": {
+        "tag": "#RGYP9CJG",
+        "name": "КАНАРЫ",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/2wTT1cmxO-hgK29Sd6t6BoMoHX3mhVxPBEC6Se5O_rc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/2wTT1cmxO-hgK29Sd6t6BoMoHX3mhVxPBEC6Se5O_rc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/2wTT1cmxO-hgK29Sd6t6BoMoHX3mhVxPBEC6Se5O_rc.png"
+        }
+      }
+    },
+    {
+      "rank": 54,
+      "previousRank": 54,
       "tag": "#2UJ98P8GJ",
       "name": "SScion",
       "expLevel": 233,
@@ -870,8 +960,18 @@
       }
     },
     {
-      "rank": 50,
-      "previousRank": 144,
+      "rank": 55,
+      "previousRank": 55,
+      "tag": "#Y9GGPPQ22",
+      "name": "^_^Mr.PRËM^_^",
+      "expLevel": 261,
+      "builderBaseTrophies": 6059,
+      "trophies": 6059,
+      "clan": null
+    },
+    {
+      "rank": 56,
+      "previousRank": 56,
       "tag": "#9RLQ8GQCV",
       "name": "☠SɪƦ bɪnᴀʀy☠",
       "expLevel": 276,
@@ -888,8 +988,8 @@
       }
     },
     {
-      "rank": 51,
-      "previousRank": 50,
+      "rank": 57,
+      "previousRank": 57,
       "tag": "#Q20JRRURC",
       "name": "Franklin❤️Saint",
       "expLevel": 179,
@@ -898,8 +998,8 @@
       "clan": null
     },
     {
-      "rank": 52,
-      "previousRank": 1635,
+      "rank": 58,
+      "previousRank": 58,
       "tag": "#L9RY20V8R",
       "name": "シ[M]ičkÿy戈TH7™√",
       "expLevel": 283,
@@ -916,80 +1016,26 @@
       }
     },
     {
-      "rank": 53,
-      "previousRank": 79,
-      "tag": "#20YYYG0C0",
-      "name": "『ＨＵＳＳＥＩＮ』ツ",
-      "expLevel": 240,
-      "builderBaseTrophies": 6052,
-      "trophies": 6052,
-      "clan": {
-        "tag": "#UCR0CJY",
-        "name": "#Puzzles",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png"
-        }
-      }
-    },
-    {
-      "rank": 54,
-      "previousRank": 65,
-      "tag": "#LLQV0QRY0",
-      "name": "(Ravİ)™",
-      "expLevel": 221,
-      "builderBaseTrophies": 6050,
-      "trophies": 6050,
-      "clan": {
-        "tag": "#RGYP9CJG",
-        "name": "КАНАРЫ",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/2wTT1cmxO-hgK29Sd6t6BoMoHX3mhVxPBEC6Se5O_rc.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/2wTT1cmxO-hgK29Sd6t6BoMoHX3mhVxPBEC6Se5O_rc.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/2wTT1cmxO-hgK29Sd6t6BoMoHX3mhVxPBEC6Se5O_rc.png"
-        }
-      }
-    },
-    {
-      "rank": 55,
-      "previousRank": 56,
-      "tag": "#QGRLCQRP0",
-      "name": "Gs Ws.Curry",
-      "expLevel": 194,
-      "builderBaseTrophies": 6041,
-      "trophies": 6041,
-      "clan": {
-        "tag": "#2CJPJRYU9",
-        "name": "铁炉四队",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
-        }
-      }
-    },
-    {
-      "rank": 56,
-      "previousRank": 81,
+      "rank": 59,
+      "previousRank": 59,
       "tag": "#PQ0JG8V90",
       "name": "I'M ●─ShOhAG ××",
       "expLevel": 245,
-      "builderBaseTrophies": 6040,
-      "trophies": 6040,
+      "builderBaseTrophies": 6050,
+      "trophies": 6050,
       "clan": {
-        "tag": "#2CP989QRP",
-        "name": "drx",
+        "tag": "#2GP2L98YU",
+        "name": "Knights 4.0",
         "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          "small": "https://api-assets.clashofclans.com/badges/70/rSLscGYpSQFpKXZMhmQTMCsZdVre9bAiTxPkPM2LEuY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/rSLscGYpSQFpKXZMhmQTMCsZdVre9bAiTxPkPM2LEuY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/rSLscGYpSQFpKXZMhmQTMCsZdVre9bAiTxPkPM2LEuY.png"
         }
       }
     },
     {
-      "rank": 57,
-      "previousRank": 43,
+      "rank": 60,
+      "previousRank": 60,
       "tag": "#Q9JCVLJUV",
       "name": "GOKUL",
       "expLevel": 228,
@@ -1006,8 +1052,8 @@
       }
     },
     {
-      "rank": 58,
-      "previousRank": 59,
+      "rank": 61,
+      "previousRank": 61,
       "tag": "#P2LGYUYGP",
       "name": "ḋḷṡ♦️JÖÖ",
       "expLevel": 274,
@@ -1024,18 +1070,8 @@
       }
     },
     {
-      "rank": 59,
-      "previousRank": 45,
-      "tag": "#LJ2UVYJPP",
-      "name": "FlaM❤️Skarex",
-      "expLevel": 160,
-      "builderBaseTrophies": 6034,
-      "trophies": 6034,
-      "clan": null
-    },
-    {
-      "rank": 60,
-      "previousRank": 57,
+      "rank": 62,
+      "previousRank": 62,
       "tag": "#YJJL8JU80",
       "name": "✨失去ni的世界✨",
       "expLevel": 234,
@@ -1052,8 +1088,8 @@
       }
     },
     {
-      "rank": 61,
-      "previousRank": 58,
+      "rank": 63,
+      "previousRank": 63,
       "tag": "#PG8G8PYUQ",
       "name": "あいうえお",
       "expLevel": 226,
@@ -1070,8 +1106,8 @@
       }
     },
     {
-      "rank": 62,
-      "previousRank": 68,
+      "rank": 64,
+      "previousRank": 64,
       "tag": "#JGJRP8C9",
       "name": "Kostas2",
       "expLevel": 252,
@@ -1088,26 +1124,8 @@
       }
     },
     {
-      "rank": 63,
-      "previousRank": 85,
-      "tag": "#J8R2LVJQ",
-      "name": "UsedTubesock",
-      "expLevel": 229,
-      "builderBaseTrophies": 6027,
-      "trophies": 6027,
-      "clan": {
-        "tag": "#2QQV8UVUU",
-        "name": "KURD",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png"
-        }
-      }
-    },
-    {
-      "rank": 64,
-      "previousRank": 41,
+      "rank": 65,
+      "previousRank": 65,
       "tag": "#8U0JPU2U2",
       "name": "jedoo-x",
       "expLevel": 236,
@@ -1124,26 +1142,8 @@
       }
     },
     {
-      "rank": 65,
-      "previousRank": 67,
-      "tag": "#2VCRC8QRG",
-      "name": "Arman Persia",
-      "expLevel": 293,
-      "builderBaseTrophies": 6021,
-      "trophies": 6021,
-      "clan": {
-        "tag": "#29JG8QCG0",
-        "name": "BEST WARS是我在",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/FtK1cjWcrW6RDy-vUwo6OWeKUkH3lv89zqJJYs90a-4.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/FtK1cjWcrW6RDy-vUwo6OWeKUkH3lv89zqJJYs90a-4.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/FtK1cjWcrW6RDy-vUwo6OWeKUkH3lv89zqJJYs90a-4.png"
-        }
-      }
-    },
-    {
       "rank": 66,
-      "previousRank": 49,
+      "previousRank": 66,
       "tag": "#9PQVCJ00",
       "name": "Daniel 2",
       "expLevel": 258,
@@ -1161,7 +1161,7 @@
     },
     {
       "rank": 67,
-      "previousRank": 288,
+      "previousRank": 67,
       "tag": "#2GU0UVR9V",
       "name": "P.A",
       "expLevel": 228,
@@ -1179,25 +1179,25 @@
     },
     {
       "rank": 68,
-      "previousRank": 34,
-      "tag": "#QRPC8GU8G",
-      "name": "⚡️Kings⚡️SBoiz❤",
-      "expLevel": 213,
-      "builderBaseTrophies": 6013,
-      "trophies": 6013,
+      "previousRank": 68,
+      "tag": "#J8R2LVJQ",
+      "name": "UsedTubesock",
+      "expLevel": 229,
+      "builderBaseTrophies": 6012,
+      "trophies": 6012,
       "clan": {
-        "tag": "#J9GLG2JQ",
-        "name": "Ớt",
+        "tag": "#2QQV8UVUU",
+        "name": "KURD",
         "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png"
+          "small": "https://api-assets.clashofclans.com/badges/70/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png"
         }
       }
     },
     {
       "rank": 69,
-      "previousRank": 62,
+      "previousRank": 69,
       "tag": "#Y80PVJVCJ",
       "name": "りょうたろう",
       "expLevel": 232,
@@ -1215,7 +1215,7 @@
     },
     {
       "rank": 70,
-      "previousRank": 63,
+      "previousRank": 70,
       "tag": "#UQ8V8U2P",
       "name": "Nico",
       "expLevel": 259,
@@ -1233,7 +1233,7 @@
     },
     {
       "rank": 71,
-      "previousRank": 231,
+      "previousRank": 71,
       "tag": "#8UVR8C2G0",
       "name": "**sLaYeR**",
       "expLevel": 254,
@@ -1251,61 +1251,115 @@
     },
     {
       "rank": 72,
-      "previousRank": 64,
+      "previousRank": 72,
+      "tag": "#YJ8V9LUVR",
+      "name": "ger 2.0",
+      "expLevel": 241,
+      "builderBaseTrophies": 5989,
+      "trophies": 5989,
+      "clan": {
+        "tag": "#YC9Y0JG",
+        "name": "LOS TEMPLARIOS",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/rza2YKMlvQI8fDLGm3suKAoMeyL0oKNIw0qtfV8KSBQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/rza2YKMlvQI8fDLGm3suKAoMeyL0oKNIw0qtfV8KSBQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/rza2YKMlvQI8fDLGm3suKAoMeyL0oKNIw0qtfV8KSBQ.png"
+        }
+      }
+    },
+    {
+      "rank": 73,
+      "previousRank": 73,
+      "tag": "#QRPC8GU8G",
+      "name": "⚡️Kings⚡️SBoiz❤",
+      "expLevel": 213,
+      "builderBaseTrophies": 5988,
+      "trophies": 5988,
+      "clan": {
+        "tag": "#J9GLG2JQ",
+        "name": "Ớt",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png"
+        }
+      }
+    },
+    {
+      "rank": 74,
+      "previousRank": 74,
       "tag": "#LG0LC8Y",
       "name": "MNS",
       "expLevel": 258,
       "builderBaseTrophies": 5984,
       "trophies": 5984,
       "clan": {
-        "tag": "#2GC0JULJ8",
-        "name": "نسيم✨اليل",
+        "tag": "#2JRG9QGGC",
+        "name": "CLANx963",
         "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/FRM-pr7fVwMsSsg7qj-5KX4Yznw3oCq0I6H_zJuH00s.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/FRM-pr7fVwMsSsg7qj-5KX4Yznw3oCq0I6H_zJuH00s.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/FRM-pr7fVwMsSsg7qj-5KX4Yznw3oCq0I6H_zJuH00s.png"
-        }
-      }
-    },
-    {
-      "rank": 73,
-      "previousRank": 60,
-      "tag": "#GUQ809VJ",
-      "name": "AJ1 NEW KING",
-      "expLevel": 204,
-      "builderBaseTrophies": 5958,
-      "trophies": 5958,
-      "clan": {
-        "tag": "#2QQV8UVUU",
-        "name": "KURD",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png"
-        }
-      }
-    },
-    {
-      "rank": 74,
-      "previousRank": 66,
-      "tag": "#9P8QVLQP9",
-      "name": "KL Trọng",
-      "expLevel": 205,
-      "builderBaseTrophies": 5955,
-      "trophies": 5955,
-      "clan": {
-        "tag": "#2C8JG2JR2",
-        "name": "King 2Light",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/ODxgaw7m9h0kQQfjHHgszEFopYOF6E5pAFt8AQF8doQ.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/ODxgaw7m9h0kQQfjHHgszEFopYOF6E5pAFt8AQF8doQ.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/ODxgaw7m9h0kQQfjHHgszEFopYOF6E5pAFt8AQF8doQ.png"
+          "small": "https://api-assets.clashofclans.com/badges/70/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png"
         }
       }
     },
     {
       "rank": 75,
-      "previousRank": 90,
+      "previousRank": 75,
+      "tag": "#92QJCYL90",
+      "name": "chanon",
+      "expLevel": 267,
+      "builderBaseTrophies": 5978,
+      "trophies": 5978,
+      "clan": {
+        "tag": "#2U8UV822U",
+        "name": "คิมูจิ",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/IuD30W8lcoKfT3JwrVAesVApTmgMTPaNCJakp5FaaR4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/IuD30W8lcoKfT3JwrVAesVApTmgMTPaNCJakp5FaaR4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/IuD30W8lcoKfT3JwrVAesVApTmgMTPaNCJakp5FaaR4.png"
+        }
+      }
+    },
+    {
+      "rank": 76,
+      "previousRank": 76,
+      "tag": "#G89L22C2U",
+      "name": "thanh",
+      "expLevel": 204,
+      "builderBaseTrophies": 5972,
+      "trophies": 5972,
+      "clan": {
+        "tag": "#2JVGP0PC8",
+        "name": "CỖ MÁY SÁNG TẠO",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/C7XKVZnPspVnVM_wtUWvqdNEj8ot-WoADUWeu6PL_z0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/C7XKVZnPspVnVM_wtUWvqdNEj8ot-WoADUWeu6PL_z0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/C7XKVZnPspVnVM_wtUWvqdNEj8ot-WoADUWeu6PL_z0.png"
+        }
+      }
+    },
+    {
+      "rank": 77,
+      "previousRank": 77,
+      "tag": "#2R9CQPJQJ",
+      "name": "♡Vanesa Angel♡",
+      "expLevel": 255,
+      "builderBaseTrophies": 5967,
+      "trophies": 5967,
+      "clan": {
+        "tag": "#2QYJ9JGP0",
+        "name": "warrior indo",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/gleInU799fdmj_-HlZa1CUqDbBhS2NwaV-5Of4g5ngs.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/gleInU799fdmj_-HlZa1CUqDbBhS2NwaV-5Of4g5ngs.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/gleInU799fdmj_-HlZa1CUqDbBhS2NwaV-5Of4g5ngs.png"
+        }
+      }
+    },
+    {
+      "rank": 78,
+      "previousRank": 78,
       "tag": "#8U0J00JQ",
       "name": "Ruthles Fighter",
       "expLevel": 240,
@@ -1322,26 +1376,26 @@
       }
     },
     {
-      "rank": 76,
-      "previousRank": 91,
-      "tag": "#YJ8V9LUVR",
-      "name": "ger 2.0",
-      "expLevel": 241,
-      "builderBaseTrophies": 5953,
-      "trophies": 5953,
+      "rank": 79,
+      "previousRank": 79,
+      "tag": "#9P8QVLQP9",
+      "name": "KL Trọng",
+      "expLevel": 205,
+      "builderBaseTrophies": 5952,
+      "trophies": 5952,
       "clan": {
-        "tag": "#YC9Y0JG",
-        "name": "LOS TEMPLARIOS",
+        "tag": "#2C8JG2JR2",
+        "name": "King 2Light",
         "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/rza2YKMlvQI8fDLGm3suKAoMeyL0oKNIw0qtfV8KSBQ.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/rza2YKMlvQI8fDLGm3suKAoMeyL0oKNIw0qtfV8KSBQ.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/rza2YKMlvQI8fDLGm3suKAoMeyL0oKNIw0qtfV8KSBQ.png"
+          "small": "https://api-assets.clashofclans.com/badges/70/ODxgaw7m9h0kQQfjHHgszEFopYOF6E5pAFt8AQF8doQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ODxgaw7m9h0kQQfjHHgszEFopYOF6E5pAFt8AQF8doQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ODxgaw7m9h0kQQfjHHgszEFopYOF6E5pAFt8AQF8doQ.png"
         }
       }
     },
     {
-      "rank": 77,
-      "previousRank": 46,
+      "rank": 80,
+      "previousRank": 80,
       "tag": "#YGCQCU8LP",
       "name": "قاهر الجبارين",
       "expLevel": 275,
@@ -1358,26 +1412,26 @@
       }
     },
     {
-      "rank": 78,
-      "previousRank": 70,
-      "tag": "#G89L22C2U",
-      "name": "thanh",
+      "rank": 81,
+      "previousRank": 81,
+      "tag": "#GUQ809VJ",
+      "name": "AJ1 NEW KING",
       "expLevel": 204,
-      "builderBaseTrophies": 5947,
-      "trophies": 5947,
+      "builderBaseTrophies": 5943,
+      "trophies": 5943,
       "clan": {
-        "tag": "#2JVGP0PC8",
-        "name": "CỖ MÁY SÁNG TẠO",
+        "tag": "#2QQV8UVUU",
+        "name": "KURD",
         "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/C7XKVZnPspVnVM_wtUWvqdNEj8ot-WoADUWeu6PL_z0.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/C7XKVZnPspVnVM_wtUWvqdNEj8ot-WoADUWeu6PL_z0.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/C7XKVZnPspVnVM_wtUWvqdNEj8ot-WoADUWeu6PL_z0.png"
+          "small": "https://api-assets.clashofclans.com/badges/70/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png"
         }
       }
     },
     {
-      "rank": 79,
-      "previousRank": 77,
+      "rank": 82,
+      "previousRank": 82,
       "tag": "#PC9R29J2U",
       "name": "Gianluca",
       "expLevel": 250,
@@ -1394,8 +1448,44 @@
       }
     },
     {
-      "rank": 80,
-      "previousRank": 35,
+      "rank": 83,
+      "previousRank": 83,
+      "tag": "#L8PQLGQUP",
+      "name": "AngrySnowman",
+      "expLevel": 255,
+      "builderBaseTrophies": 5937,
+      "trophies": 5937,
+      "clan": {
+        "tag": "#2PCYJ2J92",
+        "name": "CLASH DOCTOR..",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/X3K6hZjRBbC3GSHimRpF0Exz6dNIwWwxFiyqcRI6m2c.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/X3K6hZjRBbC3GSHimRpF0Exz6dNIwWwxFiyqcRI6m2c.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/X3K6hZjRBbC3GSHimRpF0Exz6dNIwWwxFiyqcRI6m2c.png"
+        }
+      }
+    },
+    {
+      "rank": 84,
+      "previousRank": 84,
+      "tag": "#2VCRC8QRG",
+      "name": "Arman Persia",
+      "expLevel": 293,
+      "builderBaseTrophies": 5933,
+      "trophies": 5933,
+      "clan": {
+        "tag": "#28LQY00LC",
+        "name": "Dybala_10",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/fG8lVXQps8kelphi71OJGZcK53x_O9ibpAcw0XylqS4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/fG8lVXQps8kelphi71OJGZcK53x_O9ibpAcw0XylqS4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/fG8lVXQps8kelphi71OJGZcK53x_O9ibpAcw0XylqS4.png"
+        }
+      }
+    },
+    {
+      "rank": 85,
+      "previousRank": 85,
       "tag": "#LC9RU0U0L",
       "name": "部落冲突非官方号",
       "expLevel": 202,
@@ -1412,26 +1502,8 @@
       }
     },
     {
-      "rank": 81,
-      "previousRank": 102,
-      "tag": "#PQ08URGRQ",
-      "name": "NamMệtLắm!",
-      "expLevel": 235,
-      "builderBaseTrophies": 5932,
-      "trophies": 5932,
-      "clan": {
-        "tag": "#2JQ2Y090L",
-        "name": "36 Clan",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/d6XiO02aD2I-DA-iFC_ejYCe_saSR7QMJFM3ni46JSQ.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/d6XiO02aD2I-DA-iFC_ejYCe_saSR7QMJFM3ni46JSQ.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/d6XiO02aD2I-DA-iFC_ejYCe_saSR7QMJFM3ni46JSQ.png"
-        }
-      }
-    },
-    {
-      "rank": 82,
-      "previousRank": 72,
+      "rank": 86,
+      "previousRank": 86,
       "tag": "#L2GR8VVL2",
       "name": "忍得住吗",
       "expLevel": 209,
@@ -1448,8 +1520,8 @@
       }
     },
     {
-      "rank": 83,
-      "previousRank": 74,
+      "rank": 87,
+      "previousRank": 87,
       "tag": "#QR92CLUVU",
       "name": "Banana",
       "expLevel": 214,
@@ -1466,8 +1538,8 @@
       }
     },
     {
-      "rank": 84,
-      "previousRank": 96,
+      "rank": 88,
+      "previousRank": 88,
       "tag": "#99Q0RVJYY",
       "name": "qscco",
       "expLevel": 236,
@@ -1484,26 +1556,18 @@
       }
     },
     {
-      "rank": 85,
-      "previousRank": 55,
-      "tag": "#L8PQLGQUP",
-      "name": "AngrySnowman",
-      "expLevel": 255,
+      "rank": 89,
+      "previousRank": 89,
+      "tag": "#8UUPYCQPV",
+      "name": "Serein",
+      "expLevel": 237,
       "builderBaseTrophies": 5919,
       "trophies": 5919,
-      "clan": {
-        "tag": "#2PCYJ2J92",
-        "name": "CLASH DOCTOR..",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/X3K6hZjRBbC3GSHimRpF0Exz6dNIwWwxFiyqcRI6m2c.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/X3K6hZjRBbC3GSHimRpF0Exz6dNIwWwxFiyqcRI6m2c.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/X3K6hZjRBbC3GSHimRpF0Exz6dNIwWwxFiyqcRI6m2c.png"
-        }
-      }
+      "clan": null
     },
     {
-      "rank": 86,
-      "previousRank": 95,
+      "rank": 90,
+      "previousRank": 90,
       "tag": "#909888Y80",
       "name": "L⭕∆DING...",
       "expLevel": 198,
@@ -1520,13 +1584,13 @@
       }
     },
     {
-      "rank": 87,
-      "previousRank": 78,
+      "rank": 91,
+      "previousRank": 91,
       "tag": "#LQLP8RR8U",
       "name": "Pot",
       "expLevel": 208,
-      "builderBaseTrophies": 5911,
-      "trophies": 5911,
+      "builderBaseTrophies": 5913,
+      "trophies": 5913,
       "clan": {
         "tag": "#20RV9CGGQ",
         "name": "MASTER FORCE",
@@ -1538,44 +1602,8 @@
       }
     },
     {
-      "rank": 88,
-      "previousRank": 136,
-      "tag": "#J9QGLJVU",
-      "name": "Nightstar98",
-      "expLevel": 261,
-      "builderBaseTrophies": 5906,
-      "trophies": 5906,
-      "clan": {
-        "tag": "#2QQV8UVUU",
-        "name": "KURD",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png"
-        }
-      }
-    },
-    {
-      "rank": 89,
-      "previousRank": 71,
-      "tag": "#LGJUJUY0J",
-      "name": "お猿の飼育員",
-      "expLevel": 186,
-      "builderBaseTrophies": 5906,
-      "trophies": 5906,
-      "clan": {
-        "tag": "#20U9RVRVL",
-        "name": "クラひげ盗賊団 大阪友の絆たち",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png"
-        }
-      }
-    },
-    {
-      "rank": 90,
-      "previousRank": 93,
+      "rank": 92,
+      "previousRank": 92,
       "tag": "#Y0CUYRP0U",
       "name": "❇️King Cyrus ❇️",
       "expLevel": 239,
@@ -1592,26 +1620,44 @@
       }
     },
     {
-      "rank": 91,
-      "previousRank": 82,
-      "tag": "#2R9CQPJQJ",
-      "name": "♡Vanesa Angel♡",
-      "expLevel": 255,
-      "builderBaseTrophies": 5901,
-      "trophies": 5901,
+      "rank": 93,
+      "previousRank": 93,
+      "tag": "#PQ08URGRQ",
+      "name": "NamMệtLắm!",
+      "expLevel": 235,
+      "builderBaseTrophies": 5902,
+      "trophies": 5902,
       "clan": {
-        "tag": "#2QYJ9JGP0",
-        "name": "warrior indo",
+        "tag": "#2JQ2Y090L",
+        "name": "36 Clan",
         "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/gleInU799fdmj_-HlZa1CUqDbBhS2NwaV-5Of4g5ngs.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/gleInU799fdmj_-HlZa1CUqDbBhS2NwaV-5Of4g5ngs.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/gleInU799fdmj_-HlZa1CUqDbBhS2NwaV-5Of4g5ngs.png"
+          "small": "https://api-assets.clashofclans.com/badges/70/d6XiO02aD2I-DA-iFC_ejYCe_saSR7QMJFM3ni46JSQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/d6XiO02aD2I-DA-iFC_ejYCe_saSR7QMJFM3ni46JSQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/d6XiO02aD2I-DA-iFC_ejYCe_saSR7QMJFM3ni46JSQ.png"
         }
       }
     },
     {
-      "rank": 92,
-      "previousRank": 87,
+      "rank": 94,
+      "previousRank": 94,
+      "tag": "#J9QGLJVU",
+      "name": "Nightstar98",
+      "expLevel": 261,
+      "builderBaseTrophies": 5900,
+      "trophies": 5900,
+      "clan": {
+        "tag": "#2QQV8UVUU",
+        "name": "KURD",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png"
+        }
+      }
+    },
+    {
+      "rank": 95,
+      "previousRank": 95,
       "tag": "#PLC9QVYLR",
       "name": "✨奈良シカマル ✨",
       "expLevel": 278,
@@ -1628,26 +1674,8 @@
       }
     },
     {
-      "rank": 93,
-      "previousRank": 80,
-      "tag": "#LQV92LUQL",
-      "name": "GENDL 08",
-      "expLevel": 240,
-      "builderBaseTrophies": 5894,
-      "trophies": 5894,
-      "clan": {
-        "tag": "#JVPUVYJJ",
-        "name": "DARK KNIGHT$",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/7zHkn6o_aVQjxglG8V8uUxvjAFYNZeyWkIEAtL_zaoA.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/7zHkn6o_aVQjxglG8V8uUxvjAFYNZeyWkIEAtL_zaoA.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/7zHkn6o_aVQjxglG8V8uUxvjAFYNZeyWkIEAtL_zaoA.png"
-        }
-      }
-    },
-    {
-      "rank": 94,
-      "previousRank": 84,
+      "rank": 96,
+      "previousRank": 96,
       "tag": "#88J9R9UPY",
       "name": "ツＰＲＯＦＥＳＳＯＲミYEMミ",
       "expLevel": 249,
@@ -1664,44 +1692,26 @@
       }
     },
     {
-      "rank": 95,
-      "previousRank": 154,
-      "tag": "#QC29JL8Q8",
-      "name": "DEVIL ALTHAF",
-      "expLevel": 225,
-      "builderBaseTrophies": 5885,
-      "trophies": 5885,
-      "clan": {
-        "tag": "#2QQV8UVUU",
-        "name": "KURD",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png"
-        }
-      }
-    },
-    {
-      "rank": 96,
-      "previousRank": 83,
-      "tag": "#GY800RL8Q",
-      "name": "khagen",
-      "expLevel": 232,
-      "builderBaseTrophies": 5883,
-      "trophies": 5883,
-      "clan": {
-        "tag": "#YU0LQRG0",
-        "name": "Rock N Roll",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/V9sdlbwA810p3b0hUrucW4I8kdnzGqLTwbELx1KBMgQ.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/V9sdlbwA810p3b0hUrucW4I8kdnzGqLTwbELx1KBMgQ.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/V9sdlbwA810p3b0hUrucW4I8kdnzGqLTwbELx1KBMgQ.png"
-        }
-      }
-    },
-    {
       "rank": 97,
-      "previousRank": 226,
+      "previousRank": 97,
+      "tag": "#Q98PPRLY9",
+      "name": "Kauez!n Th8⚡",
+      "expLevel": 138,
+      "builderBaseTrophies": 5886,
+      "trophies": 5886,
+      "clan": {
+        "tag": "#2YRCJVUC9",
+        "name": "Barbaros BR",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/oU1OQrcCwSbdJoKpTxexGvGZFgOWo8LuK5tDcBMFOjg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/oU1OQrcCwSbdJoKpTxexGvGZFgOWo8LuK5tDcBMFOjg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/oU1OQrcCwSbdJoKpTxexGvGZFgOWo8LuK5tDcBMFOjg.png"
+        }
+      }
+    },
+    {
+      "rank": 98,
+      "previousRank": 98,
       "tag": "#VR0LQUUG",
       "name": "Marco",
       "expLevel": 199,
@@ -1718,8 +1728,8 @@
       }
     },
     {
-      "rank": 98,
-      "previousRank": 86,
+      "rank": 99,
+      "previousRank": 99,
       "tag": "#28YL9L09G",
       "name": "MAHDI",
       "expLevel": 247,
@@ -1736,8 +1746,26 @@
       }
     },
     {
-      "rank": 99,
-      "previousRank": 75,
+      "rank": 100,
+      "previousRank": 100,
+      "tag": "#GY800RL8Q",
+      "name": "khagen",
+      "expLevel": 232,
+      "builderBaseTrophies": 5875,
+      "trophies": 5875,
+      "clan": {
+        "tag": "#YU0LQRG0",
+        "name": "Rock N Roll",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/V9sdlbwA810p3b0hUrucW4I8kdnzGqLTwbELx1KBMgQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/V9sdlbwA810p3b0hUrucW4I8kdnzGqLTwbELx1KBMgQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/V9sdlbwA810p3b0hUrucW4I8kdnzGqLTwbELx1KBMgQ.png"
+        }
+      }
+    },
+    {
+      "rank": 101,
+      "previousRank": 101,
       "tag": "#PQUCCP99J",
       "name": "jaynoquera",
       "expLevel": 252,
@@ -1754,8 +1782,8 @@
       }
     },
     {
-      "rank": 100,
-      "previousRank": 94,
+      "rank": 102,
+      "previousRank": 102,
       "tag": "#PLCVL082R",
       "name": "Jackoo",
       "expLevel": 200,
@@ -1772,26 +1800,8 @@
       }
     },
     {
-      "rank": 101,
-      "previousRank": 182,
-      "tag": "#8VUJQRRP9",
-      "name": "♎sajjad.salar♎",
-      "expLevel": 262,
-      "builderBaseTrophies": 5866,
-      "trophies": 5866,
-      "clan": {
-        "tag": "#2LUPCC8G9",
-        "name": "横畝影Ｖｉｋｉｎｇｓ ᵀᵉᵃᵐ",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/2wTT1cmxO-hgK29Sd6t6BoMoHX3mhVxPBEC6Se5O_rc.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/2wTT1cmxO-hgK29Sd6t6BoMoHX3mhVxPBEC6Se5O_rc.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/2wTT1cmxO-hgK29Sd6t6BoMoHX3mhVxPBEC6Se5O_rc.png"
-        }
-      }
-    },
-    {
-      "rank": 102,
-      "previousRank": 132,
+      "rank": 103,
+      "previousRank": 103,
       "tag": "#YV8RC9RR8",
       "name": "☠️AmiR GaminG☠️",
       "expLevel": 209,
@@ -1808,26 +1818,8 @@
       }
     },
     {
-      "rank": 103,
-      "previousRank": 113,
-      "tag": "#9JYRQP0JU",
-      "name": "Jyotirmay",
-      "expLevel": 197,
-      "builderBaseTrophies": 5863,
-      "trophies": 5863,
-      "clan": {
-        "tag": "#2CJ2P0QC0",
-        "name": "神神",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
-        }
-      }
-    },
-    {
       "rank": 104,
-      "previousRank": 98,
+      "previousRank": 104,
       "tag": "#LCPG2CPVL",
       "name": "HisTiltedness⚔️",
       "expLevel": 225,
@@ -1845,7 +1837,7 @@
     },
     {
       "rank": 105,
-      "previousRank": 88,
+      "previousRank": 105,
       "tag": "#QVRVYJRJL",
       "name": "山曼陀珠",
       "expLevel": 245,
@@ -1863,7 +1855,7 @@
     },
     {
       "rank": 106,
-      "previousRank": 69,
+      "previousRank": 106,
       "tag": "#PCYP080UY",
       "name": "noseboi",
       "expLevel": 254,
@@ -1881,7 +1873,25 @@
     },
     {
       "rank": 107,
-      "previousRank": 114,
+      "previousRank": 107,
+      "tag": "#9PUY2009",
+      "name": "kanpeen",
+      "expLevel": 227,
+      "builderBaseTrophies": 5855,
+      "trophies": 5855,
+      "clan": {
+        "tag": "#20U9RVRVL",
+        "name": "クラひげ盗賊団 大阪友の絆たち",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png"
+        }
+      }
+    },
+    {
+      "rank": 108,
+      "previousRank": 108,
       "tag": "#YR2RGP2PG",
       "name": "عاشق مجنون",
       "expLevel": 243,
@@ -1898,8 +1908,8 @@
       }
     },
     {
-      "rank": 108,
-      "previousRank": 158,
+      "rank": 109,
+      "previousRank": 109,
       "tag": "#8RVCY9JV9",
       "name": "SHEYX",
       "expLevel": 236,
@@ -1916,8 +1926,8 @@
       }
     },
     {
-      "rank": 109,
-      "previousRank": 100,
+      "rank": 110,
+      "previousRank": 110,
       "tag": "#29C8JY20C",
       "name": "Grants Main",
       "expLevel": 239,
@@ -1934,8 +1944,8 @@
       }
     },
     {
-      "rank": 110,
-      "previousRank": 101,
+      "rank": 111,
+      "previousRank": 111,
       "tag": "#QU0YQPPJC",
       "name": "☔GOTHAM⚡",
       "expLevel": 225,
@@ -1952,26 +1962,26 @@
       }
     },
     {
-      "rank": 111,
-      "previousRank": 99,
-      "tag": "#Q98PPRLY9",
-      "name": "Kauez!n Th8⚡",
-      "expLevel": 138,
-      "builderBaseTrophies": 5851,
-      "trophies": 5851,
+      "rank": 112,
+      "previousRank": 112,
+      "tag": "#YJP9U8RQP",
+      "name": "Akaza",
+      "expLevel": 257,
+      "builderBaseTrophies": 5849,
+      "trophies": 5849,
       "clan": {
-        "tag": "#2YRCJVUC9",
-        "name": "Barbaros BR",
+        "tag": "#2CJ2P0QC0",
+        "name": "神神",
         "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/oU1OQrcCwSbdJoKpTxexGvGZFgOWo8LuK5tDcBMFOjg.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/oU1OQrcCwSbdJoKpTxexGvGZFgOWo8LuK5tDcBMFOjg.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/oU1OQrcCwSbdJoKpTxexGvGZFgOWo8LuK5tDcBMFOjg.png"
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
         }
       }
     },
     {
-      "rank": 112,
-      "previousRank": 130,
+      "rank": 113,
+      "previousRank": 113,
       "tag": "#90RVCJ82Y",
       "name": "Rare",
       "expLevel": 252,
@@ -1988,8 +1998,8 @@
       }
     },
     {
-      "rank": 113,
-      "previousRank": 177,
+      "rank": 114,
+      "previousRank": 114,
       "tag": "#RYYV8PJR",
       "name": "DaanB",
       "expLevel": 244,
@@ -2006,26 +2016,26 @@
       }
     },
     {
-      "rank": 114,
-      "previousRank": 38,
-      "tag": "#LJUPPP89",
-      "name": "『TAHA』ツ",
-      "expLevel": 269,
+      "rank": 115,
+      "previousRank": 115,
+      "tag": "#G88YG982Q",
+      "name": "تاج المعالي ❤️✨",
+      "expLevel": 238,
       "builderBaseTrophies": 5844,
       "trophies": 5844,
       "clan": {
-        "tag": "#UCR0CJY",
-        "name": "#Puzzles",
+        "tag": "#2LUPCC8G9",
+        "name": "横畝影Ｖｉｋｉｎｇｓ ᵀᵉᵃᵐ",
         "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png"
+          "small": "https://api-assets.clashofclans.com/badges/70/2wTT1cmxO-hgK29Sd6t6BoMoHX3mhVxPBEC6Se5O_rc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/2wTT1cmxO-hgK29Sd6t6BoMoHX3mhVxPBEC6Se5O_rc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/2wTT1cmxO-hgK29Sd6t6BoMoHX3mhVxPBEC6Se5O_rc.png"
         }
       }
     },
     {
-      "rank": 115,
-      "previousRank": 134,
+      "rank": 116,
+      "previousRank": 116,
       "tag": "#2J9PJ90PJ",
       "name": "ARC⚡Leo))",
       "expLevel": 233,
@@ -2042,8 +2052,44 @@
       }
     },
     {
-      "rank": 116,
-      "previousRank": 879,
+      "rank": 117,
+      "previousRank": 117,
+      "tag": "#LR0UU82P0",
+      "name": "MORTEUX",
+      "expLevel": 264,
+      "builderBaseTrophies": 5833,
+      "trophies": 5833,
+      "clan": {
+        "tag": "#VY89PL9Y",
+        "name": "Indian champion",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/tB5Xxc-UzzMYgMuKUoDhIY_Z_jW9cYK_u9NapLBZIiY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/tB5Xxc-UzzMYgMuKUoDhIY_Z_jW9cYK_u9NapLBZIiY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/tB5Xxc-UzzMYgMuKUoDhIY_Z_jW9cYK_u9NapLBZIiY.png"
+        }
+      }
+    },
+    {
+      "rank": 118,
+      "previousRank": 118,
+      "tag": "#LJUPPP89",
+      "name": "『TAHA』ツ",
+      "expLevel": 269,
+      "builderBaseTrophies": 5833,
+      "trophies": 5833,
+      "clan": {
+        "tag": "#UCR0CJY",
+        "name": "#Puzzles",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png"
+        }
+      }
+    },
+    {
+      "rank": 119,
+      "previousRank": 119,
       "tag": "#YGULQ0UPV",
       "name": "Tora bika",
       "expLevel": 238,
@@ -2060,62 +2106,8 @@
       }
     },
     {
-      "rank": 117,
-      "previousRank": 126,
-      "tag": "#9PUY2009",
-      "name": "kanpeen",
-      "expLevel": 227,
-      "builderBaseTrophies": 5832,
-      "trophies": 5832,
-      "clan": {
-        "tag": "#20U9RVRVL",
-        "name": "クラひげ盗賊団 大阪友の絆たち",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png"
-        }
-      }
-    },
-    {
-      "rank": 118,
-      "previousRank": 107,
-      "tag": "#92QJCYL90",
-      "name": "chanon",
-      "expLevel": 267,
-      "builderBaseTrophies": 5832,
-      "trophies": 5832,
-      "clan": {
-        "tag": "#2U8UV822U",
-        "name": "คิมูจิ",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/IuD30W8lcoKfT3JwrVAesVApTmgMTPaNCJakp5FaaR4.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/IuD30W8lcoKfT3JwrVAesVApTmgMTPaNCJakp5FaaR4.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/IuD30W8lcoKfT3JwrVAesVApTmgMTPaNCJakp5FaaR4.png"
-        }
-      }
-    },
-    {
-      "rank": 119,
-      "previousRank": 108,
-      "tag": "#QRGUUQ0P2",
-      "name": "マメレミヘ",
-      "expLevel": 219,
-      "builderBaseTrophies": 5832,
-      "trophies": 5832,
-      "clan": {
-        "tag": "#2G9VRJ2C8",
-        "name": "ㅤㅤㅤ",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/IuD30W8lcoKfT3JwrVAesVApTmgMTPaNCJakp5FaaR4.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/IuD30W8lcoKfT3JwrVAesVApTmgMTPaNCJakp5FaaR4.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/IuD30W8lcoKfT3JwrVAesVApTmgMTPaNCJakp5FaaR4.png"
-        }
-      }
-    },
-    {
       "rank": 120,
-      "previousRank": 76,
+      "previousRank": 120,
       "tag": "#9VR8PUGJP",
       "name": "S.I. Sajjad",
       "expLevel": 237,
@@ -2133,7 +2125,43 @@
     },
     {
       "rank": 121,
-      "previousRank": 104,
+      "previousRank": 121,
+      "tag": "#LQR0JR2RP",
+      "name": "❤sojol❤",
+      "expLevel": 266,
+      "builderBaseTrophies": 5828,
+      "trophies": 5828,
+      "clan": {
+        "tag": "#28CUG9QVL",
+        "name": "Bd king Student",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/agr1Cy6wuAwSSGkLpZT18aUem8PnLb7ZU1Df_KAS2tU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/agr1Cy6wuAwSSGkLpZT18aUem8PnLb7ZU1Df_KAS2tU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/agr1Cy6wuAwSSGkLpZT18aUem8PnLb7ZU1Df_KAS2tU.png"
+        }
+      }
+    },
+    {
+      "rank": 122,
+      "previousRank": 122,
+      "tag": "#8VUJQRRP9",
+      "name": "♎sajjad.salar♎",
+      "expLevel": 262,
+      "builderBaseTrophies": 5828,
+      "trophies": 5828,
+      "clan": {
+        "tag": "#2LUPCC8G9",
+        "name": "横畝影Ｖｉｋｉｎｇｓ ᵀᵉᵃᵐ",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/2wTT1cmxO-hgK29Sd6t6BoMoHX3mhVxPBEC6Se5O_rc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/2wTT1cmxO-hgK29Sd6t6BoMoHX3mhVxPBEC6Se5O_rc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/2wTT1cmxO-hgK29Sd6t6BoMoHX3mhVxPBEC6Se5O_rc.png"
+        }
+      }
+    },
+    {
+      "rank": 123,
+      "previousRank": 123,
       "tag": "#99CGGGRVL",
       "name": "Mekan....",
       "expLevel": 292,
@@ -2150,8 +2178,8 @@
       }
     },
     {
-      "rank": 122,
-      "previousRank": 92,
+      "rank": 124,
+      "previousRank": 124,
       "tag": "#P992CL8CR",
       "name": "7G$7G10J$17",
       "expLevel": 268,
@@ -2168,8 +2196,8 @@
       }
     },
     {
-      "rank": 123,
-      "previousRank": 109,
+      "rank": 125,
+      "previousRank": 125,
       "tag": "#P88U9J2P0",
       "name": "✨Mix✨IQ✴️حسام✴️",
       "expLevel": 244,
@@ -2186,8 +2214,8 @@
       }
     },
     {
-      "rank": 124,
-      "previousRank": 61,
+      "rank": 126,
+      "previousRank": 126,
       "tag": "#YQY90PJQG",
       "name": "Bando",
       "expLevel": 228,
@@ -2204,44 +2232,8 @@
       }
     },
     {
-      "rank": 125,
-      "previousRank": 166,
-      "tag": "#PVPU0GRJ",
-      "name": "mani",
-      "expLevel": 320,
-      "builderBaseTrophies": 5820,
-      "trophies": 5820,
-      "clan": {
-        "tag": "#2R2Y0PCJV",
-        "name": "HOME SWEET HOME",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/XfSAiePEoSrvew3JfsqCQRD4vIFi4lR1YxcnAKpWHwc.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/XfSAiePEoSrvew3JfsqCQRD4vIFi4lR1YxcnAKpWHwc.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/XfSAiePEoSrvew3JfsqCQRD4vIFi4lR1YxcnAKpWHwc.png"
-        }
-      }
-    },
-    {
-      "rank": 126,
-      "previousRank": 115,
-      "tag": "#2RY9V0R80",
-      "name": "Galactus",
-      "expLevel": 266,
-      "builderBaseTrophies": 5820,
-      "trophies": 5820,
-      "clan": {
-        "tag": "#2QVCV20L9",
-        "name": "Inferno Squad",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/jA0A1-BAutiOTM9fWQbKkXZMCteT8NswDo_QW1TSnIk.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/jA0A1-BAutiOTM9fWQbKkXZMCteT8NswDo_QW1TSnIk.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/jA0A1-BAutiOTM9fWQbKkXZMCteT8NswDo_QW1TSnIk.png"
-        }
-      }
-    },
-    {
       "rank": 127,
-      "previousRank": 140,
+      "previousRank": 127,
       "tag": "#GRPQCQUG",
       "name": "Sword",
       "expLevel": 255,
@@ -2259,25 +2251,25 @@
     },
     {
       "rank": 128,
-      "previousRank": 670,
-      "tag": "#9VQY2J0Q9",
-      "name": "SURTASH.N",
-      "expLevel": 223,
+      "previousRank": 128,
+      "tag": "#2GRG2VC0L",
+      "name": "saint",
+      "expLevel": 292,
       "builderBaseTrophies": 5813,
       "trophies": 5813,
       "clan": {
-        "tag": "#VY89PL9Y",
-        "name": "Indian champion",
+        "tag": "#YRCUGJCJ",
+        "name": "불혹만세",
         "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/tB5Xxc-UzzMYgMuKUoDhIY_Z_jW9cYK_u9NapLBZIiY.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/tB5Xxc-UzzMYgMuKUoDhIY_Z_jW9cYK_u9NapLBZIiY.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/tB5Xxc-UzzMYgMuKUoDhIY_Z_jW9cYK_u9NapLBZIiY.png"
+          "small": "https://api-assets.clashofclans.com/badges/70/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png"
         }
       }
     },
     {
       "rank": 129,
-      "previousRank": 128,
+      "previousRank": 129,
       "tag": "#Y0ULY2CRU",
       "name": "dls♦️Ｇａａｒａ 愛",
       "expLevel": 253,
@@ -2295,17 +2287,25 @@
     },
     {
       "rank": 130,
-      "previousRank": 169,
-      "tag": "#LR0UU82P0",
-      "name": "MORTEUX",
-      "expLevel": 264,
-      "builderBaseTrophies": 5809,
-      "trophies": 5809,
-      "clan": null
+      "previousRank": 130,
+      "tag": "#QRGUUQ0P2",
+      "name": "マメレミヘ",
+      "expLevel": 219,
+      "builderBaseTrophies": 5807,
+      "trophies": 5807,
+      "clan": {
+        "tag": "#2G9VRJ2C8",
+        "name": "ㅤㅤㅤ",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/IuD30W8lcoKfT3JwrVAesVApTmgMTPaNCJakp5FaaR4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/IuD30W8lcoKfT3JwrVAesVApTmgMTPaNCJakp5FaaR4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/IuD30W8lcoKfT3JwrVAesVApTmgMTPaNCJakp5FaaR4.png"
+        }
+      }
     },
     {
       "rank": 131,
-      "previousRank": 111,
+      "previousRank": 131,
       "tag": "#Y0RRQLGY0",
       "name": "❄️☁️Song.云安☁️❄️",
       "expLevel": 216,
@@ -2323,7 +2323,7 @@
     },
     {
       "rank": 132,
-      "previousRank": 347,
+      "previousRank": 132,
       "tag": "#PJ9VYV0JY",
       "name": "batman",
       "expLevel": 267,
@@ -2341,7 +2341,25 @@
     },
     {
       "rank": 133,
-      "previousRank": 129,
+      "previousRank": 133,
+      "tag": "#PVPU0GRJ",
+      "name": "mani",
+      "expLevel": 320,
+      "builderBaseTrophies": 5804,
+      "trophies": 5804,
+      "clan": {
+        "tag": "#2R2Y0PCJV",
+        "name": "HOME SWEET HOME",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/XfSAiePEoSrvew3JfsqCQRD4vIFi4lR1YxcnAKpWHwc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/XfSAiePEoSrvew3JfsqCQRD4vIFi4lR1YxcnAKpWHwc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/XfSAiePEoSrvew3JfsqCQRD4vIFi4lR1YxcnAKpWHwc.png"
+        }
+      }
+    },
+    {
+      "rank": 134,
+      "previousRank": 134,
       "tag": "#L0Y002G99",
       "name": "seint3",
       "expLevel": 275,
@@ -2358,8 +2376,8 @@
       }
     },
     {
-      "rank": 134,
-      "previousRank": 220,
+      "rank": 135,
+      "previousRank": 135,
       "tag": "#8GJ298R8",
       "name": "Daniel",
       "expLevel": 256,
@@ -2376,26 +2394,8 @@
       }
     },
     {
-      "rank": 135,
-      "previousRank": 120,
-      "tag": "#9JV28PQR",
-      "name": "J3FRI B3RRIOS",
-      "expLevel": 251,
-      "builderBaseTrophies": 5799,
-      "trophies": 5799,
-      "clan": {
-        "tag": "#2QQV8UVUU",
-        "name": "KURD",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png"
-        }
-      }
-    },
-    {
       "rank": 136,
-      "previousRank": 89,
+      "previousRank": 136,
       "tag": "#PJ0V2Y2Y0",
       "name": "Hyodo Issey",
       "expLevel": 204,
@@ -2413,7 +2413,61 @@
     },
     {
       "rank": 137,
-      "previousRank": 121,
+      "previousRank": 137,
+      "tag": "#9PV0V89J0",
+      "name": "PRASHANT",
+      "expLevel": 253,
+      "builderBaseTrophies": 5796,
+      "trophies": 5796,
+      "clan": {
+        "tag": "#YU0LQRG0",
+        "name": "Rock N Roll",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/V9sdlbwA810p3b0hUrucW4I8kdnzGqLTwbELx1KBMgQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/V9sdlbwA810p3b0hUrucW4I8kdnzGqLTwbELx1KBMgQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/V9sdlbwA810p3b0hUrucW4I8kdnzGqLTwbELx1KBMgQ.png"
+        }
+      }
+    },
+    {
+      "rank": 138,
+      "previousRank": 138,
+      "tag": "#G8RVJVVCJ",
+      "name": "solaiman007",
+      "expLevel": 230,
+      "builderBaseTrophies": 5794,
+      "trophies": 5794,
+      "clan": {
+        "tag": "#VY89PL9Y",
+        "name": "Indian champion",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/tB5Xxc-UzzMYgMuKUoDhIY_Z_jW9cYK_u9NapLBZIiY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/tB5Xxc-UzzMYgMuKUoDhIY_Z_jW9cYK_u9NapLBZIiY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/tB5Xxc-UzzMYgMuKUoDhIY_Z_jW9cYK_u9NapLBZIiY.png"
+        }
+      }
+    },
+    {
+      "rank": 139,
+      "previousRank": 139,
+      "tag": "#980UGPGY",
+      "name": "BarneyPurplDino",
+      "expLevel": 240,
+      "builderBaseTrophies": 5794,
+      "trophies": 5794,
+      "clan": {
+        "tag": "#YQUJLYVP",
+        "name": "Dark Eternal",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/j8e4iEwsiYdQFjaoHkud3He9LmtsMNxwkrZhSfnETUE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/j8e4iEwsiYdQFjaoHkud3He9LmtsMNxwkrZhSfnETUE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/j8e4iEwsiYdQFjaoHkud3He9LmtsMNxwkrZhSfnETUE.png"
+        }
+      }
+    },
+    {
+      "rank": 140,
+      "previousRank": 140,
       "tag": "#GQVQC9U9Q",
       "name": "HAo",
       "expLevel": 158,
@@ -2430,26 +2484,8 @@
       }
     },
     {
-      "rank": 138,
-      "previousRank": 206,
-      "tag": "#980UGPGY",
-      "name": "BarneyPurplDino",
-      "expLevel": 240,
-      "builderBaseTrophies": 5785,
-      "trophies": 5785,
-      "clan": {
-        "tag": "#YQUJLYVP",
-        "name": "Dark Eternal",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/9CbTwqsGl3_tzd7N4Gt5Mgqq3VcRTc9ejjAdMuCDhMI.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/9CbTwqsGl3_tzd7N4Gt5Mgqq3VcRTc9ejjAdMuCDhMI.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/9CbTwqsGl3_tzd7N4Gt5Mgqq3VcRTc9ejjAdMuCDhMI.png"
-        }
-      }
-    },
-    {
-      "rank": 139,
-      "previousRank": 123,
+      "rank": 141,
+      "previousRank": 141,
       "tag": "#8Y0JPLP9L",
       "name": "Arie Bahock☠️",
       "expLevel": 248,
@@ -2466,44 +2502,44 @@
       }
     },
     {
-      "rank": 140,
-      "previousRank": 187,
-      "tag": "#Y9GGPPQ22",
-      "name": "^_^Mr.PRËM^_^",
-      "expLevel": 261,
-      "builderBaseTrophies": 5782,
-      "trophies": 5782,
-      "clan": {
-        "tag": "#28GG2PLUV",
-        "name": "...DEADPOOL 2.O",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/FDwK67NjcQZcOR9OBlqOkx0YjvF2X1pHhVAcdjZMj8Y.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/FDwK67NjcQZcOR9OBlqOkx0YjvF2X1pHhVAcdjZMj8Y.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/FDwK67NjcQZcOR9OBlqOkx0YjvF2X1pHhVAcdjZMj8Y.png"
-        }
-      }
-    },
-    {
-      "rank": 141,
-      "previousRank": 137,
-      "tag": "#9YGCCYL2J",
-      "name": "D R I G E R",
-      "expLevel": 203,
-      "builderBaseTrophies": 5782,
-      "trophies": 5782,
-      "clan": {
-        "tag": "#2QQV8UVUU",
-        "name": "KURD",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png"
-        }
-      }
-    },
-    {
       "rank": 142,
-      "previousRank": 125,
+      "previousRank": 142,
+      "tag": "#LGJUJUY0J",
+      "name": "お猿の飼育員",
+      "expLevel": 186,
+      "builderBaseTrophies": 5779,
+      "trophies": 5779,
+      "clan": {
+        "tag": "#20U9RVRVL",
+        "name": "クラひげ盗賊団 大阪友の絆たち",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png"
+        }
+      }
+    },
+    {
+      "rank": 143,
+      "previousRank": 143,
+      "tag": "#2PJLQG2RP",
+      "name": "Hamed fard",
+      "expLevel": 290,
+      "builderBaseTrophies": 5779,
+      "trophies": 5779,
+      "clan": {
+        "tag": "#Q9CC88JJ",
+        "name": "یزدان",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Ow9OIWHXkb3D_IOBf_WGX54D0a9_-cWkltgG-ovkzkc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Ow9OIWHXkb3D_IOBf_WGX54D0a9_-cWkltgG-ovkzkc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Ow9OIWHXkb3D_IOBf_WGX54D0a9_-cWkltgG-ovkzkc.png"
+        }
+      }
+    },
+    {
+      "rank": 144,
+      "previousRank": 144,
       "tag": "#GQJJVYRP8",
       "name": "YUYOGA YTB",
       "expLevel": 188,
@@ -2520,26 +2556,62 @@
       }
     },
     {
-      "rank": 143,
-      "previousRank": 181,
-      "tag": "#YPY2JLLQV",
-      "name": "P.E.K.K.A.M.A.N",
-      "expLevel": 227,
-      "builderBaseTrophies": 5766,
-      "trophies": 5766,
+      "rank": 145,
+      "previousRank": 145,
+      "tag": "#2RY9V0R80",
+      "name": "Galactus",
+      "expLevel": 266,
+      "builderBaseTrophies": 5776,
+      "trophies": 5776,
       "clan": {
-        "tag": "#UCR0CJY",
-        "name": "#Puzzles",
+        "tag": "#2QVCV20L9",
+        "name": "Inferno Squad",
         "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png"
+          "small": "https://api-assets.clashofclans.com/badges/70/jA0A1-BAutiOTM9fWQbKkXZMCteT8NswDo_QW1TSnIk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/jA0A1-BAutiOTM9fWQbKkXZMCteT8NswDo_QW1TSnIk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/jA0A1-BAutiOTM9fWQbKkXZMCteT8NswDo_QW1TSnIk.png"
         }
       }
     },
     {
-      "rank": 144,
-      "previousRank": 207,
+      "rank": 146,
+      "previousRank": 146,
+      "tag": "#9YGCCYL2J",
+      "name": "D R I G E R",
+      "expLevel": 203,
+      "builderBaseTrophies": 5772,
+      "trophies": 5772,
+      "clan": {
+        "tag": "#2QQV8UVUU",
+        "name": "KURD",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png"
+        }
+      }
+    },
+    {
+      "rank": 147,
+      "previousRank": 147,
+      "tag": "#22QCQ9YVJ",
+      "name": "ZXw",
+      "expLevel": 249,
+      "builderBaseTrophies": 5767,
+      "trophies": 5767,
+      "clan": {
+        "tag": "#20U9RVRVL",
+        "name": "クラひげ盗賊団 大阪友の絆たち",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png"
+        }
+      }
+    },
+    {
+      "rank": 148,
+      "previousRank": 148,
       "tag": "#98CU2VQ0P",
       "name": "♕﷼MADRID ☆",
       "expLevel": 229,
@@ -2556,62 +2628,44 @@
       }
     },
     {
-      "rank": 145,
-      "previousRank": 138,
-      "tag": "#2GRG2VC0L",
-      "name": "saint",
-      "expLevel": 292,
+      "rank": 149,
+      "previousRank": 149,
+      "tag": "#9PCLQR2JL",
+      "name": "SITHUPA ROX",
+      "expLevel": 227,
+      "builderBaseTrophies": 5762,
+      "trophies": 5762,
+      "clan": {
+        "tag": "#VY89PL9Y",
+        "name": "Indian champion",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/tB5Xxc-UzzMYgMuKUoDhIY_Z_jW9cYK_u9NapLBZIiY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/tB5Xxc-UzzMYgMuKUoDhIY_Z_jW9cYK_u9NapLBZIiY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/tB5Xxc-UzzMYgMuKUoDhIY_Z_jW9cYK_u9NapLBZIiY.png"
+        }
+      }
+    },
+    {
+      "rank": 150,
+      "previousRank": 150,
+      "tag": "#QPLPRQ0C0",
+      "name": "Andrreiko",
+      "expLevel": 246,
       "builderBaseTrophies": 5760,
       "trophies": 5760,
       "clan": {
-        "tag": "#YRCUGJCJ",
-        "name": "불혹만세",
+        "tag": "#2LCJVY8UR",
+        "name": "УКРАЇНА",
         "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png"
+          "small": "https://api-assets.clashofclans.com/badges/70/ScGmW1hqHGUqA5SpKqCjWLI8SYL7_M9JpOAVgyibVjs.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ScGmW1hqHGUqA5SpKqCjWLI8SYL7_M9JpOAVgyibVjs.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ScGmW1hqHGUqA5SpKqCjWLI8SYL7_M9JpOAVgyibVjs.png"
         }
       }
     },
     {
-      "rank": 146,
-      "previousRank": 105,
-      "tag": "#9PV0V89J0",
-      "name": "PRASHANT",
-      "expLevel": 253,
-      "builderBaseTrophies": 5759,
-      "trophies": 5759,
-      "clan": {
-        "tag": "#YU0LQRG0",
-        "name": "Rock N Roll",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/V9sdlbwA810p3b0hUrucW4I8kdnzGqLTwbELx1KBMgQ.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/V9sdlbwA810p3b0hUrucW4I8kdnzGqLTwbELx1KBMgQ.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/V9sdlbwA810p3b0hUrucW4I8kdnzGqLTwbELx1KBMgQ.png"
-        }
-      }
-    },
-    {
-      "rank": 147,
-      "previousRank": 110,
-      "tag": "#QU0P8RLQU",
-      "name": "KING OF COC",
-      "expLevel": 258,
-      "builderBaseTrophies": 5756,
-      "trophies": 5756,
-      "clan": {
-        "tag": "#CQCP8QP2",
-        "name": "DiRtY SoUtH",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/RaxtPHkfA0yX_7aRYDvXW7eVU9argrCQ2mKJrKLmlWw.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/RaxtPHkfA0yX_7aRYDvXW7eVU9argrCQ2mKJrKLmlWw.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/RaxtPHkfA0yX_7aRYDvXW7eVU9argrCQ2mKJrKLmlWw.png"
-        }
-      }
-    },
-    {
-      "rank": 148,
-      "previousRank": 133,
+      "rank": 151,
+      "previousRank": 151,
       "tag": "#G9GC0UPP8",
       "name": "nass",
       "expLevel": 185,
@@ -2628,80 +2682,8 @@
       }
     },
     {
-      "rank": 149,
-      "previousRank": 97,
-      "tag": "#Q829GVUP2",
-      "name": "Ж៚αdιЖ",
-      "expLevel": 214,
-      "builderBaseTrophies": 5751,
-      "trophies": 5751,
-      "clan": {
-        "tag": "#2QQV8UVUU",
-        "name": "KURD",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png"
-        }
-      }
-    },
-    {
-      "rank": 150,
-      "previousRank": 250,
-      "tag": "#G88YG982Q",
-      "name": "تاج المعالي ❤️✨",
-      "expLevel": 238,
-      "builderBaseTrophies": 5745,
-      "trophies": 5745,
-      "clan": {
-        "tag": "#2LLRPLLCC",
-        "name": "ابطال السعوديه",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/3lrYN4w8AhMvMDhQmcM7iNQIxncW-iIbGxUK9hqy4ME.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/3lrYN4w8AhMvMDhQmcM7iNQIxncW-iIbGxUK9hqy4ME.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/3lrYN4w8AhMvMDhQmcM7iNQIxncW-iIbGxUK9hqy4ME.png"
-        }
-      }
-    },
-    {
-      "rank": 151,
-      "previousRank": 222,
-      "tag": "#9PCLQR2JL",
-      "name": "SITHUPA ROX",
-      "expLevel": 227,
-      "builderBaseTrophies": 5744,
-      "trophies": 5744,
-      "clan": {
-        "tag": "#VY89PL9Y",
-        "name": "Indian champion",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/tB5Xxc-UzzMYgMuKUoDhIY_Z_jW9cYK_u9NapLBZIiY.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/tB5Xxc-UzzMYgMuKUoDhIY_Z_jW9cYK_u9NapLBZIiY.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/tB5Xxc-UzzMYgMuKUoDhIY_Z_jW9cYK_u9NapLBZIiY.png"
-        }
-      }
-    },
-    {
       "rank": 152,
-      "previousRank": 396,
-      "tag": "#8RV22UVVG",
-      "name": "✨Mix✨Nadir",
-      "expLevel": 229,
-      "builderBaseTrophies": 5740,
-      "trophies": 5740,
-      "clan": {
-        "tag": "#UCR0CJY",
-        "name": "#Puzzles",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png"
-        }
-      }
-    },
-    {
-      "rank": 153,
-      "previousRank": 141,
+      "previousRank": 152,
       "tag": "#QRRP8LU9G",
       "name": "暗夜",
       "expLevel": 254,
@@ -2718,26 +2700,44 @@
       }
     },
     {
-      "rank": 154,
-      "previousRank": 185,
-      "tag": "#Y9QQRQQVU",
-      "name": "カピバラとヨッシー",
-      "expLevel": 262,
-      "builderBaseTrophies": 5739,
-      "trophies": 5739,
+      "rank": 153,
+      "previousRank": 153,
+      "tag": "#9JV28PQR",
+      "name": "J3FRI B3RRIOS",
+      "expLevel": 251,
+      "builderBaseTrophies": 5740,
+      "trophies": 5740,
       "clan": {
-        "tag": "#VP8UQ2R9",
-        "name": "レモンストーン窃盗団",
+        "tag": "#2QQV8UVUU",
+        "name": "KURD",
         "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/uhjVNqobBBCXn1QyzCz4nEdgbo--1J3XMAzDfscXp3s.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/uhjVNqobBBCXn1QyzCz4nEdgbo--1J3XMAzDfscXp3s.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/uhjVNqobBBCXn1QyzCz4nEdgbo--1J3XMAzDfscXp3s.png"
+          "small": "https://api-assets.clashofclans.com/badges/70/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png"
+        }
+      }
+    },
+    {
+      "rank": 154,
+      "previousRank": 154,
+      "tag": "#8RV22UVVG",
+      "name": "✨Mix✨Nadir",
+      "expLevel": 229,
+      "builderBaseTrophies": 5740,
+      "trophies": 5740,
+      "clan": {
+        "tag": "#UCR0CJY",
+        "name": "#Puzzles",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/0i4CtFrArfa4odstjP3yf64Q1c1dReDEBY5-wnrs54s.png"
         }
       }
     },
     {
       "rank": 155,
-      "previousRank": 142,
+      "previousRank": 155,
       "tag": "#9VLQ9QPR",
       "name": "HOANDZ",
       "expLevel": 270,
@@ -2755,30 +2755,12 @@
     },
     {
       "rank": 156,
-      "previousRank": 131,
-      "tag": "#YYVPYVVGV",
-      "name": "Bucky",
-      "expLevel": 221,
-      "builderBaseTrophies": 5737,
-      "trophies": 5737,
-      "clan": {
-        "tag": "#2GP992QLL",
-        "name": "Reborn",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/CA5Wbb0u_guAvM00fbdx8qUclAK9Z-Wq09UZu6VEaIU.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/CA5Wbb0u_guAvM00fbdx8qUclAK9Z-Wq09UZu6VEaIU.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/CA5Wbb0u_guAvM00fbdx8qUclAK9Z-Wq09UZu6VEaIU.png"
-        }
-      }
-    },
-    {
-      "rank": 157,
-      "previousRank": 116,
-      "tag": "#92JURYYRU",
-      "name": "⚡ saeid ⚡",
-      "expLevel": 280,
-      "builderBaseTrophies": 5737,
-      "trophies": 5737,
+      "previousRank": 156,
+      "tag": "#QCJCY822Q",
+      "name": "RAMBO",
+      "expLevel": 258,
+      "builderBaseTrophies": 5736,
+      "trophies": 5736,
       "clan": {
         "tag": "#2QQV8UVUU",
         "name": "KURD",
@@ -2790,8 +2772,8 @@
       }
     },
     {
-      "rank": 158,
-      "previousRank": 205,
+      "rank": 157,
+      "previousRank": 157,
       "tag": "#PPL0ULYVL",
       "name": "hassan nady",
       "expLevel": 235,
@@ -2808,8 +2790,26 @@
       }
     },
     {
+      "rank": 158,
+      "previousRank": 158,
+      "tag": "#QU0P8RLQU",
+      "name": "KING OF COC",
+      "expLevel": 258,
+      "builderBaseTrophies": 5735,
+      "trophies": 5735,
+      "clan": {
+        "tag": "#CQCP8QP2",
+        "name": "DiRtY SoUtH",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/RaxtPHkfA0yX_7aRYDvXW7eVU9argrCQ2mKJrKLmlWw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/RaxtPHkfA0yX_7aRYDvXW7eVU9argrCQ2mKJrKLmlWw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/RaxtPHkfA0yX_7aRYDvXW7eVU9argrCQ2mKJrKLmlWw.png"
+        }
+      }
+    },
+    {
       "rank": 159,
-      "previousRank": 127,
+      "previousRank": 159,
       "tag": "#P2QVPLYYQ",
       "name": "MrSoad",
       "expLevel": 248,
@@ -2827,7 +2827,7 @@
     },
     {
       "rank": 160,
-      "previousRank": 190,
+      "previousRank": 160,
       "tag": "#YQ82R8PLJ",
       "name": "الوحش المفترس",
       "expLevel": 249,
@@ -2845,7 +2845,7 @@
     },
     {
       "rank": 161,
-      "previousRank": 173,
+      "previousRank": 161,
       "tag": "#PGVQUCRL8",
       "name": "E❤️I✨Jihan✨✨✨",
       "expLevel": 269,
@@ -2863,7 +2863,7 @@
     },
     {
       "rank": 162,
-      "previousRank": 168,
+      "previousRank": 162,
       "tag": "#80J9P8YQV",
       "name": "Cry(;´༎ຶٹ༎ຶ`)",
       "expLevel": 262,
@@ -2881,7 +2881,7 @@
     },
     {
       "rank": 163,
-      "previousRank": 186,
+      "previousRank": 163,
       "tag": "#Q02VGLUV",
       "name": "ViRuS_eYin",
       "expLevel": 320,
@@ -2899,43 +2899,7 @@
     },
     {
       "rank": 164,
-      "previousRank": 253,
-      "tag": "#LQR0JR2RP",
-      "name": "❤sojol❤",
-      "expLevel": 266,
-      "builderBaseTrophies": 5723,
-      "trophies": 5723,
-      "clan": {
-        "tag": "#28CUG9QVL",
-        "name": "Bd king Student",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/agr1Cy6wuAwSSGkLpZT18aUem8PnLb7ZU1Df_KAS2tU.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/agr1Cy6wuAwSSGkLpZT18aUem8PnLb7ZU1Df_KAS2tU.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/agr1Cy6wuAwSSGkLpZT18aUem8PnLb7ZU1Df_KAS2tU.png"
-        }
-      }
-    },
-    {
-      "rank": 165,
-      "previousRank": 148,
-      "tag": "#QPLPRQ0C0",
-      "name": "Andrreiko",
-      "expLevel": 246,
-      "builderBaseTrophies": 5723,
-      "trophies": 5723,
-      "clan": {
-        "tag": "#2LCJVY8UR",
-        "name": "УКРАЇНА",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/ScGmW1hqHGUqA5SpKqCjWLI8SYL7_M9JpOAVgyibVjs.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/ScGmW1hqHGUqA5SpKqCjWLI8SYL7_M9JpOAVgyibVjs.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/ScGmW1hqHGUqA5SpKqCjWLI8SYL7_M9JpOAVgyibVjs.png"
-        }
-      }
-    },
-    {
-      "rank": 166,
-      "previousRank": 174,
+      "previousRank": 164,
       "tag": "#LCC9PLGRU",
       "name": "®KinG~IvaY®",
       "expLevel": 230,
@@ -2952,8 +2916,8 @@
       }
     },
     {
-      "rank": 167,
-      "previousRank": 551,
+      "rank": 165,
+      "previousRank": 165,
       "tag": "#YG9JJC8V9",
       "name": "GALADON",
       "expLevel": 235,
@@ -2970,8 +2934,8 @@
       }
     },
     {
-      "rank": 168,
-      "previousRank": 156,
+      "rank": 166,
+      "previousRank": 166,
       "tag": "#P9C9GU9VR",
       "name": "1st Kerala Boy⭐",
       "expLevel": 244,
@@ -2988,18 +2952,8 @@
       }
     },
     {
-      "rank": 169,
-      "previousRank": 152,
-      "tag": "#YP9QPGU8Q",
-      "name": "Pineapple",
-      "expLevel": 246,
-      "builderBaseTrophies": 5721,
-      "trophies": 5721,
-      "clan": null
-    },
-    {
-      "rank": 170,
-      "previousRank": 151,
+      "rank": 167,
+      "previousRank": 167,
       "tag": "#P2CJLJC9P",
       "name": "DS⚜️Devendra",
       "expLevel": 226,
@@ -3016,8 +2970,18 @@
       }
     },
     {
-      "rank": 171,
-      "previousRank": 204,
+      "rank": 168,
+      "previousRank": 168,
+      "tag": "#YP9QPGU8Q",
+      "name": "Pineapple",
+      "expLevel": 246,
+      "builderBaseTrophies": 5721,
+      "trophies": 5721,
+      "clan": null
+    },
+    {
+      "rank": 169,
+      "previousRank": 169,
       "tag": "#UPRRLJJV",
       "name": "Greggy",
       "expLevel": 239,
@@ -3034,8 +2998,8 @@
       }
     },
     {
-      "rank": 172,
-      "previousRank": 153,
+      "rank": 170,
+      "previousRank": 170,
       "tag": "#LRUPGCGC9",
       "name": "ghamdan7",
       "expLevel": 273,
@@ -3052,11 +3016,11 @@
       }
     },
     {
-      "rank": 173,
-      "previousRank": 157,
-      "tag": "#QCJCY822Q",
-      "name": "RAMBO",
-      "expLevel": 258,
+      "rank": 171,
+      "previousRank": 171,
+      "tag": "#92JURYYRU",
+      "name": "⚡ saeid ⚡",
+      "expLevel": 280,
       "builderBaseTrophies": 5719,
       "trophies": 5719,
       "clan": {
@@ -3070,8 +3034,44 @@
       }
     },
     {
+      "rank": 172,
+      "previousRank": 172,
+      "tag": "#Q2CPP0U2",
+      "name": "K．K",
+      "expLevel": 275,
+      "builderBaseTrophies": 5719,
+      "trophies": 5719,
+      "clan": {
+        "tag": "#20U9RVRVL",
+        "name": "クラひげ盗賊団 大阪友の絆たち",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png"
+        }
+      }
+    },
+    {
+      "rank": 173,
+      "previousRank": 173,
+      "tag": "#2LCYGU9J9",
+      "name": "사시스세소",
+      "expLevel": 274,
+      "builderBaseTrophies": 5718,
+      "trophies": 5718,
+      "clan": {
+        "tag": "#2RUVQ2YP0",
+        "name": "⚜️King Cyrus ⚜️",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/a86RO2P4wQTbpA9Z8DE_7I9Eg6KPtWdFr6env7eFNcM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/a86RO2P4wQTbpA9Z8DE_7I9Eg6KPtWdFr6env7eFNcM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/a86RO2P4wQTbpA9Z8DE_7I9Eg6KPtWdFr6env7eFNcM.png"
+        }
+      }
+    },
+    {
       "rank": 174,
-      "previousRank": 150,
+      "previousRank": 174,
       "tag": "#PGYU8QU9L",
       "name": "EmPeRoR",
       "expLevel": 255,
@@ -3089,7 +3089,7 @@
     },
     {
       "rank": 175,
-      "previousRank": 143,
+      "previousRank": 175,
       "tag": "#8PJ90Y2CQ",
       "name": "redex5",
       "expLevel": 230,
@@ -3107,7 +3107,25 @@
     },
     {
       "rank": 176,
-      "previousRank": 160,
+      "previousRank": 176,
+      "tag": "#LURV2RRP9",
+      "name": "وبعدين ؟",
+      "expLevel": 336,
+      "builderBaseTrophies": 5714,
+      "trophies": 5714,
+      "clan": {
+        "tag": "#2Y20L9V00",
+        "name": "الجبابرة",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/fvoF2pJTtXkG7nzx6jWYwQPbK_KyECrRV8z7Mt2KRT0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/fvoF2pJTtXkG7nzx6jWYwQPbK_KyECrRV8z7Mt2KRT0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/fvoF2pJTtXkG7nzx6jWYwQPbK_KyECrRV8z7Mt2KRT0.png"
+        }
+      }
+    },
+    {
+      "rank": 177,
+      "previousRank": 177,
       "tag": "#2QG2J8GV9",
       "name": "ARC⚡vitecom01",
       "expLevel": 283,
@@ -3124,8 +3142,44 @@
       }
     },
     {
-      "rank": 177,
-      "previousRank": 122,
+      "rank": 178,
+      "previousRank": 178,
+      "tag": "#99RCQ9GP0",
+      "name": "سحر الاردنيه",
+      "expLevel": 229,
+      "builderBaseTrophies": 5712,
+      "trophies": 5712,
+      "clan": {
+        "tag": "#J2R2YVPU",
+        "name": "ملوك كلاش",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/1Zc55CT0eolBqj1kpQ5Dz-ORAUU-KYexfAov3xEta8w.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/1Zc55CT0eolBqj1kpQ5Dz-ORAUU-KYexfAov3xEta8w.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/1Zc55CT0eolBqj1kpQ5Dz-ORAUU-KYexfAov3xEta8w.png"
+        }
+      }
+    },
+    {
+      "rank": 179,
+      "previousRank": 179,
+      "tag": "#LQ99UJLQ",
+      "name": "ll Mahonry ll ♤",
+      "expLevel": 241,
+      "builderBaseTrophies": 5711,
+      "trophies": 5711,
+      "clan": {
+        "tag": "#2G9LR8P08",
+        "name": "Caguamos",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        }
+      }
+    },
+    {
+      "rank": 180,
+      "previousRank": 180,
       "tag": "#80UJCULC9",
       "name": "IR Eroyandika",
       "expLevel": 234,
@@ -3142,8 +3196,8 @@
       }
     },
     {
-      "rank": 178,
-      "previousRank": 393,
+      "rank": 181,
+      "previousRank": 181,
       "tag": "#QG0U0RGPQ",
       "name": "Yurong",
       "expLevel": 190,
@@ -3160,116 +3214,26 @@
       }
     },
     {
-      "rank": 179,
-      "previousRank": 164,
-      "tag": "#2LCYGU9J9",
-      "name": "사시스세소",
-      "expLevel": 274,
-      "builderBaseTrophies": 5709,
-      "trophies": 5709,
-      "clan": {
-        "tag": "#2RUVQ2YP0",
-        "name": "⚜️King Cyrus ⚜️",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/a86RO2P4wQTbpA9Z8DE_7I9Eg6KPtWdFr6env7eFNcM.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/a86RO2P4wQTbpA9Z8DE_7I9Eg6KPtWdFr6env7eFNcM.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/a86RO2P4wQTbpA9Z8DE_7I9Eg6KPtWdFr6env7eFNcM.png"
-        }
-      }
-    },
-    {
-      "rank": 180,
-      "previousRank": 240,
-      "tag": "#Q2CPP0U2",
-      "name": "K．K",
-      "expLevel": 275,
-      "builderBaseTrophies": 5709,
-      "trophies": 5709,
-      "clan": {
-        "tag": "#20U9RVRVL",
-        "name": "クラひげ盗賊団 大阪友の絆たち",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png"
-        }
-      }
-    },
-    {
-      "rank": 181,
-      "previousRank": 162,
-      "tag": "#2PJLQG2RP",
-      "name": "Hamed fard",
-      "expLevel": 290,
-      "builderBaseTrophies": 5708,
-      "trophies": 5708,
-      "clan": {
-        "tag": "#Q9CC88JJ",
-        "name": "یزدان",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/Ow9OIWHXkb3D_IOBf_WGX54D0a9_-cWkltgG-ovkzkc.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/Ow9OIWHXkb3D_IOBf_WGX54D0a9_-cWkltgG-ovkzkc.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/Ow9OIWHXkb3D_IOBf_WGX54D0a9_-cWkltgG-ovkzkc.png"
-        }
-      }
-    },
-    {
       "rank": 182,
-      "previousRank": 172,
-      "tag": "#LJ0CV2JPL",
-      "name": "BENI_FESHARI",
-      "expLevel": 235,
-      "builderBaseTrophies": 5707,
-      "trophies": 5707,
+      "previousRank": 182,
+      "tag": "#9CRUYJU2J",
+      "name": "Lovo",
+      "expLevel": 255,
+      "builderBaseTrophies": 5705,
+      "trophies": 5705,
       "clan": {
-        "tag": "#2RUVQ2YP0",
-        "name": "⚜️King Cyrus ⚜️",
+        "tag": "#2G0J9PP9L",
+        "name": "B&W Rejects",
         "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/a86RO2P4wQTbpA9Z8DE_7I9Eg6KPtWdFr6env7eFNcM.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/a86RO2P4wQTbpA9Z8DE_7I9Eg6KPtWdFr6env7eFNcM.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/a86RO2P4wQTbpA9Z8DE_7I9Eg6KPtWdFr6env7eFNcM.png"
+          "small": "https://api-assets.clashofclans.com/badges/70/qEmYd92KasCa-erjK2eWbqrH2foDI5w1QO1ozwVGrZU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/qEmYd92KasCa-erjK2eWbqrH2foDI5w1QO1ozwVGrZU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/qEmYd92KasCa-erjK2eWbqrH2foDI5w1QO1ozwVGrZU.png"
         }
       }
     },
     {
       "rank": 183,
-      "previousRank": 193,
-      "tag": "#22QCQ9YVJ",
-      "name": "ZXw",
-      "expLevel": 249,
-      "builderBaseTrophies": 5705,
-      "trophies": 5705,
-      "clan": {
-        "tag": "#20U9RVRVL",
-        "name": "クラひげ盗賊団 大阪友の絆たち",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/SEHItSTaeITfhGSeKade8R4QL0rOgscO8qUF2ho6YuM.png"
-        }
-      }
-    },
-    {
-      "rank": 184,
-      "previousRank": 203,
-      "tag": "#LJPLQ9GJ",
-      "name": "☠️MmD GaminG☠️",
-      "expLevel": 230,
-      "builderBaseTrophies": 5703,
-      "trophies": 5703,
-      "clan": {
-        "tag": "#2LUPCC8G9",
-        "name": "横畝影Ｖｉｋｉｎｇｓ ᵀᵉᵃᵐ",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/2wTT1cmxO-hgK29Sd6t6BoMoHX3mhVxPBEC6Se5O_rc.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/2wTT1cmxO-hgK29Sd6t6BoMoHX3mhVxPBEC6Se5O_rc.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/2wTT1cmxO-hgK29Sd6t6BoMoHX3mhVxPBEC6Se5O_rc.png"
-        }
-      }
-    },
-    {
-      "rank": 185,
-      "previousRank": 170,
+      "previousRank": 183,
       "tag": "#QU002L88P",
       "name": "Mẽo",
       "expLevel": 262,
@@ -3286,8 +3250,26 @@
       }
     },
     {
-      "rank": 186,
-      "previousRank": 155,
+      "rank": 184,
+      "previousRank": 184,
+      "tag": "#Q829GVUP2",
+      "name": "Ж៚αdιЖ",
+      "expLevel": 214,
+      "builderBaseTrophies": 5701,
+      "trophies": 5701,
+      "clan": {
+        "tag": "#2QQV8UVUU",
+        "name": "KURD",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png"
+        }
+      }
+    },
+    {
+      "rank": 185,
+      "previousRank": 185,
       "tag": "#Q2RCC80J2",
       "name": "✣RASCAL✣™",
       "expLevel": 224,
@@ -3304,8 +3286,8 @@
       }
     },
     {
-      "rank": 187,
-      "previousRank": 175,
+      "rank": 186,
+      "previousRank": 186,
       "tag": "#8JPV9PGG2",
       "name": "スポンジボブサップ",
       "expLevel": 223,
@@ -3322,8 +3304,8 @@
       }
     },
     {
-      "rank": 188,
-      "previousRank": 703,
+      "rank": 187,
+      "previousRank": 187,
       "tag": "#YV8CLGG9V",
       "name": "Le champion",
       "expLevel": 224,
@@ -3340,8 +3322,44 @@
       }
     },
     {
+      "rank": 188,
+      "previousRank": 188,
+      "tag": "#PPUGURV0R",
+      "name": "JÚNIOR MAGNATA",
+      "expLevel": 259,
+      "builderBaseTrophies": 5695,
+      "trophies": 5695,
+      "clan": {
+        "tag": "#Q29V9Y82",
+        "name": "GUERRILHEIROS",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/OscKpo3KQ0Ii4j9otJvPLlGO4dz9CahFo-cnzZUGHPg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/OscKpo3KQ0Ii4j9otJvPLlGO4dz9CahFo-cnzZUGHPg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/OscKpo3KQ0Ii4j9otJvPLlGO4dz9CahFo-cnzZUGHPg.png"
+        }
+      }
+    },
+    {
       "rank": 189,
-      "previousRank": 178,
+      "previousRank": 189,
+      "tag": "#GPL9ULLG0",
+      "name": "ViRuS_T.S.Y",
+      "expLevel": 187,
+      "builderBaseTrophies": 5694,
+      "trophies": 5694,
+      "clan": {
+        "tag": "#80Q8LP2",
+        "name": "水木好精油",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/z35f7Fb0Xd9AFGsnC8778M9hsy5sJF_pHaMr0NAgrn4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/z35f7Fb0Xd9AFGsnC8778M9hsy5sJF_pHaMr0NAgrn4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/z35f7Fb0Xd9AFGsnC8778M9hsy5sJF_pHaMr0NAgrn4.png"
+        }
+      }
+    },
+    {
+      "rank": 190,
+      "previousRank": 190,
       "tag": "#8R8QCJJQ8",
       "name": "《\"miguelito\"》",
       "expLevel": 236,
@@ -3358,29 +3376,11 @@
       }
     },
     {
-      "rank": 190,
-      "previousRank": 103,
-      "tag": "#YJ299LQQU",
-      "name": "VE⚡️Kaelith",
-      "expLevel": 269,
-      "builderBaseTrophies": 5693,
-      "trophies": 5693,
-      "clan": {
-        "tag": "#2RU0290JC",
-        "name": "Gold",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
-        }
-      }
-    },
-    {
       "rank": 191,
-      "previousRank": 179,
+      "previousRank": 191,
       "tag": "#9LR0G2QYY",
       "name": "DS⚜️Thanigai",
-      "expLevel": 293,
+      "expLevel": 294,
       "builderBaseTrophies": 5693,
       "trophies": 5693,
       "clan": {
@@ -3395,7 +3395,7 @@
     },
     {
       "rank": 192,
-      "previousRank": 180,
+      "previousRank": 192,
       "tag": "#82V09928C",
       "name": "Aulia Siregar",
       "expLevel": 259,
@@ -3413,25 +3413,25 @@
     },
     {
       "rank": 193,
-      "previousRank": 201,
-      "tag": "#LQCQGRCV",
-      "name": "Ari",
-      "expLevel": 246,
-      "builderBaseTrophies": 5692,
-      "trophies": 5692,
+      "previousRank": 193,
+      "tag": "#YJ299LQQU",
+      "name": "VE⚡️Kaelith",
+      "expLevel": 269,
+      "builderBaseTrophies": 5693,
+      "trophies": 5693,
       "clan": {
-        "tag": "#2RC28RQ88",
-        "name": "The Creators",
+        "tag": "#2RU0290JC",
+        "name": "Gold",
         "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/amDK6k1GPaB8kurPJBfDx97Jep5sOlznkuJHjHUq9nc.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/amDK6k1GPaB8kurPJBfDx97Jep5sOlznkuJHjHUq9nc.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/amDK6k1GPaB8kurPJBfDx97Jep5sOlznkuJHjHUq9nc.png"
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
         }
       }
     },
     {
       "rank": 194,
-      "previousRank": 149,
+      "previousRank": 194,
       "tag": "#P02V2JU8V",
       "name": "Arman",
       "expLevel": 223,
@@ -3449,25 +3449,7 @@
     },
     {
       "rank": 195,
-      "previousRank": 189,
-      "tag": "#9CRUYJU2J",
-      "name": "Lovo",
-      "expLevel": 255,
-      "builderBaseTrophies": 5683,
-      "trophies": 5683,
-      "clan": {
-        "tag": "#2G0J9PP9L",
-        "name": "B&W Rejects",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/qEmYd92KasCa-erjK2eWbqrH2foDI5w1QO1ozwVGrZU.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/qEmYd92KasCa-erjK2eWbqrH2foDI5w1QO1ozwVGrZU.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/qEmYd92KasCa-erjK2eWbqrH2foDI5w1QO1ozwVGrZU.png"
-        }
-      }
-    },
-    {
-      "rank": 196,
-      "previousRank": 161,
+      "previousRank": 195,
       "tag": "#LULU82RL9",
       "name": "samad",
       "expLevel": 229,
@@ -3484,8 +3466,26 @@
       }
     },
     {
+      "rank": 196,
+      "previousRank": 196,
+      "tag": "#2UQGUCUCC",
+      "name": "Sword Rimai",
+      "expLevel": 263,
+      "builderBaseTrophies": 5678,
+      "trophies": 5678,
+      "clan": {
+        "tag": "#2LRLC8VRR",
+        "name": "TANGKHUL BOMB",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/be91HP9tshWOSRuDHt3FZl6Y5EKMtZZip5Wi3FEtGVc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/be91HP9tshWOSRuDHt3FZl6Y5EKMtZZip5Wi3FEtGVc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/be91HP9tshWOSRuDHt3FZl6Y5EKMtZZip5Wi3FEtGVc.png"
+        }
+      }
+    },
+    {
       "rank": 197,
-      "previousRank": 194,
+      "previousRank": 197,
       "tag": "#G80YG9YU",
       "name": "꧁☬Bảo☬꧂",
       "expLevel": 258,
@@ -3503,43 +3503,25 @@
     },
     {
       "rank": 198,
-      "previousRank": 145,
-      "tag": "#RUCQJGY9",
-      "name": "ALI",
-      "expLevel": 250,
+      "previousRank": 198,
+      "tag": "#QC29JL8Q8",
+      "name": "DEVIL ALTHAF",
+      "expLevel": 225,
       "builderBaseTrophies": 5676,
       "trophies": 5676,
       "clan": {
-        "tag": "#CVUCCJCR",
-        "name": "حرب الورود",
+        "tag": "#2000QQLG",
+        "name": "TheFrozenThrone",
         "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/kWUcuwdgyZ-J2PZ0B6akahgeTrW4jrKNI1uikxUL1Ag.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/kWUcuwdgyZ-J2PZ0B6akahgeTrW4jrKNI1uikxUL1Ag.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/kWUcuwdgyZ-J2PZ0B6akahgeTrW4jrKNI1uikxUL1Ag.png"
+          "small": "https://api-assets.clashofclans.com/badges/70/FoeBKgf5I2Ow7tbVKhmqr9BDn1y0i-jXkQ8rMZaUr7g.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/FoeBKgf5I2Ow7tbVKhmqr9BDn1y0i-jXkQ8rMZaUr7g.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/FoeBKgf5I2Ow7tbVKhmqr9BDn1y0i-jXkQ8rMZaUr7g.png"
         }
       }
     },
     {
       "rank": 199,
-      "previousRank": 195,
-      "tag": "#QUPYYU9V",
-      "name": "Thighbone billy",
-      "expLevel": 234,
-      "builderBaseTrophies": 5675,
-      "trophies": 5675,
-      "clan": {
-        "tag": "#2YJ92RLQ9",
-        "name": "NiceButRubbish",
-        "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/UcZX0VXd00BMvLMhjsPcU9Q_XMjr5FkdBsP_E9H8oBk.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/UcZX0VXd00BMvLMhjsPcU9Q_XMjr5FkdBsP_E9H8oBk.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/UcZX0VXd00BMvLMhjsPcU9Q_XMjr5FkdBsP_E9H8oBk.png"
-        }
-      }
-    },
-    {
-      "rank": 200,
-      "previousRank": 421,
+      "previousRank": 199,
       "tag": "#LGPP9UGUR",
       "name": "Abolfazl Rarf",
       "expLevel": 197,
@@ -3552,6 +3534,24 @@
           "small": "https://api-assets.clashofclans.com/badges/70/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
           "medium": "https://api-assets.clashofclans.com/badges/200/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png",
           "large": "https://api-assets.clashofclans.com/badges/512/RTKDxAfXDLjsJuE49KX52Ok8V0QPYStenikhb8_5EP0.png"
+        }
+      }
+    },
+    {
+      "rank": 200,
+      "previousRank": 200,
+      "tag": "#QUPYYU9V",
+      "name": "Thighbone billy",
+      "expLevel": 234,
+      "builderBaseTrophies": 5675,
+      "trophies": 5675,
+      "clan": {
+        "tag": "#2YJ92RLQ9",
+        "name": "NiceButRubbish",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UcZX0VXd00BMvLMhjsPcU9Q_XMjr5FkdBsP_E9H8oBk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UcZX0VXd00BMvLMhjsPcU9Q_XMjr5FkdBsP_E9H8oBk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UcZX0VXd00BMvLMhjsPcU9Q_XMjr5FkdBsP_E9H8oBk.png"
         }
       }
     }
