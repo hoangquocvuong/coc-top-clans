@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T23:00:06.140Z",
+  "updatedAt": "2026-10-03T11:00:06.427Z",
   "total": 200,
   "source": "Clash of Clans API",
   "clans": [
@@ -9,7 +9,7 @@
       "tag": "#2QJJP9UUU",
       "name": "Balloon Skies",
       "clanLevel": 16,
-      "members": 48,
+      "members": 49,
       "clanCapitalPoints": 6436,
       "capitalPoints": 6436,
       "location": {
@@ -51,7 +51,7 @@
       "tag": "#2RC0UCRL0",
       "name": "HASbeenDECIDED",
       "clanLevel": 15,
-      "members": 35,
+      "members": 37,
       "clanCapitalPoints": 6398,
       "capitalPoints": 6398,
       "location": null,
@@ -109,7 +109,7 @@
       "tag": "#29VGRUVLJ",
       "name": "VICTORY_HUNTER",
       "clanLevel": 26,
-      "members": 39,
+      "members": 37,
       "clanCapitalPoints": 6342,
       "capitalPoints": 6342,
       "location": {
@@ -130,7 +130,7 @@
       "tag": "#8UY90PG8",
       "name": "Adult",
       "clanLevel": 43,
-      "members": 49,
+      "members": 47,
       "clanCapitalPoints": 6339,
       "capitalPoints": 6339,
       "location": {
@@ -193,7 +193,7 @@
       "tag": "#2QQ989JQU",
       "name": "ヴィシ・ソ・ワーズ",
       "clanLevel": 29,
-      "members": 32,
+      "members": 19,
       "clanCapitalPoints": 6236,
       "capitalPoints": 6236,
       "location": {
@@ -235,7 +235,7 @@
       "tag": "#RPRJ0LCG",
       "name": "BD UNBETABLES",
       "clanLevel": 25,
-      "members": 44,
+      "members": 45,
       "clanCapitalPoints": 6213,
       "capitalPoints": 6213,
       "location": {
@@ -256,7 +256,7 @@
       "tag": "#2Q90PL8V2",
       "name": "Pink Frogs",
       "clanLevel": 19,
-      "members": 44,
+      "members": 45,
       "clanCapitalPoints": 6208,
       "capitalPoints": 6208,
       "location": {
@@ -298,7 +298,7 @@
       "tag": "#2RGGVRJC",
       "name": "オートボット",
       "clanLevel": 29,
-      "members": 23,
+      "members": 27,
       "clanCapitalPoints": 6176,
       "capitalPoints": 6176,
       "location": {
@@ -340,14 +340,14 @@
       "tag": "#2G2PJRQR",
       "name": "レガンダリーズ！！進",
       "clanLevel": 24,
-      "members": 31,
+      "members": 35,
       "clanCapitalPoints": 6168,
       "capitalPoints": 6168,
       "location": {
-        "id": 32000122,
-        "name": "Japan",
-        "isCountry": true,
-        "countryCode": "JP"
+        "id": 32000006,
+        "name": "International",
+        "isCountry": false,
+        "countryCode": ""
       },
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/KCRfagEOkCkv4yu10iuDj3DR-AyhKPzMq5ZTNf5Xdh0.png",
@@ -382,7 +382,7 @@
       "tag": "#RR229YJU",
       "name": "ROGUE ONE",
       "clanLevel": 32,
-      "members": 35,
+      "members": 36,
       "clanCapitalPoints": 6135,
       "capitalPoints": 6135,
       "location": {
@@ -403,7 +403,7 @@
       "tag": "#292L9PLR8",
       "name": "自由國度",
       "clanLevel": 34,
-      "members": 34,
+      "members": 36,
       "clanCapitalPoints": 6125,
       "capitalPoints": 6125,
       "location": {
@@ -466,7 +466,7 @@
       "tag": "#2Q9YQLY0G",
       "name": "SIVAX GAMING",
       "clanLevel": 10,
-      "members": 45,
+      "members": 46,
       "clanCapitalPoints": 6108,
       "capitalPoints": 6108,
       "location": {
@@ -487,14 +487,14 @@
       "tag": "#2GR00G080",
       "name": "木屐轻巧浸松泥",
       "clanLevel": 22,
-      "members": 26,
+      "members": 27,
       "clanCapitalPoints": 6102,
       "capitalPoints": 6102,
       "location": {
-        "id": 32000082,
-        "name": "Ethiopia",
+        "id": 32000207,
+        "name": "Seychelles",
         "isCountry": true,
-        "countryCode": "ET"
+        "countryCode": "SC"
       },
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/1i7ih62IDlZIusaVc4lNBNIQI22EfPguX8xLKiP213A.png",
@@ -508,7 +508,7 @@
       "tag": "#CGQ90LVP",
       "name": "CHANDPUR BEKING",
       "clanLevel": 27,
-      "members": 48,
+      "members": 50,
       "clanCapitalPoints": 6061,
       "capitalPoints": 6061,
       "location": {
@@ -529,7 +529,7 @@
       "tag": "#2G0Y0QVU8",
       "name": "羊群效应",
       "clanLevel": 25,
-      "members": 49,
+      "members": 48,
       "clanCapitalPoints": 6055,
       "capitalPoints": 6055,
       "location": {
@@ -613,7 +613,7 @@
       "tag": "#98QVP2RV",
       "name": "Killers.cn",
       "clanLevel": 37,
-      "members": 39,
+      "members": 40,
       "clanCapitalPoints": 6023,
       "capitalPoints": 6023,
       "location": {
@@ -652,52 +652,10 @@
     {
       "rank": 32,
       "previousRank": -1,
-      "tag": "#PU9GG8U8",
-      "name": "Altin Ordu",
-      "clanLevel": 29,
-      "members": 20,
-      "clanCapitalPoints": 6005,
-      "capitalPoints": 6005,
-      "location": {
-        "id": 32000239,
-        "name": "Türkiye",
-        "isCountry": true,
-        "countryCode": "TR"
-      },
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/2BfMFU1aqtln6DfNpzm8OxVNesm7ILIwh42pAow4zNo.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/2BfMFU1aqtln6DfNpzm8OxVNesm7ILIwh42pAow4zNo.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/2BfMFU1aqtln6DfNpzm8OxVNesm7ILIwh42pAow4zNo.png"
-      }
-    },
-    {
-      "rank": 33,
-      "previousRank": -1,
-      "tag": "#YCL9J2QC",
-      "name": "P.Z Family",
-      "clanLevel": 28,
-      "members": 49,
-      "clanCapitalPoints": 6005,
-      "capitalPoints": 6005,
-      "location": {
-        "id": 32000114,
-        "name": "Indonesia",
-        "isCountry": true,
-        "countryCode": "ID"
-      },
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/6v8MEqTzqw6BsLINEyu9g6eZLyAp_YD-kzoklmftnqU.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/6v8MEqTzqw6BsLINEyu9g6eZLyAp_YD-kzoklmftnqU.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/6v8MEqTzqw6BsLINEyu9g6eZLyAp_YD-kzoklmftnqU.png"
-      }
-    },
-    {
-      "rank": 34,
-      "previousRank": -1,
       "tag": "#V9V9YQQ2",
       "name": "العراق الجريح 2",
       "clanLevel": 11,
-      "members": 47,
+      "members": 46,
       "clanCapitalPoints": 6005,
       "capitalPoints": 6005,
       "location": {
@@ -713,12 +671,54 @@
       }
     },
     {
+      "rank": 33,
+      "previousRank": -1,
+      "tag": "#PU9GG8U8",
+      "name": "Altin Ordu",
+      "clanLevel": 29,
+      "members": 19,
+      "clanCapitalPoints": 6005,
+      "capitalPoints": 6005,
+      "location": {
+        "id": 32000239,
+        "name": "Türkiye",
+        "isCountry": true,
+        "countryCode": "TR"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/2BfMFU1aqtln6DfNpzm8OxVNesm7ILIwh42pAow4zNo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/2BfMFU1aqtln6DfNpzm8OxVNesm7ILIwh42pAow4zNo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/2BfMFU1aqtln6DfNpzm8OxVNesm7ILIwh42pAow4zNo.png"
+      }
+    },
+    {
+      "rank": 34,
+      "previousRank": -1,
+      "tag": "#YCL9J2QC",
+      "name": "P.Z Family",
+      "clanLevel": 28,
+      "members": 50,
+      "clanCapitalPoints": 6005,
+      "capitalPoints": 6005,
+      "location": {
+        "id": 32000114,
+        "name": "Indonesia",
+        "isCountry": true,
+        "countryCode": "ID"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/6v8MEqTzqw6BsLINEyu9g6eZLyAp_YD-kzoklmftnqU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/6v8MEqTzqw6BsLINEyu9g6eZLyAp_YD-kzoklmftnqU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/6v8MEqTzqw6BsLINEyu9g6eZLyAp_YD-kzoklmftnqU.png"
+      }
+    },
+    {
       "rank": 35,
       "previousRank": -1,
       "tag": "#2G8G09PJV",
       "name": "Potent Kimbaps",
       "clanLevel": 19,
-      "members": 49,
+      "members": 50,
       "clanCapitalPoints": 5992,
       "capitalPoints": 5992,
       "location": {
@@ -739,7 +739,7 @@
       "tag": "#2LJQJVPQJ",
       "name": "Pedestal Devil",
       "clanLevel": 20,
-      "members": 24,
+      "members": 5,
       "clanCapitalPoints": 5990,
       "capitalPoints": 5990,
       "location": {
@@ -781,7 +781,7 @@
       "tag": "#2UQPQLV8",
       "name": "ARJUNA BOGOR",
       "clanLevel": 35,
-      "members": 16,
+      "members": 17,
       "clanCapitalPoints": 5961,
       "capitalPoints": 5961,
       "location": {
@@ -823,7 +823,7 @@
       "tag": "#2QCG28U8G",
       "name": "Thần_Nữ",
       "clanLevel": 25,
-      "members": 41,
+      "members": 44,
       "clanCapitalPoints": 5926,
       "capitalPoints": 5926,
       "location": {
@@ -844,7 +844,7 @@
       "tag": "#2GLC08VCL",
       "name": "Fate of Angels",
       "clanLevel": 28,
-      "members": 21,
+      "members": 26,
       "clanCapitalPoints": 5910,
       "capitalPoints": 5910,
       "location": {
@@ -907,7 +907,7 @@
       "tag": "#RPYVCYL",
       "name": "suomi 100",
       "clanLevel": 33,
-      "members": 19,
+      "members": 17,
       "clanCapitalPoints": 5890,
       "capitalPoints": 5890,
       "location": {
@@ -928,7 +928,7 @@
       "tag": "#YVJPGQ99",
       "name": "THE LEGGEND",
       "clanLevel": 23,
-      "members": 36,
+      "members": 38,
       "clanCapitalPoints": 5885,
       "capitalPoints": 5885,
       "location": {
@@ -949,7 +949,7 @@
       "tag": "#2G2YR2Q0G",
       "name": "OG KINGDOM ❗",
       "clanLevel": 17,
-      "members": 21,
+      "members": 20,
       "clanCapitalPoints": 5879,
       "capitalPoints": 5879,
       "location": {
@@ -970,7 +970,7 @@
       "tag": "#RGCRR02Q",
       "name": "Fighter boys",
       "clanLevel": 21,
-      "members": 48,
+      "members": 46,
       "clanCapitalPoints": 5878,
       "capitalPoints": 5878,
       "location": {
@@ -991,7 +991,7 @@
       "tag": "#2QG0QR8PL",
       "name": "BLOOD RIDERS",
       "clanLevel": 19,
-      "members": 49,
+      "members": 47,
       "clanCapitalPoints": 5828,
       "capitalPoints": 5828,
       "location": {
@@ -1012,7 +1012,7 @@
       "tag": "#9V288Y9G",
       "name": "KaRmA TeAm® 2.0",
       "clanLevel": 29,
-      "members": 24,
+      "members": 23,
       "clanCapitalPoints": 5824,
       "capitalPoints": 5824,
       "location": {
@@ -1033,7 +1033,7 @@
       "tag": "#C8LYPGVU",
       "name": "轟天OROCHI",
       "clanLevel": 31,
-      "members": 25,
+      "members": 35,
       "clanCapitalPoints": 5824,
       "capitalPoints": 5824,
       "location": {
@@ -1054,7 +1054,7 @@
       "tag": "#2QGLV0C9L",
       "name": "GP Ultima",
       "clanLevel": 23,
-      "members": 27,
+      "members": 18,
       "clanCapitalPoints": 5819,
       "capitalPoints": 5819,
       "location": {
@@ -1075,7 +1075,7 @@
       "tag": "#2GRPUULCJ",
       "name": "モ'★Eutanasia`✽♥",
       "clanLevel": 9,
-      "members": 41,
+      "members": 46,
       "clanCapitalPoints": 5811,
       "capitalPoints": 5811,
       "location": {
@@ -1085,9 +1085,9 @@
         "countryCode": ""
       },
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/2c76mW4IYfhFKu_BdNXfW_ar6vazoh0QZ2acSvoGYu4.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/2c76mW4IYfhFKu_BdNXfW_ar6vazoh0QZ2acSvoGYu4.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/2c76mW4IYfhFKu_BdNXfW_ar6vazoh0QZ2acSvoGYu4.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/3JAw6VRENkflGzoBDUVOlW1GOE8-KT5B1HaB19BQJBc.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/3JAw6VRENkflGzoBDUVOlW1GOE8-KT5B1HaB19BQJBc.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/3JAw6VRENkflGzoBDUVOlW1GOE8-KT5B1HaB19BQJBc.png"
       }
     },
     {
@@ -1138,7 +1138,7 @@
       "tag": "#P2R90R0R",
       "name": "RomaniaFTW",
       "clanLevel": 36,
-      "members": 30,
+      "members": 31,
       "clanCapitalPoints": 5774,
       "capitalPoints": 5774,
       "location": {
@@ -1159,7 +1159,7 @@
       "tag": "#2G2LLUPUJ",
       "name": "NuclearWinter",
       "clanLevel": 24,
-      "members": 38,
+      "members": 37,
       "clanCapitalPoints": 5760,
       "capitalPoints": 5760,
       "location": {
@@ -1222,7 +1222,7 @@
       "tag": "#2LRPQL0RJ",
       "name": "Peña Orion",
       "clanLevel": 20,
-      "members": 43,
+      "members": 35,
       "clanCapitalPoints": 5733,
       "capitalPoints": 5733,
       "location": {
@@ -1243,7 +1243,7 @@
       "tag": "#2LQ92L809",
       "name": "INDO 8.6",
       "clanLevel": 25,
-      "members": 47,
+      "members": 40,
       "clanCapitalPoints": 5732,
       "capitalPoints": 5732,
       "location": {
@@ -1264,7 +1264,7 @@
       "tag": "#2LCGJCURC",
       "name": "Brothers",
       "clanLevel": 22,
-      "members": 20,
+      "members": 21,
       "clanCapitalPoints": 5729,
       "capitalPoints": 5729,
       "location": {
@@ -1285,7 +1285,7 @@
       "tag": "#8PYG2PGL",
       "name": "流浪者之家",
       "clanLevel": 24,
-      "members": 36,
+      "members": 27,
       "clanCapitalPoints": 5717,
       "capitalPoints": 5717,
       "location": {
@@ -1306,7 +1306,7 @@
       "tag": "#PPLVQY2U",
       "name": "Forbidden Realm",
       "clanLevel": 29,
-      "members": 50,
+      "members": 44,
       "clanCapitalPoints": 5717,
       "capitalPoints": 5717,
       "location": {
@@ -1323,6 +1323,27 @@
     },
     {
       "rank": 64,
+      "previousRank": -1,
+      "tag": "#2LRJQCJP9",
+      "name": "ËLÏSYÜM",
+      "clanLevel": 23,
+      "members": 25,
+      "clanCapitalPoints": 5716,
+      "capitalPoints": 5716,
+      "location": {
+        "id": 32000034,
+        "name": "Bolivia",
+        "isCountry": true,
+        "countryCode": "BO"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/jWESO34Jypn0nNZgOfdtNtBu6o5Z3pSIyjN5YFPJeVk.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/jWESO34Jypn0nNZgOfdtNtBu6o5Z3pSIyjN5YFPJeVk.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/jWESO34Jypn0nNZgOfdtNtBu6o5Z3pSIyjN5YFPJeVk.png"
+      }
+    },
+    {
+      "rank": 65,
       "previousRank": -1,
       "tag": "#2QGPCVP9L",
       "name": "guigoninha",
@@ -1343,28 +1364,28 @@
       }
     },
     {
-      "rank": 65,
+      "rank": 66,
       "previousRank": -1,
-      "tag": "#2LRJQCJP9",
-      "name": "ËLÏSYÜM",
-      "clanLevel": 23,
-      "members": 27,
-      "clanCapitalPoints": 5716,
-      "capitalPoints": 5716,
+      "tag": "#QJ0GVP90",
+      "name": "ملوك الظلام",
+      "clanLevel": 25,
+      "members": 40,
+      "clanCapitalPoints": 5702,
+      "capitalPoints": 5702,
       "location": {
-        "id": 32000034,
-        "name": "Bolivia",
+        "id": 32000124,
+        "name": "Jordan",
         "isCountry": true,
-        "countryCode": "BO"
+        "countryCode": "JO"
       },
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/jWESO34Jypn0nNZgOfdtNtBu6o5Z3pSIyjN5YFPJeVk.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/jWESO34Jypn0nNZgOfdtNtBu6o5Z3pSIyjN5YFPJeVk.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/jWESO34Jypn0nNZgOfdtNtBu6o5Z3pSIyjN5YFPJeVk.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/TUS9hvgUh8yABgP4eKOXLwNynr0eXJjhdcu_jtceuMg.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TUS9hvgUh8yABgP4eKOXLwNynr0eXJjhdcu_jtceuMg.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TUS9hvgUh8yABgP4eKOXLwNynr0eXJjhdcu_jtceuMg.png"
       }
     },
     {
-      "rank": 66,
+      "rank": 67,
       "previousRank": -1,
       "tag": "#CG8PU8C9",
       "name": "دوستان همیشگی",
@@ -1385,12 +1406,12 @@
       }
     },
     {
-      "rank": 67,
+      "rank": 68,
       "previousRank": -1,
       "tag": "#8Q0GR2UU",
       "name": "smasher",
       "clanLevel": 24,
-      "members": 48,
+      "members": 49,
       "clanCapitalPoints": 5702,
       "capitalPoints": 5702,
       "location": {
@@ -1406,33 +1427,12 @@
       }
     },
     {
-      "rank": 68,
-      "previousRank": -1,
-      "tag": "#QJ0GVP90",
-      "name": "ملوك الظلام",
-      "clanLevel": 25,
-      "members": 35,
-      "clanCapitalPoints": 5702,
-      "capitalPoints": 5702,
-      "location": {
-        "id": 32000124,
-        "name": "Jordan",
-        "isCountry": true,
-        "countryCode": "JO"
-      },
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/TUS9hvgUh8yABgP4eKOXLwNynr0eXJjhdcu_jtceuMg.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/TUS9hvgUh8yABgP4eKOXLwNynr0eXJjhdcu_jtceuMg.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/TUS9hvgUh8yABgP4eKOXLwNynr0eXJjhdcu_jtceuMg.png"
-      }
-    },
-    {
       "rank": 69,
       "previousRank": -1,
       "tag": "#RULQR2UC",
       "name": "UNIK",
       "clanLevel": 32,
-      "members": 40,
+      "members": 42,
       "clanCapitalPoints": 5698,
       "capitalPoints": 5698,
       "location": {
@@ -1453,7 +1453,7 @@
       "tag": "#2R2VCPJU",
       "name": "Roca Dragon",
       "clanLevel": 29,
-      "members": 33,
+      "members": 32,
       "clanCapitalPoints": 5693,
       "capitalPoints": 5693,
       "location": {
@@ -1474,7 +1474,7 @@
       "tag": "#2J2LJRGGG",
       "name": "Rebelles",
       "clanLevel": 19,
-      "members": 14,
+      "members": 19,
       "clanCapitalPoints": 5693,
       "capitalPoints": 5693,
       "location": {
@@ -1537,7 +1537,7 @@
       "tag": "#2Y9R8LUJ8",
       "name": "ist mir egal",
       "clanLevel": 17,
-      "members": 28,
+      "members": 30,
       "clanCapitalPoints": 5689,
       "capitalPoints": 5689,
       "location": {
@@ -1558,14 +1558,14 @@
       "tag": "#29RCYUCJP",
       "name": "نـسمةة شــوك",
       "clanLevel": 26,
-      "members": 18,
+      "members": 23,
       "clanCapitalPoints": 5685,
       "capitalPoints": 5685,
       "location": {
-        "id": 32000267,
-        "name": "Asia",
+        "id": 32000256,
+        "name": "Wallis and Futuna",
         "isCountry": true,
-        "countryCode": "AP"
+        "countryCode": "WF"
       },
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/3f2vyfQjGCe5dpEmUaNaheWRC5gKXI33tYSjwE39jnI.png",
@@ -1579,7 +1579,7 @@
       "tag": "#80C8282L",
       "name": "Pars Group",
       "clanLevel": 39,
-      "members": 7,
+      "members": 8,
       "clanCapitalPoints": 5683,
       "capitalPoints": 5683,
       "location": {
@@ -1621,7 +1621,7 @@
       "tag": "#20JR0PCJY",
       "name": "BD(FIGHTER)",
       "clanLevel": 20,
-      "members": 36,
+      "members": 35,
       "clanCapitalPoints": 5673,
       "capitalPoints": 5673,
       "location": {
@@ -1639,31 +1639,10 @@
     {
       "rank": 79,
       "previousRank": -1,
-      "tag": "#RG9LRR8G",
-      "name": "WARRIOR GUYS",
-      "clanLevel": 30,
-      "members": 42,
-      "clanCapitalPoints": 5668,
-      "capitalPoints": 5668,
-      "location": {
-        "id": 32000165,
-        "name": "Nepal",
-        "isCountry": true,
-        "countryCode": "NP"
-      },
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/wzO9NyM2A0s-dwj4WMdoM1ItAUeoDlwjx4n6s50DWF8.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/wzO9NyM2A0s-dwj4WMdoM1ItAUeoDlwjx4n6s50DWF8.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/wzO9NyM2A0s-dwj4WMdoM1ItAUeoDlwjx4n6s50DWF8.png"
-      }
-    },
-    {
-      "rank": 80,
-      "previousRank": -1,
       "tag": "#2QQ2L9VCV",
       "name": "samarqand_klan",
       "clanLevel": 25,
-      "members": 46,
+      "members": 48,
       "clanCapitalPoints": 5668,
       "capitalPoints": 5668,
       "location": {
@@ -1679,12 +1658,33 @@
       }
     },
     {
+      "rank": 80,
+      "previousRank": -1,
+      "tag": "#RG9LRR8G",
+      "name": "WARRIOR GUYS",
+      "clanLevel": 30,
+      "members": 43,
+      "clanCapitalPoints": 5668,
+      "capitalPoints": 5668,
+      "location": {
+        "id": 32000165,
+        "name": "Nepal",
+        "isCountry": true,
+        "countryCode": "NP"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/wzO9NyM2A0s-dwj4WMdoM1ItAUeoDlwjx4n6s50DWF8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/wzO9NyM2A0s-dwj4WMdoM1ItAUeoDlwjx4n6s50DWF8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/wzO9NyM2A0s-dwj4WMdoM1ItAUeoDlwjx4n6s50DWF8.png"
+      }
+    },
+    {
       "rank": 81,
       "previousRank": -1,
       "tag": "#LL82VVGV",
       "name": "INDIAN WIZARDS",
       "clanLevel": 23,
-      "members": 37,
+      "members": 40,
       "clanCapitalPoints": 5667,
       "capitalPoints": 5667,
       "location": {
@@ -1705,7 +1705,7 @@
       "tag": "#2QR0PRPUY",
       "name": "Sarms Goblins",
       "clanLevel": 28,
-      "members": 13,
+      "members": 16,
       "clanCapitalPoints": 5665,
       "capitalPoints": 5665,
       "location": {
@@ -1726,7 +1726,7 @@
       "tag": "#2PRRJLV0V",
       "name": "Rautela bhai",
       "clanLevel": 27,
-      "members": 47,
+      "members": 50,
       "clanCapitalPoints": 5659,
       "capitalPoints": 5659,
       "location": {
@@ -1744,27 +1744,6 @@
     {
       "rank": 84,
       "previousRank": -1,
-      "tag": "#J0JVL82",
-      "name": "Тернопіль'",
-      "clanLevel": 34,
-      "members": 17,
-      "clanCapitalPoints": 5658,
-      "capitalPoints": 5658,
-      "location": {
-        "id": 32000246,
-        "name": "Ukraine",
-        "isCountry": true,
-        "countryCode": "UA"
-      },
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/dmb292KkPhxa76Vi3A1hmtqmUC16nQ__rNt3zfEA9O0.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/dmb292KkPhxa76Vi3A1hmtqmUC16nQ__rNt3zfEA9O0.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/dmb292KkPhxa76Vi3A1hmtqmUC16nQ__rNt3zfEA9O0.png"
-      }
-    },
-    {
-      "rank": 85,
-      "previousRank": -1,
       "tag": "#2CY82809R",
       "name": "Toman 東",
       "clanLevel": 7,
@@ -1781,6 +1760,27 @@
         "small": "https://api-assets.clashofclans.com/badges/70/V2JKxsBWdUA71gs-4-xI_9DfqS0y3ju0EdfkBuNjbiw.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/V2JKxsBWdUA71gs-4-xI_9DfqS0y3ju0EdfkBuNjbiw.png",
         "large": "https://api-assets.clashofclans.com/badges/512/V2JKxsBWdUA71gs-4-xI_9DfqS0y3ju0EdfkBuNjbiw.png"
+      }
+    },
+    {
+      "rank": 85,
+      "previousRank": -1,
+      "tag": "#J0JVL82",
+      "name": "Тернопіль'",
+      "clanLevel": 34,
+      "members": 21,
+      "clanCapitalPoints": 5658,
+      "capitalPoints": 5658,
+      "location": {
+        "id": 32000246,
+        "name": "Ukraine",
+        "isCountry": true,
+        "countryCode": "UA"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/dmb292KkPhxa76Vi3A1hmtqmUC16nQ__rNt3zfEA9O0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/dmb292KkPhxa76Vi3A1hmtqmUC16nQ__rNt3zfEA9O0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/dmb292KkPhxa76Vi3A1hmtqmUC16nQ__rNt3zfEA9O0.png"
       }
     },
     {
@@ -1810,7 +1810,7 @@
       "tag": "#L99YJJC0",
       "name": "War Heros",
       "clanLevel": 34,
-      "members": 37,
+      "members": 39,
       "clanCapitalPoints": 5656,
       "capitalPoints": 5656,
       "location": {
@@ -1873,7 +1873,7 @@
       "tag": "#2LL2UYPRR",
       "name": "Eleio Gaming",
       "clanLevel": 26,
-      "members": 48,
+      "members": 50,
       "clanCapitalPoints": 5646,
       "capitalPoints": 5646,
       "location": {
@@ -1936,7 +1936,7 @@
       "tag": "#LQ9G0G89",
       "name": "gobling war",
       "clanLevel": 25,
-      "members": 16,
+      "members": 17,
       "clanCapitalPoints": 5641,
       "capitalPoints": 5641,
       "location": {
@@ -1957,7 +1957,7 @@
       "tag": "#2G9RCGYYL",
       "name": "☠️YaKuZa☠️",
       "clanLevel": 20,
-      "members": 40,
+      "members": 33,
       "clanCapitalPoints": 5638,
       "capitalPoints": 5638,
       "location": {
@@ -1999,7 +1999,7 @@
       "tag": "#2GVUGG8JR",
       "name": "Royal family⚓",
       "clanLevel": 20,
-      "members": 19,
+      "members": 20,
       "clanCapitalPoints": 5631,
       "capitalPoints": 5631,
       "location": {
@@ -2017,22 +2017,22 @@
     {
       "rank": 97,
       "previousRank": -1,
-      "tag": "#2Y8RQYRRJ",
-      "name": "'★'Ｅ Ｌ Ｉ Ｔ Ａ'★'",
-      "clanLevel": 29,
-      "members": 8,
+      "tag": "#2Q9CJRYGQ",
+      "name": "✨PAM✨",
+      "clanLevel": 12,
+      "members": 31,
       "clanCapitalPoints": 5630,
       "capitalPoints": 5630,
       "location": {
-        "id": 32000125,
-        "name": "Kazakhstan",
+        "id": 32000152,
+        "name": "Mayotte",
         "isCountry": true,
-        "countryCode": "KZ"
+        "countryCode": "YT"
       },
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/1vnLuP_2pqCJOvn0L3PP7K1zsUsNwe4Zzz1HfpS5qEo.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/1vnLuP_2pqCJOvn0L3PP7K1zsUsNwe4Zzz1HfpS5qEo.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/1vnLuP_2pqCJOvn0L3PP7K1zsUsNwe4Zzz1HfpS5qEo.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/IcZM8UoxZ5hU8YH5RRRr2NVxrtkYJq-wwsjlosPogmA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/IcZM8UoxZ5hU8YH5RRRr2NVxrtkYJq-wwsjlosPogmA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/IcZM8UoxZ5hU8YH5RRRr2NVxrtkYJq-wwsjlosPogmA.png"
       }
     },
     {
@@ -2041,7 +2041,7 @@
       "tag": "#2LPP9GYVG",
       "name": "ابواصبع",
       "clanLevel": 26,
-      "members": 29,
+      "members": 43,
       "clanCapitalPoints": 5630,
       "capitalPoints": 5630,
       "location": {
@@ -2059,22 +2059,22 @@
     {
       "rank": 99,
       "previousRank": -1,
-      "tag": "#2Q9CJRYGQ",
-      "name": "✨PAM✨",
-      "clanLevel": 12,
-      "members": 31,
+      "tag": "#2Y8RQYRRJ",
+      "name": "'★'Ｅ Ｌ Ｉ Ｔ Ａ'★'",
+      "clanLevel": 29,
+      "members": 17,
       "clanCapitalPoints": 5630,
       "capitalPoints": 5630,
       "location": {
-        "id": 32000152,
-        "name": "Mayotte",
+        "id": 32000125,
+        "name": "Kazakhstan",
         "isCountry": true,
-        "countryCode": "YT"
+        "countryCode": "KZ"
       },
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/IcZM8UoxZ5hU8YH5RRRr2NVxrtkYJq-wwsjlosPogmA.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/IcZM8UoxZ5hU8YH5RRRr2NVxrtkYJq-wwsjlosPogmA.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/IcZM8UoxZ5hU8YH5RRRr2NVxrtkYJq-wwsjlosPogmA.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/1vnLuP_2pqCJOvn0L3PP7K1zsUsNwe4Zzz1HfpS5qEo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/1vnLuP_2pqCJOvn0L3PP7K1zsUsNwe4Zzz1HfpS5qEo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/1vnLuP_2pqCJOvn0L3PP7K1zsUsNwe4Zzz1HfpS5qEo.png"
       }
     },
     {
@@ -2104,7 +2104,7 @@
       "tag": "#2G2QCC2LR",
       "name": "BANGLADESH CLAN",
       "clanLevel": 25,
-      "members": 34,
+      "members": 31,
       "clanCapitalPoints": 5629,
       "capitalPoints": 5629,
       "location": {
@@ -2146,7 +2146,7 @@
       "tag": "#2G0VJ8CYV",
       "name": "Терновый Джин",
       "clanLevel": 24,
-      "members": 17,
+      "members": 18,
       "clanCapitalPoints": 5628,
       "capitalPoints": 5628,
       "location": {
@@ -2167,7 +2167,7 @@
       "tag": "#P0CL8LPU",
       "name": "*BELIM*",
       "clanLevel": 25,
-      "members": 32,
+      "members": 34,
       "clanCapitalPoints": 5627,
       "capitalPoints": 5627,
       "location": {
@@ -2188,7 +2188,7 @@
       "tag": "#2QYGQYQ09",
       "name": "Astra.com",
       "clanLevel": 23,
-      "members": 28,
+      "members": 12,
       "clanCapitalPoints": 5627,
       "capitalPoints": 5627,
       "location": {
@@ -2206,31 +2206,10 @@
     {
       "rank": 106,
       "previousRank": -1,
-      "tag": "#2922UVYGU",
-      "name": "RAJA COC",
-      "clanLevel": 35,
-      "members": 30,
-      "clanCapitalPoints": 5625,
-      "capitalPoints": 5625,
-      "location": {
-        "id": 32000114,
-        "name": "Indonesia",
-        "isCountry": true,
-        "countryCode": "ID"
-      },
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/cGmTZHdrVymmpoWqVdhk-Jn6ByONGlSlMbWNk-DIRww.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/cGmTZHdrVymmpoWqVdhk-Jn6ByONGlSlMbWNk-DIRww.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/cGmTZHdrVymmpoWqVdhk-Jn6ByONGlSlMbWNk-DIRww.png"
-      }
-    },
-    {
-      "rank": 107,
-      "previousRank": -1,
       "tag": "#L9U2P088",
       "name": "Bd vs bd",
       "clanLevel": 37,
-      "members": 27,
+      "members": 28,
       "clanCapitalPoints": 5625,
       "capitalPoints": 5625,
       "location": {
@@ -2246,28 +2225,28 @@
       }
     },
     {
-      "rank": 108,
+      "rank": 107,
       "previousRank": -1,
-      "tag": "#JY8Y2V9R",
-      "name": "天の浮舟",
-      "clanLevel": 30,
-      "members": 16,
-      "clanCapitalPoints": 5622,
-      "capitalPoints": 5622,
+      "tag": "#2922UVYGU",
+      "name": "RAJA COC",
+      "clanLevel": 35,
+      "members": 15,
+      "clanCapitalPoints": 5625,
+      "capitalPoints": 5625,
       "location": {
-        "id": 32000122,
-        "name": "Japan",
+        "id": 32000114,
+        "name": "Indonesia",
         "isCountry": true,
-        "countryCode": "JP"
+        "countryCode": "ID"
       },
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/7Xys_1PJk9dhMznRNEEnBRJ5vkxJG1R3ZwMT2hmXyUM.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/7Xys_1PJk9dhMznRNEEnBRJ5vkxJG1R3ZwMT2hmXyUM.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/7Xys_1PJk9dhMznRNEEnBRJ5vkxJG1R3ZwMT2hmXyUM.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/cGmTZHdrVymmpoWqVdhk-Jn6ByONGlSlMbWNk-DIRww.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/cGmTZHdrVymmpoWqVdhk-Jn6ByONGlSlMbWNk-DIRww.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/cGmTZHdrVymmpoWqVdhk-Jn6ByONGlSlMbWNk-DIRww.png"
       }
     },
     {
-      "rank": 109,
+      "rank": 108,
       "previousRank": -1,
       "tag": "#2Q92UY0VJ",
       "name": "THE BEST CLAN",
@@ -2288,12 +2267,33 @@
       }
     },
     {
+      "rank": 109,
+      "previousRank": -1,
+      "tag": "#JY8Y2V9R",
+      "name": "天の浮舟",
+      "clanLevel": 30,
+      "members": 16,
+      "clanCapitalPoints": 5622,
+      "capitalPoints": 5622,
+      "location": {
+        "id": 32000122,
+        "name": "Japan",
+        "isCountry": true,
+        "countryCode": "JP"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/7Xys_1PJk9dhMznRNEEnBRJ5vkxJG1R3ZwMT2hmXyUM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/7Xys_1PJk9dhMznRNEEnBRJ5vkxJG1R3ZwMT2hmXyUM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/7Xys_1PJk9dhMznRNEEnBRJ5vkxJG1R3ZwMT2hmXyUM.png"
+      }
+    },
+    {
       "rank": 110,
       "previousRank": -1,
       "tag": "#2YVLC0UP0",
       "name": "INZENER",
       "clanLevel": 28,
-      "members": 29,
+      "members": 32,
       "clanCapitalPoints": 5621,
       "capitalPoints": 5621,
       "location": {
@@ -2335,7 +2335,7 @@
       "tag": "#YU9VL9V0",
       "name": "FLIRT aNd LOVE",
       "clanLevel": 21,
-      "members": 27,
+      "members": 24,
       "clanCapitalPoints": 5617,
       "capitalPoints": 5617,
       "location": {
@@ -2356,7 +2356,7 @@
       "tag": "#GGQVGYGU",
       "name": "رفقای با مرام",
       "clanLevel": 26,
-      "members": 24,
+      "members": 23,
       "clanCapitalPoints": 5616,
       "capitalPoints": 5616,
       "location": {
@@ -2398,7 +2398,7 @@
       "tag": "#2JCJ0JC0C",
       "name": "GALAXY ELITE",
       "clanLevel": 18,
-      "members": 32,
+      "members": 29,
       "clanCapitalPoints": 5614,
       "capitalPoints": 5614,
       "location": {
@@ -2419,7 +2419,7 @@
       "tag": "#2YLRQ09QR",
       "name": "ЛЮДИ ЯК КОРАБЛІ",
       "clanLevel": 25,
-      "members": 45,
+      "members": 44,
       "clanCapitalPoints": 5612,
       "capitalPoints": 5612,
       "location": {
@@ -2440,7 +2440,7 @@
       "tag": "#22U9P82U9",
       "name": "Drabär2",
       "clanLevel": 23,
-      "members": 49,
+      "members": 4,
       "clanCapitalPoints": 5611,
       "capitalPoints": 5611,
       "location": {
@@ -2461,7 +2461,7 @@
       "tag": "#2YV20V2RR",
       "name": "Merkabah",
       "clanLevel": 16,
-      "members": 27,
+      "members": 29,
       "clanCapitalPoints": 5610,
       "capitalPoints": 5610,
       "location": {
@@ -2503,7 +2503,7 @@
       "tag": "#2P29JULRQ",
       "name": "LegeNds Of aRab",
       "clanLevel": 30,
-      "members": 22,
+      "members": 24,
       "clanCapitalPoints": 5606,
       "capitalPoints": 5606,
       "location": {
@@ -2545,7 +2545,7 @@
       "tag": "#20P8G2GV",
       "name": "Legendarii",
       "clanLevel": 36,
-      "members": 27,
+      "members": 25,
       "clanCapitalPoints": 5603,
       "capitalPoints": 5603,
       "location": {
@@ -2566,7 +2566,7 @@
       "tag": "#9UJ2V0QC",
       "name": "Chí Linh Family",
       "clanLevel": 40,
-      "members": 32,
+      "members": 47,
       "clanCapitalPoints": 5603,
       "capitalPoints": 5603,
       "location": {
@@ -2587,7 +2587,7 @@
       "tag": "#29LQ2CV09",
       "name": "СОПРАНО",
       "clanLevel": 29,
-      "members": 49,
+      "members": 47,
       "clanCapitalPoints": 5598,
       "capitalPoints": 5598,
       "location": {
@@ -2629,7 +2629,7 @@
       "tag": "#2RUGU0GCC",
       "name": "The Destroyers",
       "clanLevel": 20,
-      "members": 46,
+      "members": 47,
       "clanCapitalPoints": 5596,
       "capitalPoints": 5596,
       "location": {
@@ -2650,7 +2650,7 @@
       "tag": "#2R2QY2UPY",
       "name": "Planet Namex",
       "clanLevel": 18,
-      "members": 19,
+      "members": 16,
       "clanCapitalPoints": 5596,
       "capitalPoints": 5596,
       "location": {
@@ -2692,7 +2692,7 @@
       "tag": "#2L90R2VLL",
       "name": "¹⁹ʜᴜʟᴏɴᴛʜᴀʟᴏ⁴²✨",
       "clanLevel": 19,
-      "members": 3,
+      "members": 11,
       "clanCapitalPoints": 5594,
       "capitalPoints": 5594,
       "location": {
@@ -2734,7 +2734,7 @@
       "tag": "#2GVYQR80V",
       "name": "Plantation 13",
       "clanLevel": 18,
-      "members": 16,
+      "members": 27,
       "clanCapitalPoints": 5592,
       "capitalPoints": 5592,
       "location": {
@@ -2755,7 +2755,7 @@
       "tag": "#20880Q8YP",
       "name": "J.P.Ñ.M.Î.",
       "clanLevel": 17,
-      "members": 44,
+      "members": 45,
       "clanCapitalPoints": 5592,
       "capitalPoints": 5592,
       "location": {
@@ -2776,7 +2776,7 @@
       "tag": "#22UGRPLU8",
       "name": "Patel's power",
       "clanLevel": 29,
-      "members": 37,
+      "members": 31,
       "clanCapitalPoints": 5591,
       "capitalPoints": 5591,
       "location": {
@@ -2797,7 +2797,7 @@
       "tag": "#20QL980UU",
       "name": "INDIAN FORCE",
       "clanLevel": 30,
-      "members": 27,
+      "members": 26,
       "clanCapitalPoints": 5590,
       "capitalPoints": 5590,
       "location": {
@@ -2814,48 +2814,6 @@
     },
     {
       "rank": 135,
-      "previousRank": -1,
-      "tag": "#8UJYLGCU",
-      "name": "Mythicalvio's",
-      "clanLevel": 30,
-      "members": 42,
-      "clanCapitalPoints": 5588,
-      "capitalPoints": 5588,
-      "location": {
-        "id": 32000171,
-        "name": "Nigeria",
-        "isCountry": true,
-        "countryCode": "NG"
-      },
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/8LUQPiWAelyIkm95HhS164izu7XlCCCs1SXZV6ZvTwA.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/8LUQPiWAelyIkm95HhS164izu7XlCCCs1SXZV6ZvTwA.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/8LUQPiWAelyIkm95HhS164izu7XlCCCs1SXZV6ZvTwA.png"
-      }
-    },
-    {
-      "rank": 136,
-      "previousRank": -1,
-      "tag": "#L8J08882",
-      "name": "Pup 'N Suds",
-      "clanLevel": 32,
-      "members": 44,
-      "clanCapitalPoints": 5588,
-      "capitalPoints": 5588,
-      "location": {
-        "id": 32000249,
-        "name": "United States",
-        "isCountry": true,
-        "countryCode": "US"
-      },
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/zcqHHuplTbqmRwyQoc66COcLn_64FGfOCB7NRaLN2_8.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/zcqHHuplTbqmRwyQoc66COcLn_64FGfOCB7NRaLN2_8.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/zcqHHuplTbqmRwyQoc66COcLn_64FGfOCB7NRaLN2_8.png"
-      }
-    },
-    {
-      "rank": 137,
       "previousRank": -1,
       "tag": "#YUC29QQV",
       "name": "Sons of Aesir",
@@ -2876,12 +2834,54 @@
       }
     },
     {
+      "rank": 136,
+      "previousRank": -1,
+      "tag": "#L8J08882",
+      "name": "Pup 'N Suds",
+      "clanLevel": 32,
+      "members": 48,
+      "clanCapitalPoints": 5588,
+      "capitalPoints": 5588,
+      "location": {
+        "id": 32000249,
+        "name": "United States",
+        "isCountry": true,
+        "countryCode": "US"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/zcqHHuplTbqmRwyQoc66COcLn_64FGfOCB7NRaLN2_8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/zcqHHuplTbqmRwyQoc66COcLn_64FGfOCB7NRaLN2_8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/zcqHHuplTbqmRwyQoc66COcLn_64FGfOCB7NRaLN2_8.png"
+      }
+    },
+    {
+      "rank": 137,
+      "previousRank": -1,
+      "tag": "#8UJYLGCU",
+      "name": "Mythicalvio's",
+      "clanLevel": 30,
+      "members": 42,
+      "clanCapitalPoints": 5588,
+      "capitalPoints": 5588,
+      "location": {
+        "id": 32000171,
+        "name": "Nigeria",
+        "isCountry": true,
+        "countryCode": "NG"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/8LUQPiWAelyIkm95HhS164izu7XlCCCs1SXZV6ZvTwA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/8LUQPiWAelyIkm95HhS164izu7XlCCCs1SXZV6ZvTwA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/8LUQPiWAelyIkm95HhS164izu7XlCCCs1SXZV6ZvTwA.png"
+      }
+    },
+    {
       "rank": 138,
       "previousRank": -1,
       "tag": "#8CLRLJC0",
       "name": "SLOVENIAN FIRE",
       "clanLevel": 36,
-      "members": 32,
+      "members": 25,
       "clanCapitalPoints": 5587,
       "capitalPoints": 5587,
       "location": {
@@ -2902,7 +2902,7 @@
       "tag": "#2Q0RYP0C9",
       "name": "NMRCY HEAVEN",
       "clanLevel": 25,
-      "members": 30,
+      "members": 29,
       "clanCapitalPoints": 5585,
       "capitalPoints": 5585,
       "location": {
@@ -2923,7 +2923,7 @@
       "tag": "#28QRGGYQ2",
       "name": "FFQ-Club",
       "clanLevel": 17,
-      "members": 31,
+      "members": 2,
       "clanCapitalPoints": 5584,
       "capitalPoints": 5584,
       "location": {
@@ -2944,7 +2944,7 @@
       "tag": "#9QGYY09R",
       "name": "Trust 良心战营",
       "clanLevel": 33,
-      "members": 46,
+      "members": 44,
       "clanCapitalPoints": 5582,
       "capitalPoints": 5582,
       "location": {
@@ -2965,7 +2965,7 @@
       "tag": "#9RJ98Y9C",
       "name": "Thai Pro Jr",
       "clanLevel": 27,
-      "members": 14,
+      "members": 16,
       "clanCapitalPoints": 5580,
       "capitalPoints": 5580,
       "location": {
@@ -2986,7 +2986,7 @@
       "tag": "#YCCQLQ2P",
       "name": "Minions",
       "clanLevel": 31,
-      "members": 27,
+      "members": 29,
       "clanCapitalPoints": 5579,
       "capitalPoints": 5579,
       "location": {
@@ -3007,7 +3007,7 @@
       "tag": "#Q8JJJ9PQ",
       "name": "Jarumsuntik",
       "clanLevel": 24,
-      "members": 23,
+      "members": 10,
       "clanCapitalPoints": 5578,
       "capitalPoints": 5578,
       "location": {
@@ -3067,6 +3067,27 @@
     {
       "rank": 147,
       "previousRank": -1,
+      "tag": "#29YVLRLC9",
+      "name": "Friends Forever",
+      "clanLevel": 23,
+      "members": 20,
+      "clanCapitalPoints": 5575,
+      "capitalPoints": 5575,
+      "location": {
+        "id": 32000113,
+        "name": "India",
+        "isCountry": true,
+        "countryCode": "IN"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/HibJ30RzfIhMq2WwFEX-La2ZcDvzXy7YebmWCR2a4HI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/HibJ30RzfIhMq2WwFEX-La2ZcDvzXy7YebmWCR2a4HI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/HibJ30RzfIhMq2WwFEX-La2ZcDvzXy7YebmWCR2a4HI.png"
+      }
+    },
+    {
+      "rank": 148,
+      "previousRank": -1,
       "tag": "#2L9L9VGCV",
       "name": "Απλά διασκεδάστ",
       "clanLevel": 14,
@@ -3086,33 +3107,12 @@
       }
     },
     {
-      "rank": 148,
-      "previousRank": -1,
-      "tag": "#29YVLRLC9",
-      "name": "Friends Forever",
-      "clanLevel": 23,
-      "members": 19,
-      "clanCapitalPoints": 5575,
-      "capitalPoints": 5575,
-      "location": {
-        "id": 32000113,
-        "name": "India",
-        "isCountry": true,
-        "countryCode": "IN"
-      },
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/HibJ30RzfIhMq2WwFEX-La2ZcDvzXy7YebmWCR2a4HI.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/HibJ30RzfIhMq2WwFEX-La2ZcDvzXy7YebmWCR2a4HI.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/HibJ30RzfIhMq2WwFEX-La2ZcDvzXy7YebmWCR2a4HI.png"
-      }
-    },
-    {
       "rank": 149,
       "previousRank": -1,
       "tag": "#Y22Y2VGR",
       "name": "شب نشین ها",
       "clanLevel": 33,
-      "members": 42,
+      "members": 41,
       "clanCapitalPoints": 5575,
       "capitalPoints": 5575,
       "location": {
@@ -3175,7 +3175,7 @@
       "tag": "#8Q0P98GY",
       "name": "Italian Gods",
       "clanLevel": 33,
-      "members": 19,
+      "members": 20,
       "clanCapitalPoints": 5571,
       "capitalPoints": 5571,
       "location": {
@@ -3196,7 +3196,7 @@
       "tag": "#8LVPJ28L",
       "name": "GEORGIA",
       "clanLevel": 33,
-      "members": 29,
+      "members": 31,
       "clanCapitalPoints": 5568,
       "capitalPoints": 5568,
       "location": {
@@ -3217,7 +3217,7 @@
       "tag": "#PJUPQ9R8",
       "name": "Tomcat ir79",
       "clanLevel": 26,
-      "members": 15,
+      "members": 3,
       "clanCapitalPoints": 5567,
       "capitalPoints": 5567,
       "location": {
@@ -3234,27 +3234,6 @@
     },
     {
       "rank": 155,
-      "previousRank": -1,
-      "tag": "#2P2GPRVPU",
-      "name": "Immortal Souls",
-      "clanLevel": 29,
-      "members": 23,
-      "clanCapitalPoints": 5566,
-      "capitalPoints": 5566,
-      "location": {
-        "id": 32000006,
-        "name": "International",
-        "isCountry": false,
-        "countryCode": ""
-      },
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/02WpOhPoeiSVPpYqPo_xLzYtMEQvf6-Y5xYPwzkq-_M.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/02WpOhPoeiSVPpYqPo_xLzYtMEQvf6-Y5xYPwzkq-_M.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/02WpOhPoeiSVPpYqPo_xLzYtMEQvf6-Y5xYPwzkq-_M.png"
-      }
-    },
-    {
-      "rank": 156,
       "previousRank": -1,
       "tag": "#2GR8QY099",
       "name": "The One",
@@ -3275,28 +3254,28 @@
       }
     },
     {
-      "rank": 157,
+      "rank": 156,
       "previousRank": -1,
-      "tag": "#JP9CLQ2Q",
-      "name": "Легенда",
-      "clanLevel": 34,
-      "members": 28,
-      "clanCapitalPoints": 5565,
-      "capitalPoints": 5565,
+      "tag": "#2P2GPRVPU",
+      "name": "Immortal Souls",
+      "clanLevel": 29,
+      "members": 22,
+      "clanCapitalPoints": 5566,
+      "capitalPoints": 5566,
       "location": {
-        "id": 32000193,
-        "name": "Russia",
-        "isCountry": true,
-        "countryCode": "RU"
+        "id": 32000006,
+        "name": "International",
+        "isCountry": false,
+        "countryCode": ""
       },
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/eXxynysVX8IXYLm0xkD2YwJfzYeVOkWkmBwVQFGShHs.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/eXxynysVX8IXYLm0xkD2YwJfzYeVOkWkmBwVQFGShHs.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/eXxynysVX8IXYLm0xkD2YwJfzYeVOkWkmBwVQFGShHs.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/02WpOhPoeiSVPpYqPo_xLzYtMEQvf6-Y5xYPwzkq-_M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/02WpOhPoeiSVPpYqPo_xLzYtMEQvf6-Y5xYPwzkq-_M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/02WpOhPoeiSVPpYqPo_xLzYtMEQvf6-Y5xYPwzkq-_M.png"
       }
     },
     {
-      "rank": 158,
+      "rank": 157,
       "previousRank": -1,
       "tag": "#2RJ09VUGC",
       "name": "Mini Walkers",
@@ -3317,49 +3296,28 @@
       }
     },
     {
+      "rank": 158,
+      "previousRank": -1,
+      "tag": "#JP9CLQ2Q",
+      "name": "Легенда",
+      "clanLevel": 34,
+      "members": 27,
+      "clanCapitalPoints": 5565,
+      "capitalPoints": 5565,
+      "location": {
+        "id": 32000193,
+        "name": "Russia",
+        "isCountry": true,
+        "countryCode": "RU"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/eXxynysVX8IXYLm0xkD2YwJfzYeVOkWkmBwVQFGShHs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/eXxynysVX8IXYLm0xkD2YwJfzYeVOkWkmBwVQFGShHs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/eXxynysVX8IXYLm0xkD2YwJfzYeVOkWkmBwVQFGShHs.png"
+      }
+    },
+    {
       "rank": 159,
-      "previousRank": -1,
-      "tag": "#2YURLY2PY",
-      "name": "DarkRoom Posse",
-      "clanLevel": 30,
-      "members": 32,
-      "clanCapitalPoints": 5564,
-      "capitalPoints": 5564,
-      "location": {
-        "id": 32000239,
-        "name": "Türkiye",
-        "isCountry": true,
-        "countryCode": "TR"
-      },
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/wlqZbCl25w3bGx517XK2DpgLVKcliCvlTKosU4naF6c.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/wlqZbCl25w3bGx517XK2DpgLVKcliCvlTKosU4naF6c.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/wlqZbCl25w3bGx517XK2DpgLVKcliCvlTKosU4naF6c.png"
-      }
-    },
-    {
-      "rank": 160,
-      "previousRank": -1,
-      "tag": "#2QY2282PY",
-      "name": "+62's Clan",
-      "clanLevel": 32,
-      "members": 23,
-      "clanCapitalPoints": 5564,
-      "capitalPoints": 5564,
-      "location": {
-        "id": 32000114,
-        "name": "Indonesia",
-        "isCountry": true,
-        "countryCode": "ID"
-      },
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/IMXuS4f_h0McQHC78cbrx9Ge3n65mMpJNy60IywkBl8.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/IMXuS4f_h0McQHC78cbrx9Ge3n65mMpJNy60IywkBl8.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/IMXuS4f_h0McQHC78cbrx9Ge3n65mMpJNy60IywkBl8.png"
-      }
-    },
-    {
-      "rank": 161,
       "previousRank": -1,
       "tag": "#PCUL90L9",
       "name": "Nightmare",
@@ -3380,12 +3338,54 @@
       }
     },
     {
+      "rank": 160,
+      "previousRank": -1,
+      "tag": "#2YURLY2PY",
+      "name": "DarkRoom Posse",
+      "clanLevel": 30,
+      "members": 33,
+      "clanCapitalPoints": 5564,
+      "capitalPoints": 5564,
+      "location": {
+        "id": 32000239,
+        "name": "Türkiye",
+        "isCountry": true,
+        "countryCode": "TR"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/wlqZbCl25w3bGx517XK2DpgLVKcliCvlTKosU4naF6c.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/wlqZbCl25w3bGx517XK2DpgLVKcliCvlTKosU4naF6c.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/wlqZbCl25w3bGx517XK2DpgLVKcliCvlTKosU4naF6c.png"
+      }
+    },
+    {
+      "rank": 161,
+      "previousRank": -1,
+      "tag": "#2QY2282PY",
+      "name": "+62's Clan",
+      "clanLevel": 32,
+      "members": 23,
+      "clanCapitalPoints": 5564,
+      "capitalPoints": 5564,
+      "location": {
+        "id": 32000114,
+        "name": "Indonesia",
+        "isCountry": true,
+        "countryCode": "ID"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/IMXuS4f_h0McQHC78cbrx9Ge3n65mMpJNy60IywkBl8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/IMXuS4f_h0McQHC78cbrx9Ge3n65mMpJNy60IywkBl8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/IMXuS4f_h0McQHC78cbrx9Ge3n65mMpJNy60IywkBl8.png"
+      }
+    },
+    {
       "rank": 162,
       "previousRank": -1,
       "tag": "#GP8Q0JQY",
       "name": "PARK ^--^",
       "clanLevel": 24,
-      "members": 49,
+      "members": 50,
       "clanCapitalPoints": 5563,
       "capitalPoints": 5563,
       "location": {
@@ -3406,7 +3406,7 @@
       "tag": "#J8LRCQJU",
       "name": "THE REVENGERS",
       "clanLevel": 22,
-      "members": 24,
+      "members": 28,
       "clanCapitalPoints": 5560,
       "capitalPoints": 5560,
       "location": {
@@ -3427,7 +3427,7 @@
       "tag": "#PVGRYJ",
       "name": "-STORMBREAKER-",
       "clanLevel": 30,
-      "members": 44,
+      "members": 43,
       "clanCapitalPoints": 5556,
       "capitalPoints": 5556,
       "location": {
@@ -3466,31 +3466,10 @@
     {
       "rank": 166,
       "previousRank": -1,
-      "tag": "#2GQ820PRV",
-      "name": "PRINCES OF IRAN",
-      "clanLevel": 16,
-      "members": 24,
-      "clanCapitalPoints": 5542,
-      "capitalPoints": 5542,
-      "location": {
-        "id": 32000115,
-        "name": "Iran",
-        "isCountry": true,
-        "countryCode": "IR"
-      },
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/3XsTlkryXN6KVJ8ReVjjD7K8WQ63c5NUF7yzZQxxQyc.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/3XsTlkryXN6KVJ8ReVjjD7K8WQ63c5NUF7yzZQxxQyc.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/3XsTlkryXN6KVJ8ReVjjD7K8WQ63c5NUF7yzZQxxQyc.png"
-      }
-    },
-    {
-      "rank": 167,
-      "previousRank": -1,
       "tag": "#VQYL2RCU",
       "name": "LEGENDARI",
       "clanLevel": 32,
-      "members": 26,
+      "members": 28,
       "clanCapitalPoints": 5542,
       "capitalPoints": 5542,
       "location": {
@@ -3506,24 +3485,45 @@
       }
     },
     {
+      "rank": 167,
+      "previousRank": -1,
+      "tag": "#2GQ820PRV",
+      "name": "PRINCES OF IRAN",
+      "clanLevel": 16,
+      "members": 23,
+      "clanCapitalPoints": 5542,
+      "capitalPoints": 5542,
+      "location": {
+        "id": 32000115,
+        "name": "Iran",
+        "isCountry": true,
+        "countryCode": "IR"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/3XsTlkryXN6KVJ8ReVjjD7K8WQ63c5NUF7yzZQxxQyc.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/3XsTlkryXN6KVJ8ReVjjD7K8WQ63c5NUF7yzZQxxQyc.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/3XsTlkryXN6KVJ8ReVjjD7K8WQ63c5NUF7yzZQxxQyc.png"
+      }
+    },
+    {
       "rank": 168,
       "previousRank": -1,
-      "tag": "#2G9Q02J2R",
-      "name": "pegel",
-      "clanLevel": 20,
-      "members": 21,
+      "tag": "#2GY20P2PV",
+      "name": "Ama galiba...",
+      "clanLevel": 29,
+      "members": 22,
       "clanCapitalPoints": 5538,
       "capitalPoints": 5538,
       "location": {
-        "id": 32000114,
-        "name": "Indonesia",
+        "id": 32000239,
+        "name": "Türkiye",
         "isCountry": true,
-        "countryCode": "ID"
+        "countryCode": "TR"
       },
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/2oCHCPnK7fjG99D0fb-EHrLnun0-F7IthLsif_Ux3HQ.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/2oCHCPnK7fjG99D0fb-EHrLnun0-F7IthLsif_Ux3HQ.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/2oCHCPnK7fjG99D0fb-EHrLnun0-F7IthLsif_Ux3HQ.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/-GZ6QInDf6WGCIT3YNs6Ht41l_432vAaauYrBu7ZFAk.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/-GZ6QInDf6WGCIT3YNs6Ht41l_432vAaauYrBu7ZFAk.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/-GZ6QInDf6WGCIT3YNs6Ht41l_432vAaauYrBu7ZFAk.png"
       }
     },
     {
@@ -3532,7 +3532,7 @@
       "tag": "#2QPC880GP",
       "name": "الـكارثـهہ",
       "clanLevel": 21,
-      "members": 4,
+      "members": 7,
       "clanCapitalPoints": 5538,
       "capitalPoints": 5538,
       "location": {
@@ -3549,27 +3549,6 @@
     },
     {
       "rank": 170,
-      "previousRank": -1,
-      "tag": "#2GY20P2PV",
-      "name": "Ama galiba...",
-      "clanLevel": 29,
-      "members": 23,
-      "clanCapitalPoints": 5538,
-      "capitalPoints": 5538,
-      "location": {
-        "id": 32000239,
-        "name": "Türkiye",
-        "isCountry": true,
-        "countryCode": "TR"
-      },
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/-GZ6QInDf6WGCIT3YNs6Ht41l_432vAaauYrBu7ZFAk.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/-GZ6QInDf6WGCIT3YNs6Ht41l_432vAaauYrBu7ZFAk.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/-GZ6QInDf6WGCIT3YNs6Ht41l_432vAaauYrBu7ZFAk.png"
-      }
-    },
-    {
-      "rank": 171,
       "previousRank": -1,
       "tag": "#2RLYQQ98Q",
       "name": "JMU WARRIORS",
@@ -3590,7 +3569,49 @@
       }
     },
     {
+      "rank": 171,
+      "previousRank": -1,
+      "tag": "#2G9Q02J2R",
+      "name": "pegel",
+      "clanLevel": 20,
+      "members": 22,
+      "clanCapitalPoints": 5538,
+      "capitalPoints": 5538,
+      "location": {
+        "id": 32000114,
+        "name": "Indonesia",
+        "isCountry": true,
+        "countryCode": "ID"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/2oCHCPnK7fjG99D0fb-EHrLnun0-F7IthLsif_Ux3HQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/2oCHCPnK7fjG99D0fb-EHrLnun0-F7IthLsif_Ux3HQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/2oCHCPnK7fjG99D0fb-EHrLnun0-F7IthLsif_Ux3HQ.png"
+      }
+    },
+    {
       "rank": 172,
+      "previousRank": -1,
+      "tag": "#PLJ8L2J8",
+      "name": "PERSPOLIS",
+      "clanLevel": 23,
+      "members": 35,
+      "clanCapitalPoints": 5537,
+      "capitalPoints": 5537,
+      "location": {
+        "id": 32000267,
+        "name": "Asia",
+        "isCountry": true,
+        "countryCode": "AP"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/o1rDeJBzFW4lWcj5s_xZDgkg8iuCqUX0beLeB_Mm7Qw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/o1rDeJBzFW4lWcj5s_xZDgkg8iuCqUX0beLeB_Mm7Qw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/o1rDeJBzFW4lWcj5s_xZDgkg8iuCqUX0beLeB_Mm7Qw.png"
+      }
+    },
+    {
+      "rank": 173,
       "previousRank": -1,
       "tag": "#2YGVJLYUG",
       "name": "Scoopie Erbij?",
@@ -3611,12 +3632,12 @@
       }
     },
     {
-      "rank": 173,
+      "rank": 174,
       "previousRank": -1,
       "tag": "#2GQ0QJGCL",
       "name": "MRR ONEMAN ARMY",
       "clanLevel": 23,
-      "members": 15,
+      "members": 20,
       "clanCapitalPoints": 5537,
       "capitalPoints": 5537,
       "location": {
@@ -3632,33 +3653,12 @@
       }
     },
     {
-      "rank": 174,
-      "previousRank": -1,
-      "tag": "#PLJ8L2J8",
-      "name": "PERSPOLIS",
-      "clanLevel": 23,
-      "members": 36,
-      "clanCapitalPoints": 5537,
-      "capitalPoints": 5537,
-      "location": {
-        "id": 32000267,
-        "name": "Asia",
-        "isCountry": true,
-        "countryCode": "AP"
-      },
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/o1rDeJBzFW4lWcj5s_xZDgkg8iuCqUX0beLeB_Mm7Qw.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/o1rDeJBzFW4lWcj5s_xZDgkg8iuCqUX0beLeB_Mm7Qw.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/o1rDeJBzFW4lWcj5s_xZDgkg8iuCqUX0beLeB_Mm7Qw.png"
-      }
-    },
-    {
       "rank": 175,
       "previousRank": -1,
       "tag": "#2GPV890GJ",
       "name": "GOD WAR 2023",
       "clanLevel": 24,
-      "members": 48,
+      "members": 33,
       "clanCapitalPoints": 5536,
       "capitalPoints": 5536,
       "location": {
@@ -3679,7 +3679,7 @@
       "tag": "#2Y80PRQ8Q",
       "name": "SIOMPU KENANGAN",
       "clanLevel": 31,
-      "members": 29,
+      "members": 43,
       "clanCapitalPoints": 5535,
       "capitalPoints": 5535,
       "location": {
@@ -3700,7 +3700,7 @@
       "tag": "#2RQGGRRPL",
       "name": "ores",
       "clanLevel": 13,
-      "members": 40,
+      "members": 35,
       "clanCapitalPoints": 5534,
       "capitalPoints": 5534,
       "location": {
@@ -3721,7 +3721,7 @@
       "tag": "#2GYR2G8CL",
       "name": "W T F academ",
       "clanLevel": 20,
-      "members": 28,
+      "members": 26,
       "clanCapitalPoints": 5533,
       "capitalPoints": 5533,
       "location": {
@@ -3742,7 +3742,7 @@
       "tag": "#QCVCQPVL",
       "name": "iranian camp",
       "clanLevel": 27,
-      "members": 16,
+      "members": 15,
       "clanCapitalPoints": 5530,
       "capitalPoints": 5530,
       "location": {
@@ -3762,8 +3762,8 @@
       "previousRank": -1,
       "tag": "#2GV0UYVJQ",
       "name": "DEADLY KILLERS",
-      "clanLevel": 27,
-      "members": 24,
+      "clanLevel": 28,
+      "members": 44,
       "clanCapitalPoints": 5530,
       "capitalPoints": 5530,
       "location": {
@@ -3773,9 +3773,9 @@
         "countryCode": "EH"
       },
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/hb-iXKGXyCiIcNEnuX1GSzqrDco4Lr_iEPY1vdVAeIo.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/hb-iXKGXyCiIcNEnuX1GSzqrDco4Lr_iEPY1vdVAeIo.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/hb-iXKGXyCiIcNEnuX1GSzqrDco4Lr_iEPY1vdVAeIo.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/lw2hwCaxtDLrT24u1r5iNy-Xn2dYbiMxOnXNK7Esstw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/lw2hwCaxtDLrT24u1r5iNy-Xn2dYbiMxOnXNK7Esstw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/lw2hwCaxtDLrT24u1r5iNy-Xn2dYbiMxOnXNK7Esstw.png"
       }
     },
     {
@@ -3784,7 +3784,7 @@
       "tag": "#2RLP29GQ2",
       "name": "ECLIPSE ELITES",
       "clanLevel": 21,
-      "members": 20,
+      "members": 16,
       "clanCapitalPoints": 5527,
       "capitalPoints": 5527,
       "location": {
@@ -3805,7 +3805,7 @@
       "tag": "#2GR8YPQJV",
       "name": "Tamil players",
       "clanLevel": 26,
-      "members": 28,
+      "members": 16,
       "clanCapitalPoints": 5525,
       "capitalPoints": 5525,
       "location": {
@@ -3826,7 +3826,7 @@
       "tag": "#2P2JRJYCG",
       "name": "ASCENDANT",
       "clanLevel": 32,
-      "members": 17,
+      "members": 21,
       "clanCapitalPoints": 5525,
       "capitalPoints": 5525,
       "location": {
@@ -3847,7 +3847,7 @@
       "tag": "#2YG8LUV8R",
       "name": "MAKASSAR JR",
       "clanLevel": 26,
-      "members": 24,
+      "members": 27,
       "clanCapitalPoints": 5523,
       "capitalPoints": 5523,
       "location": {
@@ -3910,7 +3910,7 @@
       "tag": "#222JGYLR",
       "name": "StarTeam",
       "clanLevel": 38,
-      "members": 31,
+      "members": 32,
       "clanCapitalPoints": 5520,
       "capitalPoints": 5520,
       "location": {
@@ -3952,7 +3952,7 @@
       "tag": "#2G98U0LP2",
       "name": "LUNA EMPIRE",
       "clanLevel": 22,
-      "members": 31,
+      "members": 30,
       "clanCapitalPoints": 5519,
       "capitalPoints": 5519,
       "location": {
@@ -3973,7 +3973,7 @@
       "tag": "#2G0GPYQ09",
       "name": "INDONESIANRIDER",
       "clanLevel": 26,
-      "members": 21,
+      "members": 10,
       "clanCapitalPoints": 5518,
       "capitalPoints": 5518,
       "location": {
@@ -4015,7 +4015,7 @@
       "tag": "#2LRLQ0YRR",
       "name": "Ice surge",
       "clanLevel": 26,
-      "members": 27,
+      "members": 29,
       "clanCapitalPoints": 5517,
       "capitalPoints": 5517,
       "location": {
@@ -4033,31 +4033,10 @@
     {
       "rank": 193,
       "previousRank": -1,
-      "tag": "#20VJU0C09",
-      "name": "1 Double 1",
-      "clanLevel": 32,
-      "members": 27,
-      "clanCapitalPoints": 5516,
-      "capitalPoints": 5516,
-      "location": {
-        "id": 32000087,
-        "name": "France",
-        "isCountry": true,
-        "countryCode": "FR"
-      },
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/5IWlCISAV2czS27M9k9iCc8YWlxVKBtTcmORXKPCsNQ.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/5IWlCISAV2czS27M9k9iCc8YWlxVKBtTcmORXKPCsNQ.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/5IWlCISAV2czS27M9k9iCc8YWlxVKBtTcmORXKPCsNQ.png"
-      }
-    },
-    {
-      "rank": 194,
-      "previousRank": -1,
       "tag": "#2Q0RLG82G",
       "name": "ROYAL KNIGHTS✴",
       "clanLevel": 31,
-      "members": 17,
+      "members": 20,
       "clanCapitalPoints": 5516,
       "capitalPoints": 5516,
       "location": {
@@ -4073,12 +4052,12 @@
       }
     },
     {
-      "rank": 195,
+      "rank": 194,
       "previousRank": -1,
       "tag": "#L8QUJUC0",
       "name": "BJN-NGAWI-CEPU",
       "clanLevel": 28,
-      "members": 2,
+      "members": 10,
       "clanCapitalPoints": 5516,
       "capitalPoints": 5516,
       "location": {
@@ -4094,12 +4073,12 @@
       }
     },
     {
-      "rank": 196,
+      "rank": 195,
       "previousRank": -1,
       "tag": "#P00QQPV9",
       "name": "CHADDI_BUDDY'S.",
       "clanLevel": 33,
-      "members": 32,
+      "members": 24,
       "clanCapitalPoints": 5516,
       "capitalPoints": 5516,
       "location": {
@@ -4115,12 +4094,33 @@
       }
     },
     {
+      "rank": 196,
+      "previousRank": -1,
+      "tag": "#20VJU0C09",
+      "name": "1 Double 1",
+      "clanLevel": 32,
+      "members": 25,
+      "clanCapitalPoints": 5516,
+      "capitalPoints": 5516,
+      "location": {
+        "id": 32000087,
+        "name": "France",
+        "isCountry": true,
+        "countryCode": "FR"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/5IWlCISAV2czS27M9k9iCc8YWlxVKBtTcmORXKPCsNQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/5IWlCISAV2czS27M9k9iCc8YWlxVKBtTcmORXKPCsNQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/5IWlCISAV2czS27M9k9iCc8YWlxVKBtTcmORXKPCsNQ.png"
+      }
+    },
+    {
       "rank": 197,
       "previousRank": -1,
       "tag": "#9P9LRVY0",
       "name": ".I.N.D.I.A.",
       "clanLevel": 28,
-      "members": 37,
+      "members": 33,
       "clanCapitalPoints": 5514,
       "capitalPoints": 5514,
       "location": {
@@ -4141,7 +4141,7 @@
       "tag": "#2QV8JQR02",
       "name": "Lazy Walkers",
       "clanLevel": 26,
-      "members": 35,
+      "members": 30,
       "clanCapitalPoints": 5513,
       "capitalPoints": 5513,
       "location": {
@@ -4159,27 +4159,6 @@
     {
       "rank": 199,
       "previousRank": -1,
-      "tag": "#CRLPG02L",
-      "name": "ЕТА СПАРТА",
-      "clanLevel": 26,
-      "members": 22,
-      "clanCapitalPoints": 5512,
-      "capitalPoints": 5512,
-      "location": {
-        "id": 32000193,
-        "name": "Russia",
-        "isCountry": true,
-        "countryCode": "RU"
-      },
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/FGeRpYQsRQXYHLgf4eTlMDmnD9F5HPNSml77OBohExI.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/FGeRpYQsRQXYHLgf4eTlMDmnD9F5HPNSml77OBohExI.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/FGeRpYQsRQXYHLgf4eTlMDmnD9F5HPNSml77OBohExI.png"
-      }
-    },
-    {
-      "rank": 200,
-      "previousRank": -1,
       "tag": "#92V0LUQU",
       "name": "艾格拉斯",
       "clanLevel": 38,
@@ -4196,6 +4175,27 @@
         "small": "https://api-assets.clashofclans.com/badges/70/hxz58MPQdrpFdSlxEJjM1hInAnQphEeQDUJl_xzDoGY.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/hxz58MPQdrpFdSlxEJjM1hInAnQphEeQDUJl_xzDoGY.png",
         "large": "https://api-assets.clashofclans.com/badges/512/hxz58MPQdrpFdSlxEJjM1hInAnQphEeQDUJl_xzDoGY.png"
+      }
+    },
+    {
+      "rank": 200,
+      "previousRank": -1,
+      "tag": "#CRLPG02L",
+      "name": "ЕТА СПАРТА",
+      "clanLevel": 26,
+      "members": 27,
+      "clanCapitalPoints": 5512,
+      "capitalPoints": 5512,
+      "location": {
+        "id": 32000193,
+        "name": "Russia",
+        "isCountry": true,
+        "countryCode": "RU"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/FGeRpYQsRQXYHLgf4eTlMDmnD9F5HPNSml77OBohExI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/FGeRpYQsRQXYHLgf4eTlMDmnD9F5HPNSml77OBohExI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/FGeRpYQsRQXYHLgf4eTlMDmnD9F5HPNSml77OBohExI.png"
       }
     }
   ]
