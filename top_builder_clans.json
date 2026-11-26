@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T23:00:13.324Z",
+  "updatedAt": "2026-11-26T05:00:11.043Z",
   "total": 200,
   "source": "Clash of Clans API",
   "clans": [
@@ -10,8 +10,8 @@
       "name": "KURD",
       "clanLevel": 20,
       "members": 50,
-      "clanBuilderBasePoints": 60101,
-      "clanVersusPoints": 60101,
+      "clanBuilderBasePoints": 60285,
+      "clanVersusPoints": 60285,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/WPudPz4z54_hYERNJ-bkq4h2K8muBx6ZffXH15Ik29s.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/WPudPz4z54_hYERNJ-bkq4h2K8muBx6ZffXH15Ik29s.png",
@@ -25,12 +25,12 @@
       "name": "KERALA",
       "clanLevel": 25,
       "members": 50,
-      "clanBuilderBasePoints": 59006,
-      "clanVersusPoints": 59006,
+      "clanBuilderBasePoints": 59091,
+      "clanVersusPoints": 59091,
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/9H2ycX0FfIjMiYqISb8ENkJIltDB95QsrFhAMUvcE64.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/9H2ycX0FfIjMiYqISb8ENkJIltDB95QsrFhAMUvcE64.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/9H2ycX0FfIjMiYqISb8ENkJIltDB95QsrFhAMUvcE64.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/461RcLB-A1y36tUXvUtR87dwiH-Kh2FrvOLAucI7b9A.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/461RcLB-A1y36tUXvUtR87dwiH-Kh2FrvOLAucI7b9A.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/461RcLB-A1y36tUXvUtR87dwiH-Kh2FrvOLAucI7b9A.png"
       }
     },
     {
@@ -39,9 +39,9 @@
       "tag": "#VY89PL9Y",
       "name": "Indian champion",
       "clanLevel": 22,
-      "members": 50,
-      "clanBuilderBasePoints": 57587,
-      "clanVersusPoints": 57587,
+      "members": 49,
+      "clanBuilderBasePoints": 57529,
+      "clanVersusPoints": 57529,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/j8IosNTjD-xgSU6EbuevtweD2XeDAvMVZ6hwQOi_flY.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/j8IosNTjD-xgSU6EbuevtweD2XeDAvMVZ6hwQOi_flY.png",
@@ -50,28 +50,13 @@
     },
     {
       "rank": 4,
-      "previousRank": 5,
-      "tag": "#2RC28RQ88",
-      "name": "The Creators",
-      "clanLevel": 18,
-      "members": 49,
-      "clanBuilderBasePoints": 56267,
-      "clanVersusPoints": 56267,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/8vn0MGwyWi1F6D3k3Z3zWHz69fV0dSXF5ZIUz10HZ-g.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/8vn0MGwyWi1F6D3k3Z3zWHz69fV0dSXF5ZIUz10HZ-g.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/8vn0MGwyWi1F6D3k3Z3zWHz69fV0dSXF5ZIUz10HZ-g.png"
-      }
-    },
-    {
-      "rank": 5,
       "previousRank": 4,
       "tag": "#2QYJ9JGP0",
       "name": "warrior indo",
       "clanLevel": 26,
-      "members": 50,
-      "clanBuilderBasePoints": 56219,
-      "clanVersusPoints": 56219,
+      "members": 49,
+      "clanBuilderBasePoints": 56272,
+      "clanVersusPoints": 56272,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/eq5lNI_U695MYxwBlxTRwWpbezozVyWWW3EUkHP00oI.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/eq5lNI_U695MYxwBlxTRwWpbezozVyWWW3EUkHP00oI.png",
@@ -79,14 +64,29 @@
       }
     },
     {
+      "rank": 5,
+      "previousRank": 5,
+      "tag": "#2RC28RQ88",
+      "name": "The Creators",
+      "clanLevel": 18,
+      "members": 49,
+      "clanBuilderBasePoints": 56111,
+      "clanVersusPoints": 56111,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/8vn0MGwyWi1F6D3k3Z3zWHz69fV0dSXF5ZIUz10HZ-g.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/8vn0MGwyWi1F6D3k3Z3zWHz69fV0dSXF5ZIUz10HZ-g.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/8vn0MGwyWi1F6D3k3Z3zWHz69fV0dSXF5ZIUz10HZ-g.png"
+      }
+    },
+    {
       "rank": 6,
-      "previousRank": 7,
+      "previousRank": 6,
       "tag": "#RGYP9CJG",
       "name": "КАНАРЫ",
       "clanLevel": 22,
       "members": 49,
-      "clanBuilderBasePoints": 54103,
-      "clanVersusPoints": 54103,
+      "clanBuilderBasePoints": 54094,
+      "clanVersusPoints": 54094,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/xjnw7oIXhhS9AkjmQ505ZNvvH67o6SoO-kwgwxlAdnQ.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/xjnw7oIXhhS9AkjmQ505ZNvvH67o6SoO-kwgwxlAdnQ.png",
@@ -95,13 +95,13 @@
     },
     {
       "rank": 7,
-      "previousRank": 6,
+      "previousRank": 7,
       "tag": "#CQCP8QP2",
       "name": "DiRtY SoUtH",
       "clanLevel": 29,
-      "members": 48,
-      "clanBuilderBasePoints": 53124,
-      "clanVersusPoints": 53124,
+      "members": 47,
+      "clanBuilderBasePoints": 52804,
+      "clanVersusPoints": 52804,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/UjPy-T58agTkVYqBH4Z7fxge2u89mozVZQLYcD3wDkE.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/UjPy-T58agTkVYqBH4Z7fxge2u89mozVZQLYcD3wDkE.png",
@@ -115,8 +115,8 @@
       "name": "Rock N Roll",
       "clanLevel": 31,
       "members": 49,
-      "clanBuilderBasePoints": 51694,
-      "clanVersusPoints": 51694,
+      "clanBuilderBasePoints": 51678,
+      "clanVersusPoints": 51678,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/MjSiwlJ-I744RMuzNiF-0j3oYuOtJw7H7so9OzW9DnY.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/MjSiwlJ-I744RMuzNiF-0j3oYuOtJw7H7so9OzW9DnY.png",
@@ -130,8 +130,8 @@
       "name": "Tribo_Periferia",
       "clanLevel": 30,
       "members": 46,
-      "clanBuilderBasePoints": 51501,
-      "clanVersusPoints": 51501,
+      "clanBuilderBasePoints": 51521,
+      "clanVersusPoints": 51521,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/14mWwD6mGyvQcBj8GThLrujlclEWxi9fKiwgG65cEy8.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/14mWwD6mGyvQcBj8GThLrujlclEWxi9fKiwgG65cEy8.png",
@@ -145,8 +145,8 @@
       "name": "⚜️King Cyrus ⚜️",
       "clanLevel": 16,
       "members": 45,
-      "clanBuilderBasePoints": 51492,
-      "clanVersusPoints": 51492,
+      "clanBuilderBasePoints": 51511,
+      "clanVersusPoints": 51511,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/LP4rkhRcekQr9F6yB67TBNRGoNyw62JewktB92vyOFY.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/LP4rkhRcekQr9F6yB67TBNRGoNyw62JewktB92vyOFY.png",
@@ -160,8 +160,8 @@
       "name": "Sofaplex",
       "clanLevel": 28,
       "members": 49,
-      "clanBuilderBasePoints": 51192,
-      "clanVersusPoints": 51192,
+      "clanBuilderBasePoints": 51213,
+      "clanVersusPoints": 51213,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/6GjCNSkl0bmjckRod1XNXYGG1GuYVzhf3ed-6VDDfOY.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/6GjCNSkl0bmjckRod1XNXYGG1GuYVzhf3ed-6VDDfOY.png",
@@ -171,12 +171,27 @@
     {
       "rank": 12,
       "previousRank": 12,
+      "tag": "#UCR0CJY",
+      "name": "#Puzzles",
+      "clanLevel": 32,
+      "members": 42,
+      "clanBuilderBasePoints": 51186,
+      "clanVersusPoints": 51186,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/uCLDuKIJGWxYsGNBrFa_yvWxJEP5Kw4-w-DkhkDr9CM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/uCLDuKIJGWxYsGNBrFa_yvWxJEP5Kw4-w-DkhkDr9CM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/uCLDuKIJGWxYsGNBrFa_yvWxJEP5Kw4-w-DkhkDr9CM.png"
+      }
+    },
+    {
+      "rank": 13,
+      "previousRank": 13,
       "tag": "#2YYP2JJ0J",
       "name": "$KING OUVRIER$",
       "clanLevel": 30,
       "members": 42,
-      "clanBuilderBasePoints": 51126,
-      "clanVersusPoints": 51126,
+      "clanBuilderBasePoints": 51112,
+      "clanVersusPoints": 51112,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/62QBJEipC5NakkwFVQygTuFhK76DaYvqU3Ea3nl6-gM.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/62QBJEipC5NakkwFVQygTuFhK76DaYvqU3Ea3nl6-gM.png",
@@ -184,33 +199,18 @@
       }
     },
     {
-      "rank": 13,
-      "previousRank": 13,
+      "rank": 14,
+      "previousRank": 14,
       "tag": "#29Y28LU2R",
       "name": "REQ CARLO MAGNO",
       "clanLevel": 29,
       "members": 49,
-      "clanBuilderBasePoints": 50961,
-      "clanVersusPoints": 50961,
+      "clanBuilderBasePoints": 50979,
+      "clanVersusPoints": 50979,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/vptGKF2GQQAv94mX6JGGFmqvcqeC6kHWfN-ekFwanCI.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/vptGKF2GQQAv94mX6JGGFmqvcqeC6kHWfN-ekFwanCI.png",
         "large": "https://api-assets.clashofclans.com/badges/512/vptGKF2GQQAv94mX6JGGFmqvcqeC6kHWfN-ekFwanCI.png"
-      }
-    },
-    {
-      "rank": 14,
-      "previousRank": 16,
-      "tag": "#UCR0CJY",
-      "name": "#Puzzles",
-      "clanLevel": 32,
-      "members": 41,
-      "clanBuilderBasePoints": 50839,
-      "clanVersusPoints": 50839,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/uCLDuKIJGWxYsGNBrFa_yvWxJEP5Kw4-w-DkhkDr9CM.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/uCLDuKIJGWxYsGNBrFa_yvWxJEP5Kw4-w-DkhkDr9CM.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/uCLDuKIJGWxYsGNBrFa_yvWxJEP5Kw4-w-DkhkDr9CM.png"
       }
     },
     {
@@ -220,8 +220,8 @@
       "name": "DARK LIGA",
       "clanLevel": 30,
       "members": 46,
-      "clanBuilderBasePoints": 50620,
-      "clanVersusPoints": 50620,
+      "clanBuilderBasePoints": 50706,
+      "clanVersusPoints": 50706,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/jjj0QA_vyb0DiauBastxVGXmAK6c9SUtUn7Ids0AMhA.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/jjj0QA_vyb0DiauBastxVGXmAK6c9SUtUn7Ids0AMhA.png",
@@ -230,13 +230,13 @@
     },
     {
       "rank": 16,
-      "previousRank": 14,
+      "previousRank": 16,
       "tag": "#22JRL0Y2C",
       "name": "ابطال صعدة",
       "clanLevel": 32,
       "members": 49,
-      "clanBuilderBasePoints": 50419,
-      "clanVersusPoints": 50419,
+      "clanBuilderBasePoints": 50431,
+      "clanVersusPoints": 50431,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/A4RFyD7budqktbfE18eqhPJvXSbiUYpcBraPc6A17WE.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/A4RFyD7budqktbfE18eqhPJvXSbiUYpcBraPc6A17WE.png",
@@ -245,28 +245,13 @@
     },
     {
       "rank": 17,
-      "previousRank": 22,
-      "tag": "#PGPUR982",
-      "name": "UZBEKISTAN",
-      "clanLevel": 35,
-      "members": 47,
-      "clanBuilderBasePoints": 49888,
-      "clanVersusPoints": 49888,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/YeZVZXGUY9z5NmTHEmCK1on8WT45ADXQNWJ1m1BiGY0.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/YeZVZXGUY9z5NmTHEmCK1on8WT45ADXQNWJ1m1BiGY0.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/YeZVZXGUY9z5NmTHEmCK1on8WT45ADXQNWJ1m1BiGY0.png"
-      }
-    },
-    {
-      "rank": 18,
       "previousRank": 17,
       "tag": "#Q29V9Y82",
       "name": "GUERRILHEIROS",
       "clanLevel": 30,
-      "members": 49,
-      "clanBuilderBasePoints": 49794,
-      "clanVersusPoints": 49794,
+      "members": 50,
+      "clanBuilderBasePoints": 49920,
+      "clanVersusPoints": 49920,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/PZupVVMzcF7IhADPCCwSro_tBd1-ufshtD_5i-C8EAo.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/PZupVVMzcF7IhADPCCwSro_tBd1-ufshtD_5i-C8EAo.png",
@@ -274,14 +259,29 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "previousRank": 18,
+      "tag": "#PGPUR982",
+      "name": "UZBEKISTAN",
+      "clanLevel": 35,
+      "members": 47,
+      "clanBuilderBasePoints": 49895,
+      "clanVersusPoints": 49895,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/YeZVZXGUY9z5NmTHEmCK1on8WT45ADXQNWJ1m1BiGY0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/YeZVZXGUY9z5NmTHEmCK1on8WT45ADXQNWJ1m1BiGY0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/YeZVZXGUY9z5NmTHEmCK1on8WT45ADXQNWJ1m1BiGY0.png"
+      }
+    },
+    {
+      "rank": 19,
+      "previousRank": 19,
       "tag": "#2QJLLLLJJ",
       "name": "Aussie might",
       "clanLevel": 27,
       "members": 45,
-      "clanBuilderBasePoints": 49754,
-      "clanVersusPoints": 49754,
+      "clanBuilderBasePoints": 49655,
+      "clanVersusPoints": 49655,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/izWkdk51uRHmxsQw6i12UawZKigjN-HKDPfsyC9wwqE.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/izWkdk51uRHmxsQw6i12UawZKigjN-HKDPfsyC9wwqE.png",
@@ -290,7 +290,22 @@
     },
     {
       "rank": 20,
-      "previousRank": 19,
+      "previousRank": 20,
+      "tag": "#R09QQPUQ",
+      "name": "Knights",
+      "clanLevel": 36,
+      "members": 50,
+      "clanBuilderBasePoints": 49632,
+      "clanVersusPoints": 49632,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZB8s5FkTucxD4aLDw69yfpvCH8S4CsvhnswZ7L7MjOo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZB8s5FkTucxD4aLDw69yfpvCH8S4CsvhnswZ7L7MjOo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZB8s5FkTucxD4aLDw69yfpvCH8S4CsvhnswZ7L7MjOo.png"
+      }
+    },
+    {
+      "rank": 21,
+      "previousRank": 21,
       "tag": "#V9GLQVJV",
       "name": "Creative Mix",
       "clanLevel": 31,
@@ -304,48 +319,33 @@
       }
     },
     {
-      "rank": 21,
-      "previousRank": 23,
-      "tag": "#R09QQPUQ",
-      "name": "Knights",
-      "clanLevel": 36,
-      "members": 50,
-      "clanBuilderBasePoints": 49558,
-      "clanVersusPoints": 49558,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/ZB8s5FkTucxD4aLDw69yfpvCH8S4CsvhnswZ7L7MjOo.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/ZB8s5FkTucxD4aLDw69yfpvCH8S4CsvhnswZ7L7MjOo.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/ZB8s5FkTucxD4aLDw69yfpvCH8S4CsvhnswZ7L7MjOo.png"
-      }
-    },
-    {
       "rank": 22,
-      "previousRank": 21,
-      "tag": "#YP9L88VY",
-      "name": "Tribo_Periferia",
-      "clanLevel": 31,
-      "members": 50,
-      "clanBuilderBasePoints": 49367,
-      "clanVersusPoints": 49367,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/PUoVRHFZV4-aybwIw8viRoKkA5eSU3nvAu3c8vrjOtU.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/PUoVRHFZV4-aybwIw8viRoKkA5eSU3nvAu3c8vrjOtU.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/PUoVRHFZV4-aybwIw8viRoKkA5eSU3nvAu3c8vrjOtU.png"
-      }
-    },
-    {
-      "rank": 23,
-      "previousRank": 20,
+      "previousRank": 22,
       "tag": "#CLUP8RPC",
       "name": "Rejects",
       "clanLevel": 31,
       "members": 49,
-      "clanBuilderBasePoints": 49247,
-      "clanVersusPoints": 49247,
+      "clanBuilderBasePoints": 49261,
+      "clanVersusPoints": 49261,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/v-dt5RN2cVvmHtyBmiIxG8Ss7C9qPAFmVkemh2BnjYs.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/v-dt5RN2cVvmHtyBmiIxG8Ss7C9qPAFmVkemh2BnjYs.png",
         "large": "https://api-assets.clashofclans.com/badges/512/v-dt5RN2cVvmHtyBmiIxG8Ss7C9qPAFmVkemh2BnjYs.png"
+      }
+    },
+    {
+      "rank": 23,
+      "previousRank": 23,
+      "tag": "#YP9L88VY",
+      "name": "Tribo_Periferia",
+      "clanLevel": 31,
+      "members": 49,
+      "clanBuilderBasePoints": 49251,
+      "clanVersusPoints": 49251,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/PUoVRHFZV4-aybwIw8viRoKkA5eSU3nvAu3c8vrjOtU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/PUoVRHFZV4-aybwIw8viRoKkA5eSU3nvAu3c8vrjOtU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/PUoVRHFZV4-aybwIw8viRoKkA5eSU3nvAu3c8vrjOtU.png"
       }
     },
     {
@@ -385,8 +385,8 @@
       "name": "MUFFIN TOPS",
       "clanLevel": 28,
       "members": 50,
-      "clanBuilderBasePoints": 49089,
-      "clanVersusPoints": 49089,
+      "clanBuilderBasePoints": 49082,
+      "clanVersusPoints": 49082,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/98YUGN57JilifbY1Ko3C3UeVP90eUkKa6V6bBYCAGwI.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/98YUGN57JilifbY1Ko3C3UeVP90eUkKa6V6bBYCAGwI.png",
@@ -425,13 +425,13 @@
     },
     {
       "rank": 29,
-      "previousRank": 30,
+      "previousRank": 29,
       "tag": "#2Q0JGGYVC",
       "name": "ANK RANTAU 1",
       "clanLevel": 27,
       "members": 46,
-      "clanBuilderBasePoints": 48679,
-      "clanVersusPoints": 48679,
+      "clanBuilderBasePoints": 48677,
+      "clanVersusPoints": 48677,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/KVfCIswE4vbw7NxpLvaueUjqBkULMMe_EHjTvh2J-TA.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/KVfCIswE4vbw7NxpLvaueUjqBkULMMe_EHjTvh2J-TA.png",
@@ -440,13 +440,13 @@
     },
     {
       "rank": 30,
-      "previousRank": 29,
+      "previousRank": 30,
       "tag": "#2LRRP90U8",
       "name": "TÜRKİYE",
       "clanLevel": 28,
       "members": 50,
-      "clanBuilderBasePoints": 48665,
-      "clanVersusPoints": 48665,
+      "clanBuilderBasePoints": 48662,
+      "clanVersusPoints": 48662,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/dkVSMg8m9hgPQPBDjg8maSyeAfb2-E1FMPC6JASKuds.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/dkVSMg8m9hgPQPBDjg8maSyeAfb2-E1FMPC6JASKuds.png",
@@ -460,8 +460,8 @@
       "name": "TOWN OF LIONS",
       "clanLevel": 25,
       "members": 48,
-      "clanBuilderBasePoints": 48641,
-      "clanVersusPoints": 48641,
+      "clanBuilderBasePoints": 48634,
+      "clanVersusPoints": 48634,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
@@ -471,6 +471,21 @@
     {
       "rank": 32,
       "previousRank": 32,
+      "tag": "#29JJUJJ02",
+      "name": "Saints of Light",
+      "clanLevel": 28,
+      "members": 49,
+      "clanBuilderBasePoints": 48537,
+      "clanVersusPoints": 48537,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/_Gmf3if12hlIe2YBawbn3xlzOjhU2LUvY2QLuvZwSlw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/_Gmf3if12hlIe2YBawbn3xlzOjhU2LUvY2QLuvZwSlw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/_Gmf3if12hlIe2YBawbn3xlzOjhU2LUvY2QLuvZwSlw.png"
+      }
+    },
+    {
+      "rank": 33,
+      "previousRank": 33,
       "tag": "#ULRPGLLV",
       "name": "umpelum",
       "clanLevel": 22,
@@ -484,29 +499,29 @@
       }
     },
     {
-      "rank": 33,
-      "previousRank": 35,
-      "tag": "#29JJUJJ02",
-      "name": "Saints of Light",
-      "clanLevel": 28,
-      "members": 48,
-      "clanBuilderBasePoints": 48330,
-      "clanVersusPoints": 48330,
+      "rank": 34,
+      "previousRank": 34,
+      "tag": "#LP089UCU",
+      "name": "arryatricks",
+      "clanLevel": 35,
+      "members": 50,
+      "clanBuilderBasePoints": 48391,
+      "clanVersusPoints": 48391,
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/_Gmf3if12hlIe2YBawbn3xlzOjhU2LUvY2QLuvZwSlw.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/_Gmf3if12hlIe2YBawbn3xlzOjhU2LUvY2QLuvZwSlw.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/_Gmf3if12hlIe2YBawbn3xlzOjhU2LUvY2QLuvZwSlw.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/2WessFC1uQSHNOwyIgKDjxfhnVWZBjg_uzdhAVwa02I.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/2WessFC1uQSHNOwyIgKDjxfhnVWZBjg_uzdhAVwa02I.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/2WessFC1uQSHNOwyIgKDjxfhnVWZBjg_uzdhAVwa02I.png"
       }
     },
     {
-      "rank": 34,
-      "previousRank": 44,
+      "rank": 35,
+      "previousRank": 35,
       "tag": "#R988RC2L",
       "name": "파밍 모임",
       "clanLevel": 37,
       "members": 44,
-      "clanBuilderBasePoints": 48249,
-      "clanVersusPoints": 48249,
+      "clanBuilderBasePoints": 48250,
+      "clanVersusPoints": 48250,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/nwvDMVK_ML5N5ExPkV-0zdCUekG-W90FW3fFgDojPNE.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/nwvDMVK_ML5N5ExPkV-0zdCUekG-W90FW3fFgDojPNE.png",
@@ -514,14 +529,14 @@
       }
     },
     {
-      "rank": 35,
-      "previousRank": 39,
+      "rank": 36,
+      "previousRank": 36,
       "tag": "#2VRR90VL",
       "name": "椋鳥ギルド",
       "clanLevel": 35,
       "members": 49,
-      "clanBuilderBasePoints": 48240,
-      "clanVersusPoints": 48240,
+      "clanBuilderBasePoints": 48242,
+      "clanVersusPoints": 48242,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/RRNOYjVo3um_2fxX3xLD5rFnPuZ4OzzFlqkxF8GGMOc.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/RRNOYjVo3um_2fxX3xLD5rFnPuZ4OzzFlqkxF8GGMOc.png",
@@ -529,8 +544,8 @@
       }
     },
     {
-      "rank": 36,
-      "previousRank": 33,
+      "rank": 37,
+      "previousRank": 37,
       "tag": "#2LRGCURC",
       "name": "Ingemennene",
       "clanLevel": 32,
@@ -544,14 +559,14 @@
       }
     },
     {
-      "rank": 37,
-      "previousRank": 36,
+      "rank": 38,
+      "previousRank": 38,
       "tag": "#9JY2RYGP",
       "name": "HowlDuty",
       "clanLevel": 29,
       "members": 44,
-      "clanBuilderBasePoints": 48137,
-      "clanVersusPoints": 48137,
+      "clanBuilderBasePoints": 48140,
+      "clanVersusPoints": 48140,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/47NALY5hxMZPNIU9joGkciuLo9rwFRIxMX94iv3Q9Rk.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/47NALY5hxMZPNIU9joGkciuLo9rwFRIxMX94iv3Q9Rk.png",
@@ -559,14 +574,14 @@
       }
     },
     {
-      "rank": 38,
-      "previousRank": 49,
+      "rank": 39,
+      "previousRank": 39,
       "tag": "#2G9UY0L90",
       "name": "iran boys",
       "clanLevel": 12,
       "members": 48,
-      "clanBuilderBasePoints": 48134,
-      "clanVersusPoints": 48134,
+      "clanBuilderBasePoints": 48116,
+      "clanVersusPoints": 48116,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/qL8Wz6ivnqoVxjl5ImJQZHTAOCbpAgd8EddW4bWNE3s.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/qL8Wz6ivnqoVxjl5ImJQZHTAOCbpAgd8EddW4bWNE3s.png",
@@ -574,8 +589,8 @@
       }
     },
     {
-      "rank": 39,
-      "previousRank": 38,
+      "rank": 40,
+      "previousRank": 40,
       "tag": "#2YJJRGP82",
       "name": "Walhalla",
       "clanLevel": 28,
@@ -589,7 +604,37 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 41,
+      "previousRank": 41,
+      "tag": "#PQJ88QVP",
+      "name": "persian heros",
+      "clanLevel": 41,
+      "members": 45,
+      "clanBuilderBasePoints": 48066,
+      "clanVersusPoints": 48066,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/7W4Gm9XZ856bI2bSZA_L-vCDKKRDe_72Ppbnm73vx6I.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/7W4Gm9XZ856bI2bSZA_L-vCDKKRDe_72Ppbnm73vx6I.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/7W4Gm9XZ856bI2bSZA_L-vCDKKRDe_72Ppbnm73vx6I.png"
+      }
+    },
+    {
+      "rank": 42,
+      "previousRank": 42,
+      "tag": "#P9QG8GPC",
+      "name": "EnerGiz.1PING",
+      "clanLevel": 34,
+      "members": 46,
+      "clanBuilderBasePoints": 48046,
+      "clanVersusPoints": 48046,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/RnoPAxoG7-0FG524X7EaAtAFWoNBn9kkMIv43CRw-0Q.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/RnoPAxoG7-0FG524X7EaAtAFWoNBn9kkMIv43CRw-0Q.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/RnoPAxoG7-0FG524X7EaAtAFWoNBn9kkMIv43CRw-0Q.png"
+      }
+    },
+    {
+      "rank": 43,
       "previousRank": 43,
       "tag": "#U08RJ88Y",
       "name": "Україна",
@@ -604,23 +649,8 @@
       }
     },
     {
-      "rank": 41,
-      "previousRank": 40,
-      "tag": "#P9QG8GPC",
-      "name": "EnerGiz.1PING",
-      "clanLevel": 34,
-      "members": 46,
-      "clanBuilderBasePoints": 48029,
-      "clanVersusPoints": 48029,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/RnoPAxoG7-0FG524X7EaAtAFWoNBn9kkMIv43CRw-0Q.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/RnoPAxoG7-0FG524X7EaAtAFWoNBn9kkMIv43CRw-0Q.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/RnoPAxoG7-0FG524X7EaAtAFWoNBn9kkMIv43CRw-0Q.png"
-      }
-    },
-    {
-      "rank": 42,
-      "previousRank": 41,
+      "rank": 44,
+      "previousRank": 44,
       "tag": "#2P9PCQYPU",
       "name": "GermanyElite",
       "clanLevel": 29,
@@ -634,29 +664,14 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 45,
       "previousRank": 45,
-      "tag": "#LJLVGPU0",
-      "name": "+19 HEROS",
-      "clanLevel": 38,
-      "members": 48,
-      "clanBuilderBasePoints": 48005,
-      "clanVersusPoints": 48005,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/nVPfeigjysscLyYcoSYGt02JRmU1PE8XqVMkEXQ5EgI.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/nVPfeigjysscLyYcoSYGt02JRmU1PE8XqVMkEXQ5EgI.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/nVPfeigjysscLyYcoSYGt02JRmU1PE8XqVMkEXQ5EgI.png"
-      }
-    },
-    {
-      "rank": 44,
-      "previousRank": 47,
       "tag": "#UYP9G2J",
       "name": "Gamereactor",
       "clanLevel": 29,
       "members": 46,
-      "clanBuilderBasePoints": 47995,
-      "clanVersusPoints": 47995,
+      "clanBuilderBasePoints": 47997,
+      "clanVersusPoints": 47997,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/Vy2HKzbWBg9GBEklIVZSt3nNFZOWdiKGQWAHx8TSI1U.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/Vy2HKzbWBg9GBEklIVZSt3nNFZOWdiKGQWAHx8TSI1U.png",
@@ -664,29 +679,14 @@
       }
     },
     {
-      "rank": 45,
-      "previousRank": 34,
-      "tag": "#LP089UCU",
-      "name": "arryatricks",
-      "clanLevel": 35,
-      "members": 48,
-      "clanBuilderBasePoints": 47968,
-      "clanVersusPoints": 47968,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/2WessFC1uQSHNOwyIgKDjxfhnVWZBjg_uzdhAVwa02I.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/2WessFC1uQSHNOwyIgKDjxfhnVWZBjg_uzdhAVwa02I.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/2WessFC1uQSHNOwyIgKDjxfhnVWZBjg_uzdhAVwa02I.png"
-      }
-    },
-    {
       "rank": 46,
-      "previousRank": 42,
+      "previousRank": 46,
       "tag": "#L9V92CJP",
       "name": "A R E A 5 1",
       "clanLevel": 28,
       "members": 47,
-      "clanBuilderBasePoints": 47968,
-      "clanVersusPoints": 47968,
+      "clanBuilderBasePoints": 47988,
+      "clanVersusPoints": 47988,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/CdG7Q2-O2xIl2zVQwzyN76rFzhHejSFqrb2DADHbkUE.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/CdG7Q2-O2xIl2zVQwzyN76rFzhHejSFqrb2DADHbkUE.png",
@@ -695,13 +695,28 @@
     },
     {
       "rank": 47,
-      "previousRank": 46,
+      "previousRank": 47,
+      "tag": "#LJLVGPU0",
+      "name": "+19 HEROS",
+      "clanLevel": 38,
+      "members": 48,
+      "clanBuilderBasePoints": 47983,
+      "clanVersusPoints": 47983,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/nVPfeigjysscLyYcoSYGt02JRmU1PE8XqVMkEXQ5EgI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/nVPfeigjysscLyYcoSYGt02JRmU1PE8XqVMkEXQ5EgI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/nVPfeigjysscLyYcoSYGt02JRmU1PE8XqVMkEXQ5EgI.png"
+      }
+    },
+    {
+      "rank": 48,
+      "previousRank": 48,
       "tag": "#PYQYCC8C",
       "name": "A.T.M group",
       "clanLevel": 37,
       "members": 50,
-      "clanBuilderBasePoints": 47953,
-      "clanVersusPoints": 47953,
+      "clanBuilderBasePoints": 47979,
+      "clanVersusPoints": 47979,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/iA-9hmqoDysGRRimbygpQzr42PiYdido2PT_c6hmiiw.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/iA-9hmqoDysGRRimbygpQzr42PiYdido2PT_c6hmiiw.png",
@@ -709,8 +724,8 @@
       }
     },
     {
-      "rank": 48,
-      "previousRank": 50,
+      "rank": 49,
+      "previousRank": 49,
       "tag": "#C8Q2RUG2",
       "name": "Hebrew Hammer™2",
       "clanLevel": 35,
@@ -724,14 +739,14 @@
       }
     },
     {
-      "rank": 49,
-      "previousRank": 51,
+      "rank": 50,
+      "previousRank": 50,
       "tag": "#2JRY0UVU",
       "name": "もふもふ同盟",
       "clanLevel": 40,
       "members": 50,
-      "clanBuilderBasePoints": 47844,
-      "clanVersusPoints": 47844,
+      "clanBuilderBasePoints": 47855,
+      "clanVersusPoints": 47855,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/t_KyuwQt4gpU3vBbroplfYkZlLybl6yb24pcfMYHRcU.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/t_KyuwQt4gpU3vBbroplfYkZlLybl6yb24pcfMYHRcU.png",
@@ -739,23 +754,8 @@
       }
     },
     {
-      "rank": 50,
-      "previousRank": 37,
-      "tag": "#PQJ88QVP",
-      "name": "persian heros",
-      "clanLevel": 41,
-      "members": 44,
-      "clanBuilderBasePoints": 47822,
-      "clanVersusPoints": 47822,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/7W4Gm9XZ856bI2bSZA_L-vCDKKRDe_72Ppbnm73vx6I.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/7W4Gm9XZ856bI2bSZA_L-vCDKKRDe_72Ppbnm73vx6I.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/7W4Gm9XZ856bI2bSZA_L-vCDKKRDe_72Ppbnm73vx6I.png"
-      }
-    },
-    {
       "rank": 51,
-      "previousRank": 48,
+      "previousRank": 51,
       "tag": "#9GCVCVG8",
       "name": "BLACK TIGERS",
       "clanLevel": 40,
@@ -770,7 +770,22 @@
     },
     {
       "rank": 52,
-      "previousRank": 54,
+      "previousRank": 52,
+      "tag": "#2922G0YL0",
+      "name": "INDO CLAN",
+      "clanLevel": 30,
+      "members": 50,
+      "clanBuilderBasePoints": 47756,
+      "clanVersusPoints": 47756,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/K6EIyC_NO-H1LZdkHvohY9jPHhhd3sFIlvmXKB66Htc.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/K6EIyC_NO-H1LZdkHvohY9jPHhhd3sFIlvmXKB66Htc.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/K6EIyC_NO-H1LZdkHvohY9jPHhhd3sFIlvmXKB66Htc.png"
+      }
+    },
+    {
+      "rank": 53,
+      "previousRank": 53,
       "tag": "#CCV2CL80",
       "name": "Wise Rabbits",
       "clanLevel": 31,
@@ -784,14 +799,14 @@
       }
     },
     {
-      "rank": 53,
-      "previousRank": 63,
+      "rank": 54,
+      "previousRank": 54,
       "tag": "#2PR29RYUJ",
       "name": "Iron Hills",
       "clanLevel": 24,
       "members": 49,
-      "clanBuilderBasePoints": 47733,
-      "clanVersusPoints": 47733,
+      "clanBuilderBasePoints": 47721,
+      "clanVersusPoints": 47721,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/qct-asU-IdAXC_ZT3QO7AtDj5oKVneJpOZpZx5vNbAY.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/qct-asU-IdAXC_ZT3QO7AtDj5oKVneJpOZpZx5vNbAY.png",
@@ -799,38 +814,23 @@
       }
     },
     {
-      "rank": 54,
-      "previousRank": 71,
-      "tag": "#YPUYRU0G",
-      "name": "BAD GIRLs",
-      "clanLevel": 38,
-      "members": 49,
-      "clanBuilderBasePoints": 47725,
-      "clanVersusPoints": 47725,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/umZh3456-18B3eiOa6eICMMAgVw49dzzOgCPEuz5KUo.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/umZh3456-18B3eiOa6eICMMAgVw49dzzOgCPEuz5KUo.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/umZh3456-18B3eiOa6eICMMAgVw49dzzOgCPEuz5KUo.png"
-      }
-    },
-    {
       "rank": 55,
-      "previousRank": 57,
-      "tag": "#2922G0YL0",
-      "name": "INDO CLAN",
-      "clanLevel": 30,
+      "previousRank": 55,
+      "tag": "#2R98Y8YUJ",
+      "name": "Get Buttered!",
+      "clanLevel": 23,
       "members": 50,
-      "clanBuilderBasePoints": 47713,
-      "clanVersusPoints": 47713,
+      "clanBuilderBasePoints": 47694,
+      "clanVersusPoints": 47694,
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/K6EIyC_NO-H1LZdkHvohY9jPHhhd3sFIlvmXKB66Htc.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/K6EIyC_NO-H1LZdkHvohY9jPHhhd3sFIlvmXKB66Htc.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/K6EIyC_NO-H1LZdkHvohY9jPHhhd3sFIlvmXKB66Htc.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/gIQBrFNZb598YXDUwqwVSyKqaLIhb3N9q29RhSA5j54.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/gIQBrFNZb598YXDUwqwVSyKqaLIhb3N9q29RhSA5j54.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/gIQBrFNZb598YXDUwqwVSyKqaLIhb3N9q29RhSA5j54.png"
       }
     },
     {
       "rank": 56,
-      "previousRank": 55,
+      "previousRank": 56,
       "tag": "#2JG0RR9UJ",
       "name": "EL AZTECA",
       "clanLevel": 16,
@@ -845,6 +845,36 @@
     },
     {
       "rank": 57,
+      "previousRank": 57,
+      "tag": "#8Y88920U",
+      "name": "ENYGMA",
+      "clanLevel": 40,
+      "members": 49,
+      "clanBuilderBasePoints": 47671,
+      "clanVersusPoints": 47671,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/jEKYvmsiVeSgXRjtYTs1wQ_aagLyhm33QgASXvT13-Y.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/jEKYvmsiVeSgXRjtYTs1wQ_aagLyhm33QgASXvT13-Y.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/jEKYvmsiVeSgXRjtYTs1wQ_aagLyhm33QgASXvT13-Y.png"
+      }
+    },
+    {
+      "rank": 58,
+      "previousRank": 58,
+      "tag": "#L0PVJQYY",
+      "name": "Jamais 2 ss 3",
+      "clanLevel": 30,
+      "members": 48,
+      "clanBuilderBasePoints": 47662,
+      "clanVersusPoints": 47662,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/rNG36YK4VVqj-N2haNbO0VJgIu2ffjbLkd3lymOAGtA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/rNG36YK4VVqj-N2haNbO0VJgIu2ffjbLkd3lymOAGtA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/rNG36YK4VVqj-N2haNbO0VJgIu2ffjbLkd3lymOAGtA.png"
+      }
+    },
+    {
+      "rank": 59,
       "previousRank": 59,
       "tag": "#L2Y2QRJP",
       "name": "BIÒ LEGACY",
@@ -859,29 +889,14 @@
       }
     },
     {
-      "rank": 58,
+      "rank": 60,
       "previousRank": 60,
-      "tag": "#L0PVJQYY",
-      "name": "Jamais 2 ss 3",
-      "clanLevel": 30,
-      "members": 48,
-      "clanBuilderBasePoints": 47646,
-      "clanVersusPoints": 47646,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/rNG36YK4VVqj-N2haNbO0VJgIu2ffjbLkd3lymOAGtA.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/rNG36YK4VVqj-N2haNbO0VJgIu2ffjbLkd3lymOAGtA.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/rNG36YK4VVqj-N2haNbO0VJgIu2ffjbLkd3lymOAGtA.png"
-      }
-    },
-    {
-      "rank": 59,
-      "previousRank": 61,
       "tag": "#8U00QP8U",
       "name": "!! TiTaNs !!",
       "clanLevel": 25,
       "members": 50,
-      "clanBuilderBasePoints": 47645,
-      "clanVersusPoints": 47645,
+      "clanBuilderBasePoints": 47639,
+      "clanVersusPoints": 47639,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/zLWEvyT8MyzxhCbQX7ja1YmkpaqwNkHb52ppcUy_Vvs.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/zLWEvyT8MyzxhCbQX7ja1YmkpaqwNkHb52ppcUy_Vvs.png",
@@ -889,14 +904,14 @@
       }
     },
     {
-      "rank": 60,
-      "previousRank": 66,
+      "rank": 61,
+      "previousRank": 61,
       "tag": "#U0UPUPJY",
       "name": "(SAVAŞÇİ)",
       "clanLevel": 30,
       "members": 50,
-      "clanBuilderBasePoints": 47627,
-      "clanVersusPoints": 47627,
+      "clanBuilderBasePoints": 47635,
+      "clanVersusPoints": 47635,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/tuhgs30wa3uwMYznAiy0Y7SdDHgEbutAATlVwViKtus.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/tuhgs30wa3uwMYznAiy0Y7SdDHgEbutAATlVwViKtus.png",
@@ -904,14 +919,14 @@
       }
     },
     {
-      "rank": 61,
-      "previousRank": 64,
+      "rank": 62,
+      "previousRank": 62,
       "tag": "#2LRUJJVU0",
       "name": "ソーセージパン",
       "clanLevel": 23,
       "members": 46,
-      "clanBuilderBasePoints": 47607,
-      "clanVersusPoints": 47607,
+      "clanBuilderBasePoints": 47619,
+      "clanVersusPoints": 47619,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/7gp3X67e0R1Fmu_pREpYqXHPT79KoIKBIemoGb2i_Ww.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/7gp3X67e0R1Fmu_pREpYqXHPT79KoIKBIemoGb2i_Ww.png",
@@ -919,44 +934,29 @@
       }
     },
     {
-      "rank": 62,
-      "previousRank": 53,
-      "tag": "#8Y88920U",
-      "name": "ENYGMA",
-      "clanLevel": 40,
-      "members": 48,
-      "clanBuilderBasePoints": 47574,
-      "clanVersusPoints": 47574,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/jEKYvmsiVeSgXRjtYTs1wQ_aagLyhm33QgASXvT13-Y.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/jEKYvmsiVeSgXRjtYTs1wQ_aagLyhm33QgASXvT13-Y.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/jEKYvmsiVeSgXRjtYTs1wQ_aagLyhm33QgASXvT13-Y.png"
-      }
-    },
-    {
       "rank": 63,
-      "previousRank": 70,
-      "tag": "#UQPQ02UL",
-      "name": "Avengers",
-      "clanLevel": 35,
-      "members": 50,
-      "clanBuilderBasePoints": 47568,
-      "clanVersusPoints": 47568,
+      "previousRank": 63,
+      "tag": "#9C9QQJPJ",
+      "name": "IronSky",
+      "clanLevel": 28,
+      "members": 48,
+      "clanBuilderBasePoints": 47555,
+      "clanVersusPoints": 47555,
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/VQQI0kCGHErjQycWkDe9vayjFK-UjjqhmJ-jznvJWSY.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/VQQI0kCGHErjQycWkDe9vayjFK-UjjqhmJ-jznvJWSY.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/VQQI0kCGHErjQycWkDe9vayjFK-UjjqhmJ-jznvJWSY.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/AgglqxMx536rG6dz_XZgT4tMY3I6o4HoOnSU31JnTXw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/AgglqxMx536rG6dz_XZgT4tMY3I6o4HoOnSU31JnTXw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/AgglqxMx536rG6dz_XZgT4tMY3I6o4HoOnSU31JnTXw.png"
       }
     },
     {
       "rank": 64,
-      "previousRank": 67,
+      "previousRank": 64,
       "tag": "#YCP8GLG",
       "name": "cat kingdom",
       "clanLevel": 38,
       "members": 47,
-      "clanBuilderBasePoints": 47555,
-      "clanVersusPoints": 47555,
+      "clanBuilderBasePoints": 47554,
+      "clanVersusPoints": 47554,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/HKzGiSrsOJjVhyeLrtqqgmPChg5nvdoM9d7dVuOQK2M.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/HKzGiSrsOJjVhyeLrtqqgmPChg5nvdoM9d7dVuOQK2M.png",
@@ -965,36 +965,6 @@
     },
     {
       "rank": 65,
-      "previousRank": 91,
-      "tag": "#9C9QQJPJ",
-      "name": "IronSky",
-      "clanLevel": 28,
-      "members": 48,
-      "clanBuilderBasePoints": 47553,
-      "clanVersusPoints": 47553,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/AgglqxMx536rG6dz_XZgT4tMY3I6o4HoOnSU31JnTXw.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/AgglqxMx536rG6dz_XZgT4tMY3I6o4HoOnSU31JnTXw.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/AgglqxMx536rG6dz_XZgT4tMY3I6o4HoOnSU31JnTXw.png"
-      }
-    },
-    {
-      "rank": 66,
-      "previousRank": 69,
-      "tag": "#9RYC2L2V",
-      "name": "Assam Autobots3",
-      "clanLevel": 34,
-      "members": 50,
-      "clanBuilderBasePoints": 47530,
-      "clanVersusPoints": 47530,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/iz93hvPTol2UdK-lcAd2MWeNfco59IEjmB_4T6Nv7GQ.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/iz93hvPTol2UdK-lcAd2MWeNfco59IEjmB_4T6Nv7GQ.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/iz93hvPTol2UdK-lcAd2MWeNfco59IEjmB_4T6Nv7GQ.png"
-      }
-    },
-    {
-      "rank": 67,
       "previousRank": 65,
       "tag": "#Q9CJJQ0U",
       "name": "DirtyDusters",
@@ -1009,14 +979,29 @@
       }
     },
     {
-      "rank": 68,
-      "previousRank": 88,
+      "rank": 66,
+      "previousRank": 66,
+      "tag": "#9RYC2L2V",
+      "name": "Assam Autobots3",
+      "clanLevel": 34,
+      "members": 50,
+      "clanBuilderBasePoints": 47524,
+      "clanVersusPoints": 47524,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/iz93hvPTol2UdK-lcAd2MWeNfco59IEjmB_4T6Nv7GQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/iz93hvPTol2UdK-lcAd2MWeNfco59IEjmB_4T6Nv7GQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/iz93hvPTol2UdK-lcAd2MWeNfco59IEjmB_4T6Nv7GQ.png"
+      }
+    },
+    {
+      "rank": 67,
+      "previousRank": 67,
       "tag": "#829V2L29",
       "name": "kenya clan",
       "clanLevel": 34,
       "members": 50,
-      "clanBuilderBasePoints": 47486,
-      "clanVersusPoints": 47486,
+      "clanBuilderBasePoints": 47495,
+      "clanVersusPoints": 47495,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/RPC_q5eJYYcIsn4RLeL-l4d5wCn6RJe6Q-i42DhlRc4.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/RPC_q5eJYYcIsn4RLeL-l4d5wCn6RJe6Q-i42DhlRc4.png",
@@ -1024,29 +1009,29 @@
       }
     },
     {
-      "rank": 69,
-      "previousRank": 79,
-      "tag": "#2R98Y8YUJ",
-      "name": "Get Buttered!",
-      "clanLevel": 23,
+      "rank": 68,
+      "previousRank": 68,
+      "tag": "#UQPQ02UL",
+      "name": "Avengers",
+      "clanLevel": 35,
       "members": 49,
-      "clanBuilderBasePoints": 47482,
-      "clanVersusPoints": 47482,
+      "clanBuilderBasePoints": 47494,
+      "clanVersusPoints": 47494,
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/gIQBrFNZb598YXDUwqwVSyKqaLIhb3N9q29RhSA5j54.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/gIQBrFNZb598YXDUwqwVSyKqaLIhb3N9q29RhSA5j54.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/gIQBrFNZb598YXDUwqwVSyKqaLIhb3N9q29RhSA5j54.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/VQQI0kCGHErjQycWkDe9vayjFK-UjjqhmJ-jznvJWSY.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/VQQI0kCGHErjQycWkDe9vayjFK-UjjqhmJ-jznvJWSY.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/VQQI0kCGHErjQycWkDe9vayjFK-UjjqhmJ-jznvJWSY.png"
       }
     },
     {
-      "rank": 70,
-      "previousRank": 58,
+      "rank": 69,
+      "previousRank": 69,
       "tag": "#22L9QPU9Q",
       "name": "40’sandShorties",
       "clanLevel": 33,
       "members": 49,
-      "clanBuilderBasePoints": 47473,
-      "clanVersusPoints": 47473,
+      "clanBuilderBasePoints": 47481,
+      "clanVersusPoints": 47481,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/AovBeAUsHewIjYysO677hOZDhTt9HgadAvpJsvWlKBg.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/AovBeAUsHewIjYysO677hOZDhTt9HgadAvpJsvWlKBg.png",
@@ -1054,8 +1039,8 @@
       }
     },
     {
-      "rank": 71,
-      "previousRank": 72,
+      "rank": 70,
+      "previousRank": 70,
       "tag": "#29CL8GV0R",
       "name": "Vikings",
       "clanLevel": 30,
@@ -1069,22 +1054,52 @@
       }
     },
     {
-      "rank": 72,
-      "previousRank": 52,
-      "tag": "#V8VRQP9P",
-      "name": "✌ريتأج✌",
-      "clanLevel": 26,
-      "members": 50,
-      "clanBuilderBasePoints": 47465,
-      "clanVersusPoints": 47465,
+      "rank": 71,
+      "previousRank": 71,
+      "tag": "#2Q2VVLQQC",
+      "name": "*We Are Indian*",
+      "clanLevel": 30,
+      "members": 49,
+      "clanBuilderBasePoints": 47463,
+      "clanVersusPoints": 47463,
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/Phrxy31wG91AMjULWTROgLCqFZMDTJiFVXq_KBmbSM0.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/Phrxy31wG91AMjULWTROgLCqFZMDTJiFVXq_KBmbSM0.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/Phrxy31wG91AMjULWTROgLCqFZMDTJiFVXq_KBmbSM0.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/wzO9NyM2A0s-dwj4WMdoM1ItAUeoDlwjx4n6s50DWF8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/wzO9NyM2A0s-dwj4WMdoM1ItAUeoDlwjx4n6s50DWF8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/wzO9NyM2A0s-dwj4WMdoM1ItAUeoDlwjx4n6s50DWF8.png"
+      }
+    },
+    {
+      "rank": 72,
+      "previousRank": 72,
+      "tag": "#RJJG0QGR",
+      "name": "DANGER ATTACKER",
+      "clanLevel": 38,
+      "members": 48,
+      "clanBuilderBasePoints": 47447,
+      "clanVersusPoints": 47447,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/UEjtH24gVYPWl2sG4fY5YOYcoyztlKmaxMJYIAEHHfE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/UEjtH24gVYPWl2sG4fY5YOYcoyztlKmaxMJYIAEHHfE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/UEjtH24gVYPWl2sG4fY5YOYcoyztlKmaxMJYIAEHHfE.png"
       }
     },
     {
       "rank": 73,
+      "previousRank": 73,
+      "tag": "#99LPJJV9",
+      "name": "gorkha rocks",
+      "clanLevel": 33,
+      "members": 50,
+      "clanBuilderBasePoints": 47433,
+      "clanVersusPoints": 47433,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/fUE5a7NOVkgPD2PbJikE8PL2JlS-4au5ka45gagk5w4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/fUE5a7NOVkgPD2PbJikE8PL2JlS-4au5ka45gagk5w4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/fUE5a7NOVkgPD2PbJikE8PL2JlS-4au5ka45gagk5w4.png"
+      }
+    },
+    {
+      "rank": 74,
       "previousRank": 74,
       "tag": "#YJ92JYJ9",
       "name": "الشجاعة",
@@ -1099,7 +1114,7 @@
       }
     },
     {
-      "rank": 74,
+      "rank": 75,
       "previousRank": 75,
       "tag": "#8PQ98LV0",
       "name": "#141",
@@ -1114,8 +1129,23 @@
       }
     },
     {
-      "rank": 75,
-      "previousRank": 78,
+      "rank": 76,
+      "previousRank": 76,
+      "tag": "#V8VRQP9P",
+      "name": "✌ريتأج✌",
+      "clanLevel": 26,
+      "members": 50,
+      "clanBuilderBasePoints": 47410,
+      "clanVersusPoints": 47410,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Phrxy31wG91AMjULWTROgLCqFZMDTJiFVXq_KBmbSM0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Phrxy31wG91AMjULWTROgLCqFZMDTJiFVXq_KBmbSM0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Phrxy31wG91AMjULWTROgLCqFZMDTJiFVXq_KBmbSM0.png"
+      }
+    },
+    {
+      "rank": 77,
+      "previousRank": 77,
       "tag": "#VPPU2V0",
       "name": "Vlaamse Draken",
       "clanLevel": 34,
@@ -1129,29 +1159,14 @@
       }
     },
     {
-      "rank": 76,
-      "previousRank": 102,
-      "tag": "#99LPJJV9",
-      "name": "gorkha rocks",
-      "clanLevel": 33,
-      "members": 49,
-      "clanBuilderBasePoints": 47377,
-      "clanVersusPoints": 47377,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/fUE5a7NOVkgPD2PbJikE8PL2JlS-4au5ka45gagk5w4.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/fUE5a7NOVkgPD2PbJikE8PL2JlS-4au5ka45gagk5w4.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/fUE5a7NOVkgPD2PbJikE8PL2JlS-4au5ka45gagk5w4.png"
-      }
-    },
-    {
-      "rank": 77,
-      "previousRank": 93,
+      "rank": 78,
+      "previousRank": 78,
       "tag": "#2R8829UU",
       "name": "VICTORY DAY",
       "clanLevel": 23,
       "members": 50,
-      "clanBuilderBasePoints": 47367,
-      "clanVersusPoints": 47367,
+      "clanBuilderBasePoints": 47366,
+      "clanVersusPoints": 47366,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/QMgYdI2iZI9ec0zq4NUvoyOr2woNEKU9DMD2KSHep7I.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/QMgYdI2iZI9ec0zq4NUvoyOr2woNEKU9DMD2KSHep7I.png",
@@ -1159,8 +1174,8 @@
       }
     },
     {
-      "rank": 78,
-      "previousRank": 104,
+      "rank": 79,
+      "previousRank": 79,
       "tag": "#2Y22LYQLU",
       "name": "InoxColony",
       "clanLevel": 34,
@@ -1174,8 +1189,8 @@
       }
     },
     {
-      "rank": 79,
-      "previousRank": 62,
+      "rank": 80,
+      "previousRank": 80,
       "tag": "#Q0J0UU2P",
       "name": "LifePoint",
       "clanLevel": 30,
@@ -1189,14 +1204,14 @@
       }
     },
     {
-      "rank": 80,
-      "previousRank": 103,
+      "rank": 81,
+      "previousRank": 81,
       "tag": "#RRJUUPP9",
       "name": "Army Of Mahdi",
       "clanLevel": 33,
       "members": 49,
-      "clanBuilderBasePoints": 47310,
-      "clanVersusPoints": 47310,
+      "clanBuilderBasePoints": 47330,
+      "clanVersusPoints": 47330,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/NeIjlTh56SrtcvBabMsZ1sf44phMW3oqWcvoIJnasAc.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/NeIjlTh56SrtcvBabMsZ1sf44phMW3oqWcvoIJnasAc.png",
@@ -1204,23 +1219,8 @@
       }
     },
     {
-      "rank": 81,
-      "previousRank": 80,
-      "tag": "#2G022JY9P",
-      "name": "lenalinol",
-      "clanLevel": 26,
-      "members": 50,
-      "clanBuilderBasePoints": 47308,
-      "clanVersusPoints": 47308,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/eq5lNI_U695MYxwBlxTRwWpbezozVyWWW3EUkHP00oI.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/eq5lNI_U695MYxwBlxTRwWpbezozVyWWW3EUkHP00oI.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/eq5lNI_U695MYxwBlxTRwWpbezozVyWWW3EUkHP00oI.png"
-      }
-    },
-    {
       "rank": 82,
-      "previousRank": 96,
+      "previousRank": 82,
       "tag": "#2JUVGU0R",
       "name": "MAIN AGENDA",
       "clanLevel": 31,
@@ -1235,43 +1235,28 @@
     },
     {
       "rank": 83,
-      "previousRank": 165,
-      "tag": "#2Q2VVLQQC",
-      "name": "*We Are Indian*",
-      "clanLevel": 30,
-      "members": 48,
-      "clanBuilderBasePoints": 47224,
-      "clanVersusPoints": 47224,
+      "previousRank": 83,
+      "tag": "#2G022JY9P",
+      "name": "lenalinol",
+      "clanLevel": 26,
+      "members": 50,
+      "clanBuilderBasePoints": 47305,
+      "clanVersusPoints": 47305,
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/wzO9NyM2A0s-dwj4WMdoM1ItAUeoDlwjx4n6s50DWF8.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/wzO9NyM2A0s-dwj4WMdoM1ItAUeoDlwjx4n6s50DWF8.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/wzO9NyM2A0s-dwj4WMdoM1ItAUeoDlwjx4n6s50DWF8.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/eq5lNI_U695MYxwBlxTRwWpbezozVyWWW3EUkHP00oI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/eq5lNI_U695MYxwBlxTRwWpbezozVyWWW3EUkHP00oI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/eq5lNI_U695MYxwBlxTRwWpbezozVyWWW3EUkHP00oI.png"
       }
     },
     {
       "rank": 84,
-      "previousRank": 73,
-      "tag": "#UCR0Y2G",
-      "name": "Share 2 Win",
-      "clanLevel": 37,
-      "members": 48,
-      "clanBuilderBasePoints": 47220,
-      "clanVersusPoints": 47220,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/ESAhpsMmoTsWFtwMjyRCII6VUJPEj3fAROhseFlvrHw.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/ESAhpsMmoTsWFtwMjyRCII6VUJPEj3fAROhseFlvrHw.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/ESAhpsMmoTsWFtwMjyRCII6VUJPEj3fAROhseFlvrHw.png"
-      }
-    },
-    {
-      "rank": 85,
-      "previousRank": 85,
+      "previousRank": 84,
       "tag": "#888QYJYG",
       "name": "無言 剿滅",
       "clanLevel": 39,
       "members": 50,
-      "clanBuilderBasePoints": 47220,
-      "clanVersusPoints": 47220,
+      "clanBuilderBasePoints": 47234,
+      "clanVersusPoints": 47234,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/C-WOcKLptysvgrtEYlYWJtyFZ7JOMwJs_5OdSJR1z6M.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/C-WOcKLptysvgrtEYlYWJtyFZ7JOMwJs_5OdSJR1z6M.png",
@@ -1279,14 +1264,29 @@
       }
     },
     {
+      "rank": 85,
+      "previousRank": 85,
+      "tag": "#8Q29JR89",
+      "name": "Class Action",
+      "clanLevel": 31,
+      "members": 47,
+      "clanBuilderBasePoints": 47215,
+      "clanVersusPoints": 47215,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/HEwtGmCunsXIPb5MzyM-i6lDk8FsplGk4IHmHuDOQCs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/HEwtGmCunsXIPb5MzyM-i6lDk8FsplGk4IHmHuDOQCs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/HEwtGmCunsXIPb5MzyM-i6lDk8FsplGk4IHmHuDOQCs.png"
+      }
+    },
+    {
       "rank": 86,
-      "previousRank": 87,
+      "previousRank": 86,
       "tag": "#229RY998",
       "name": "Eesti Veteranid",
       "clanLevel": 34,
       "members": 49,
-      "clanBuilderBasePoints": 47219,
-      "clanVersusPoints": 47219,
+      "clanBuilderBasePoints": 47214,
+      "clanVersusPoints": 47214,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
@@ -1295,37 +1295,7 @@
     },
     {
       "rank": 87,
-      "previousRank": 92,
-      "tag": "#8Q29JR89",
-      "name": "Class Action",
-      "clanLevel": 31,
-      "members": 47,
-      "clanBuilderBasePoints": 47204,
-      "clanVersusPoints": 47204,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/HEwtGmCunsXIPb5MzyM-i6lDk8FsplGk4IHmHuDOQCs.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/HEwtGmCunsXIPb5MzyM-i6lDk8FsplGk4IHmHuDOQCs.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/HEwtGmCunsXIPb5MzyM-i6lDk8FsplGk4IHmHuDOQCs.png"
-      }
-    },
-    {
-      "rank": 88,
-      "previousRank": 113,
-      "tag": "#20VCVRQ8",
-      "name": "<Defiance>Elite",
-      "clanLevel": 21,
-      "members": 50,
-      "clanBuilderBasePoints": 47194,
-      "clanVersusPoints": 47194,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/zijn_xagjUXDhNlxlXZhwv6xQZAvqd-sD0o4_Uwi_HA.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/zijn_xagjUXDhNlxlXZhwv6xQZAvqd-sD0o4_Uwi_HA.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/zijn_xagjUXDhNlxlXZhwv6xQZAvqd-sD0o4_Uwi_HA.png"
-      }
-    },
-    {
-      "rank": 89,
-      "previousRank": 95,
+      "previousRank": 87,
       "tag": "#LVYVRV8",
       "name": "veneto force",
       "clanLevel": 33,
@@ -1339,8 +1309,8 @@
       }
     },
     {
-      "rank": 90,
-      "previousRank": 86,
+      "rank": 88,
+      "previousRank": 88,
       "tag": "#YL22UPJJ",
       "name": "PhatXit_No1",
       "clanLevel": 31,
@@ -1354,23 +1324,8 @@
       }
     },
     {
-      "rank": 91,
-      "previousRank": 77,
-      "tag": "#RJJG0QGR",
-      "name": "DANGER ATTACKER",
-      "clanLevel": 38,
-      "members": 47,
-      "clanBuilderBasePoints": 47177,
-      "clanVersusPoints": 47177,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/UEjtH24gVYPWl2sG4fY5YOYcoyztlKmaxMJYIAEHHfE.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/UEjtH24gVYPWl2sG4fY5YOYcoyztlKmaxMJYIAEHHfE.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/UEjtH24gVYPWl2sG4fY5YOYcoyztlKmaxMJYIAEHHfE.png"
-      }
-    },
-    {
-      "rank": 92,
-      "previousRank": 143,
+      "rank": 89,
+      "previousRank": 89,
       "tag": "#QGGRLQY0",
       "name": "SL RaJaRaTa",
       "clanLevel": 32,
@@ -1384,14 +1339,14 @@
       }
     },
     {
-      "rank": 93,
-      "previousRank": 106,
+      "rank": 90,
+      "previousRank": 90,
       "tag": "#PPV9LVPR",
       "name": "Gohar Land",
       "clanLevel": 32,
       "members": 49,
-      "clanBuilderBasePoints": 47162,
-      "clanVersusPoints": 47162,
+      "clanBuilderBasePoints": 47157,
+      "clanVersusPoints": 47157,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/YDMzNqyY7RVMy2bZfhou2UvnMEbI2aUw_16csDnQYy8.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/YDMzNqyY7RVMy2bZfhou2UvnMEbI2aUw_16csDnQYy8.png",
@@ -1399,23 +1354,8 @@
       }
     },
     {
-      "rank": 94,
-      "previousRank": 98,
-      "tag": "#2YQLJQR9Y",
-      "name": "M⭕NSTER",
-      "clanLevel": 32,
-      "members": 49,
-      "clanBuilderBasePoints": 47158,
-      "clanVersusPoints": 47158,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/IMXuS4f_h0McQHC78cbrx9Ge3n65mMpJNy60IywkBl8.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/IMXuS4f_h0McQHC78cbrx9Ge3n65mMpJNy60IywkBl8.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/IMXuS4f_h0McQHC78cbrx9Ge3n65mMpJNy60IywkBl8.png"
-      }
-    },
-    {
-      "rank": 95,
-      "previousRank": 114,
+      "rank": 91,
+      "previousRank": 91,
       "tag": "#8Q0P98GY",
       "name": "Italian Gods",
       "clanLevel": 33,
@@ -1429,14 +1369,14 @@
       }
     },
     {
-      "rank": 96,
-      "previousRank": 99,
+      "rank": 92,
+      "previousRank": 92,
       "tag": "#2QQV0J09V",
       "name": "Big fighter iri",
       "clanLevel": 19,
       "members": 47,
-      "clanBuilderBasePoints": 47151,
-      "clanVersusPoints": 47151,
+      "clanBuilderBasePoints": 47150,
+      "clanVersusPoints": 47150,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/eUz8wjlHwqTi8oJvPGYY28Fez588zPxgtnp8NXJjA-U.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/eUz8wjlHwqTi8oJvPGYY28Fez588zPxgtnp8NXJjA-U.png",
@@ -1444,8 +1384,53 @@
       }
     },
     {
-      "rank": 97,
-      "previousRank": 90,
+      "rank": 93,
+      "previousRank": 93,
+      "tag": "#22PJJ20GC",
+      "name": "MarcinoCapucino",
+      "clanLevel": 34,
+      "members": 48,
+      "clanBuilderBasePoints": 47149,
+      "clanVersusPoints": 47149,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/bZ53REru-0f6wSbvb6uWpNETJHjRr9_Zx6IFpWN9KJ8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/bZ53REru-0f6wSbvb6uWpNETJHjRr9_Zx6IFpWN9KJ8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/bZ53REru-0f6wSbvb6uWpNETJHjRr9_Zx6IFpWN9KJ8.png"
+      }
+    },
+    {
+      "rank": 94,
+      "previousRank": 94,
+      "tag": "#88JCRQR0",
+      "name": "Qarshi City",
+      "clanLevel": 33,
+      "members": 50,
+      "clanBuilderBasePoints": 47144,
+      "clanVersusPoints": 47144,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Op8ojM-mQwKphF9fbOe4H7EG-ewJwnLnDN8UZKocYyw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Op8ojM-mQwKphF9fbOe4H7EG-ewJwnLnDN8UZKocYyw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Op8ojM-mQwKphF9fbOe4H7EG-ewJwnLnDN8UZKocYyw.png"
+      }
+    },
+    {
+      "rank": 95,
+      "previousRank": 95,
+      "tag": "#UCR0Y2G",
+      "name": "Share 2 Win",
+      "clanLevel": 37,
+      "members": 49,
+      "clanBuilderBasePoints": 47143,
+      "clanVersusPoints": 47143,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ESAhpsMmoTsWFtwMjyRCII6VUJPEj3fAROhseFlvrHw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ESAhpsMmoTsWFtwMjyRCII6VUJPEj3fAROhseFlvrHw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ESAhpsMmoTsWFtwMjyRCII6VUJPEj3fAROhseFlvrHw.png"
+      }
+    },
+    {
+      "rank": 96,
+      "previousRank": 96,
       "tag": "#8RLV8LVQ",
       "name": "Robin Hood.98",
       "clanLevel": 36,
@@ -1459,8 +1444,8 @@
       }
     },
     {
-      "rank": 98,
-      "previousRank": 81,
+      "rank": 97,
+      "previousRank": 97,
       "tag": "#PGLGUVV0",
       "name": "Украина",
       "clanLevel": 42,
@@ -1474,23 +1459,23 @@
       }
     },
     {
-      "rank": 99,
-      "previousRank": 82,
-      "tag": "#2L92892R8",
-      "name": "Для отдыха",
-      "clanLevel": 34,
-      "members": 48,
-      "clanBuilderBasePoints": 47120,
-      "clanVersusPoints": 47120,
+      "rank": 98,
+      "previousRank": 98,
+      "tag": "#88LGCLR8",
+      "name": "syria",
+      "clanLevel": 37,
+      "members": 49,
+      "clanBuilderBasePoints": 47125,
+      "clanVersusPoints": 47125,
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/oZqWY2D_fSkqQLaWXyuFjE6VTIUr5VfT7zmTNFeLLT0.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/oZqWY2D_fSkqQLaWXyuFjE6VTIUr5VfT7zmTNFeLLT0.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/oZqWY2D_fSkqQLaWXyuFjE6VTIUr5VfT7zmTNFeLLT0.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/gknHFquYwYca315kuiVqqhZTPFJx5iEoRRGmf4bBq88.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/gknHFquYwYca315kuiVqqhZTPFJx5iEoRRGmf4bBq88.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/gknHFquYwYca315kuiVqqhZTPFJx5iEoRRGmf4bBq88.png"
       }
     },
     {
-      "rank": 100,
-      "previousRank": 125,
+      "rank": 99,
+      "previousRank": 99,
       "tag": "#2LQ0JY09Q",
       "name": "XTreme-VMX",
       "clanLevel": 26,
@@ -1504,14 +1489,44 @@
       }
     },
     {
+      "rank": 100,
+      "previousRank": 100,
+      "tag": "#20VCVRQ8",
+      "name": "<Defiance>Elite",
+      "clanLevel": 21,
+      "members": 50,
+      "clanBuilderBasePoints": 47117,
+      "clanVersusPoints": 47117,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/zijn_xagjUXDhNlxlXZhwv6xQZAvqd-sD0o4_Uwi_HA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/zijn_xagjUXDhNlxlXZhwv6xQZAvqd-sD0o4_Uwi_HA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/zijn_xagjUXDhNlxlXZhwv6xQZAvqd-sD0o4_Uwi_HA.png"
+      }
+    },
+    {
       "rank": 101,
       "previousRank": 101,
+      "tag": "#2L92892R8",
+      "name": "Для отдыха",
+      "clanLevel": 34,
+      "members": 48,
+      "clanBuilderBasePoints": 47117,
+      "clanVersusPoints": 47117,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/oZqWY2D_fSkqQLaWXyuFjE6VTIUr5VfT7zmTNFeLLT0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/oZqWY2D_fSkqQLaWXyuFjE6VTIUr5VfT7zmTNFeLLT0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/oZqWY2D_fSkqQLaWXyuFjE6VTIUr5VfT7zmTNFeLLT0.png"
+      }
+    },
+    {
+      "rank": 102,
+      "previousRank": 102,
       "tag": "#PC8RCU09",
       "name": "Land_of_fire",
       "clanLevel": 36,
       "members": 49,
-      "clanBuilderBasePoints": 47114,
-      "clanVersusPoints": 47114,
+      "clanBuilderBasePoints": 47113,
+      "clanVersusPoints": 47113,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/2rq67kcE3hTCXKSkJkAQY3kW41cJ9rj7xu_QwvcFo0M.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/2rq67kcE3hTCXKSkJkAQY3kW41cJ9rj7xu_QwvcFo0M.png",
@@ -1519,23 +1534,8 @@
       }
     },
     {
-      "rank": 102,
-      "previousRank": 89,
-      "tag": "#88LGCLR8",
-      "name": "syria",
-      "clanLevel": 37,
-      "members": 49,
-      "clanBuilderBasePoints": 47109,
-      "clanVersusPoints": 47109,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/gknHFquYwYca315kuiVqqhZTPFJx5iEoRRGmf4bBq88.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/gknHFquYwYca315kuiVqqhZTPFJx5iEoRRGmf4bBq88.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/gknHFquYwYca315kuiVqqhZTPFJx5iEoRRGmf4bBq88.png"
-      }
-    },
-    {
       "rank": 103,
-      "previousRank": 107,
+      "previousRank": 103,
       "tag": "#L2UCPGUJ",
       "name": "suomen clan",
       "clanLevel": 35,
@@ -1550,28 +1550,43 @@
     },
     {
       "rank": 104,
-      "previousRank": 84,
-      "tag": "#9QYY0QVV",
-      "name": "Nepali Gorkas",
-      "clanLevel": 36,
+      "previousRank": 104,
+      "tag": "#P9JPU9QV",
+      "name": "#DangerZone",
+      "clanLevel": 34,
       "members": 49,
-      "clanBuilderBasePoints": 47101,
-      "clanVersusPoints": 47101,
+      "clanBuilderBasePoints": 47084,
+      "clanVersusPoints": 47084,
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/O0WdocG3snKxIuQHQC7uFxut_xYMfQbiHqtqbYh7Rjo.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/O0WdocG3snKxIuQHQC7uFxut_xYMfQbiHqtqbYh7Rjo.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/O0WdocG3snKxIuQHQC7uFxut_xYMfQbiHqtqbYh7Rjo.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/YWcyCaiblQoZUX8cq0zZQC1fvh9BHzrF_4s00stlu1w.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/YWcyCaiblQoZUX8cq0zZQC1fvh9BHzrF_4s00stlu1w.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/YWcyCaiblQoZUX8cq0zZQC1fvh9BHzrF_4s00stlu1w.png"
       }
     },
     {
       "rank": 105,
       "previousRank": 105,
+      "tag": "#2PUCL22CU",
+      "name": "Mamba Mentality",
+      "clanLevel": 28,
+      "members": 50,
+      "clanBuilderBasePoints": 47075,
+      "clanVersusPoints": 47075,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/O8i3K7wbQchyuc0sfADeH_v-nA6PgcJ4ZuJp64T3378.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/O8i3K7wbQchyuc0sfADeH_v-nA6PgcJ4ZuJp64T3378.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/O8i3K7wbQchyuc0sfADeH_v-nA6PgcJ4ZuJp64T3378.png"
+      }
+    },
+    {
+      "rank": 106,
+      "previousRank": 106,
       "tag": "#2QRL9VJ0L",
       "name": "!CHICAGO!",
       "clanLevel": 29,
       "members": 48,
-      "clanBuilderBasePoints": 47053,
-      "clanVersusPoints": 47053,
+      "clanBuilderBasePoints": 47050,
+      "clanVersusPoints": 47050,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/M5FVLUE7LJlf83ncN0_ox2nd0SVDMs3GI2gDEqFDSL0.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/M5FVLUE7LJlf83ncN0_ox2nd0SVDMs3GI2gDEqFDSL0.png",
@@ -1579,8 +1594,23 @@
       }
     },
     {
-      "rank": 106,
-      "previousRank": 173,
+      "rank": 107,
+      "previousRank": 107,
+      "tag": "#2PCC9YL8",
+      "name": "Furious D.s",
+      "clanLevel": 38,
+      "members": 50,
+      "clanBuilderBasePoints": 47043,
+      "clanVersusPoints": 47043,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/pPQxu86IpVsefsfJmay1_TFLDNOBuWLDlFKIGuV8fwU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/pPQxu86IpVsefsfJmay1_TFLDNOBuWLDlFKIGuV8fwU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/pPQxu86IpVsefsfJmay1_TFLDNOBuWLDlFKIGuV8fwU.png"
+      }
+    },
+    {
+      "rank": 108,
+      "previousRank": 108,
       "tag": "#RLCC2VLL",
       "name": "Sofajäger",
       "clanLevel": 32,
@@ -1594,14 +1624,14 @@
       }
     },
     {
-      "rank": 107,
-      "previousRank": 110,
+      "rank": 109,
+      "previousRank": 109,
       "tag": "#2PUGRQJ0C",
       "name": "Tribo_Periferia",
       "clanLevel": 20,
       "members": 48,
-      "clanBuilderBasePoints": 47026,
-      "clanVersusPoints": 47026,
+      "clanBuilderBasePoints": 47022,
+      "clanVersusPoints": 47022,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/hScIq0XyVgw8mzaLCpStM5NGZzdQRTRVlbf-LMZPv4A.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/hScIq0XyVgw8mzaLCpStM5NGZzdQRTRVlbf-LMZPv4A.png",
@@ -1609,38 +1639,38 @@
       }
     },
     {
-      "rank": 108,
-      "previousRank": 128,
-      "tag": "#88JCRQR0",
-      "name": "Qarshi City",
-      "clanLevel": 33,
-      "members": 49,
-      "clanBuilderBasePoints": 47024,
-      "clanVersusPoints": 47024,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/Op8ojM-mQwKphF9fbOe4H7EG-ewJwnLnDN8UZKocYyw.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/Op8ojM-mQwKphF9fbOe4H7EG-ewJwnLnDN8UZKocYyw.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/Op8ojM-mQwKphF9fbOe4H7EG-ewJwnLnDN8UZKocYyw.png"
-      }
-    },
-    {
-      "rank": 109,
-      "previousRank": 111,
-      "tag": "#2PCC9YL8",
-      "name": "Furious D.s",
-      "clanLevel": 38,
-      "members": 50,
-      "clanBuilderBasePoints": 47021,
-      "clanVersusPoints": 47021,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/pPQxu86IpVsefsfJmay1_TFLDNOBuWLDlFKIGuV8fwU.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/pPQxu86IpVsefsfJmay1_TFLDNOBuWLDlFKIGuV8fwU.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/pPQxu86IpVsefsfJmay1_TFLDNOBuWLDlFKIGuV8fwU.png"
-      }
-    },
-    {
       "rank": 110,
-      "previousRank": 109,
+      "previousRank": 110,
+      "tag": "#2YQLJQR9Y",
+      "name": "M⭕NSTER",
+      "clanLevel": 32,
+      "members": 48,
+      "clanBuilderBasePoints": 47016,
+      "clanVersusPoints": 47016,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/IMXuS4f_h0McQHC78cbrx9Ge3n65mMpJNy60IywkBl8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/IMXuS4f_h0McQHC78cbrx9Ge3n65mMpJNy60IywkBl8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/IMXuS4f_h0McQHC78cbrx9Ge3n65mMpJNy60IywkBl8.png"
+      }
+    },
+    {
+      "rank": 111,
+      "previousRank": 111,
+      "tag": "#LRCJPRVV",
+      "name": "FAST N FURIOUS",
+      "clanLevel": 35,
+      "members": 48,
+      "clanBuilderBasePoints": 47006,
+      "clanVersusPoints": 47006,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/hoK1VREwyt1tIxeRgWbNjIsMz-YE2_43KU9oUiJdUOI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/hoK1VREwyt1tIxeRgWbNjIsMz-YE2_43KU9oUiJdUOI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/hoK1VREwyt1tIxeRgWbNjIsMz-YE2_43KU9oUiJdUOI.png"
+      }
+    },
+    {
+      "rank": 112,
+      "previousRank": 112,
       "tag": "#2G8CU98GY",
       "name": "Art of War",
       "clanLevel": 27,
@@ -1654,8 +1684,23 @@
       }
     },
     {
-      "rank": 111,
-      "previousRank": 112,
+      "rank": 113,
+      "previousRank": 113,
+      "tag": "#2QJUC22U0",
+      "name": "\"ALL STAR\"",
+      "clanLevel": 25,
+      "members": 50,
+      "clanBuilderBasePoints": 47001,
+      "clanVersusPoints": 47001,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/9RqO0kLpXYQfTI-_O4juH3A2gSNvUbWM359W3KI2zHE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/9RqO0kLpXYQfTI-_O4juH3A2gSNvUbWM359W3KI2zHE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/9RqO0kLpXYQfTI-_O4juH3A2gSNvUbWM359W3KI2zHE.png"
+      }
+    },
+    {
+      "rank": 114,
+      "previousRank": 114,
       "tag": "#2CQ98VYV",
       "name": "Fun Lounge",
       "clanLevel": 35,
@@ -1669,59 +1714,29 @@
       }
     },
     {
-      "rank": 112,
-      "previousRank": 142,
-      "tag": "#JQL0Y9PU",
-      "name": "MAnGaLBaReChowK",
-      "clanLevel": 32,
-      "members": 49,
-      "clanBuilderBasePoints": 46988,
-      "clanVersusPoints": 46988,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/afV9oZO3DtxnJr00a522rWXrLyyUjWDhg010JDIni4k.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/afV9oZO3DtxnJr00a522rWXrLyyUjWDhg010JDIni4k.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/afV9oZO3DtxnJr00a522rWXrLyyUjWDhg010JDIni4k.png"
-      }
-    },
-    {
-      "rank": 113,
-      "previousRank": 122,
-      "tag": "#2QUQQ9LRV",
-      "name": "Whole World",
-      "clanLevel": 24,
-      "members": 50,
-      "clanBuilderBasePoints": 46987,
-      "clanVersusPoints": 46987,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/7FXGd03q4RnhoHqX2LFnO17a0rAG8IAfbbE8hSeey0M.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/7FXGd03q4RnhoHqX2LFnO17a0rAG8IAfbbE8hSeey0M.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/7FXGd03q4RnhoHqX2LFnO17a0rAG8IAfbbE8hSeey0M.png"
-      }
-    },
-    {
-      "rank": 114,
-      "previousRank": 163,
-      "tag": "#2QJUC22U0",
-      "name": "\"ALL STAR\"",
-      "clanLevel": 25,
-      "members": 50,
-      "clanBuilderBasePoints": 46987,
-      "clanVersusPoints": 46987,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/9RqO0kLpXYQfTI-_O4juH3A2gSNvUbWM359W3KI2zHE.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/9RqO0kLpXYQfTI-_O4juH3A2gSNvUbWM359W3KI2zHE.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/9RqO0kLpXYQfTI-_O4juH3A2gSNvUbWM359W3KI2zHE.png"
-      }
-    },
-    {
       "rank": 115,
-      "previousRank": 83,
+      "previousRank": 115,
+      "tag": "#YPUYRU0G",
+      "name": "BAD GIRLs",
+      "clanLevel": 38,
+      "members": 46,
+      "clanBuilderBasePoints": 46989,
+      "clanVersusPoints": 46989,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/umZh3456-18B3eiOa6eICMMAgVw49dzzOgCPEuz5KUo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/umZh3456-18B3eiOa6eICMMAgVw49dzzOgCPEuz5KUo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/umZh3456-18B3eiOa6eICMMAgVw49dzzOgCPEuz5KUo.png"
+      }
+    },
+    {
+      "rank": 116,
+      "previousRank": 116,
       "tag": "#P92JGYGJ",
       "name": "NEW ERA",
       "clanLevel": 36,
       "members": 44,
-      "clanBuilderBasePoints": 46985,
-      "clanVersusPoints": 46985,
+      "clanBuilderBasePoints": 46986,
+      "clanVersusPoints": 46986,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/IZvLEat8Y007LwRpGIohNKL69MXhzK-Yig1-xPTkIL0.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/IZvLEat8Y007LwRpGIohNKL69MXhzK-Yig1-xPTkIL0.png",
@@ -1729,14 +1744,44 @@
       }
     },
     {
-      "rank": 116,
+      "rank": 117,
+      "previousRank": 117,
+      "tag": "#JQL0Y9PU",
+      "name": "MAnGaLBaReChowK",
+      "clanLevel": 32,
+      "members": 49,
+      "clanBuilderBasePoints": 46986,
+      "clanVersusPoints": 46986,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/afV9oZO3DtxnJr00a522rWXrLyyUjWDhg010JDIni4k.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/afV9oZO3DtxnJr00a522rWXrLyyUjWDhg010JDIni4k.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/afV9oZO3DtxnJr00a522rWXrLyyUjWDhg010JDIni4k.png"
+      }
+    },
+    {
+      "rank": 118,
       "previousRank": 118,
+      "tag": "#2G08LRQ8C",
+      "name": "BOSH",
+      "clanLevel": 27,
+      "members": 48,
+      "clanBuilderBasePoints": 46980,
+      "clanVersusPoints": 46980,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/VEPjNBfn6ybbPdEWZ96VP-6jjSbvLGua2oNGMHTQnT0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/VEPjNBfn6ybbPdEWZ96VP-6jjSbvLGua2oNGMHTQnT0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/VEPjNBfn6ybbPdEWZ96VP-6jjSbvLGua2oNGMHTQnT0.png"
+      }
+    },
+    {
+      "rank": 119,
+      "previousRank": 119,
       "tag": "#2Q80YPP02",
       "name": "Thefuturetitans",
       "clanLevel": 25,
       "members": 50,
-      "clanBuilderBasePoints": 46973,
-      "clanVersusPoints": 46973,
+      "clanBuilderBasePoints": 46976,
+      "clanVersusPoints": 46976,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/PVhKI59c8_JG1V2RE9sComgclbFMJU8Mq1dFi78fNLg.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/PVhKI59c8_JG1V2RE9sComgclbFMJU8Mq1dFi78fNLg.png",
@@ -1744,7 +1789,7 @@
       }
     },
     {
-      "rank": 117,
+      "rank": 120,
       "previousRank": 120,
       "tag": "#GYG9098",
       "name": "Welteliete",
@@ -1759,8 +1804,23 @@
       }
     },
     {
-      "rank": 118,
-      "previousRank": 127,
+      "rank": 121,
+      "previousRank": 121,
+      "tag": "#PL9VPPYP",
+      "name": "THE RED ROOM",
+      "clanLevel": 31,
+      "members": 47,
+      "clanBuilderBasePoints": 46961,
+      "clanVersusPoints": 46961,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/gi58NS9TMcj0A6D6PjqbJsq8z9G6tdHLaM2QnOwaCLs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/gi58NS9TMcj0A6D6PjqbJsq8z9G6tdHLaM2QnOwaCLs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/gi58NS9TMcj0A6D6PjqbJsq8z9G6tdHLaM2QnOwaCLs.png"
+      }
+    },
+    {
+      "rank": 122,
+      "previousRank": 122,
       "tag": "#2902UG92",
       "name": "PRAESIDIUM WAR",
       "clanLevel": 36,
@@ -1774,23 +1834,8 @@
       }
     },
     {
-      "rank": 119,
-      "previousRank": 205,
-      "tag": "#PL9VPPYP",
-      "name": "THE RED ROOM",
-      "clanLevel": 31,
-      "members": 47,
-      "clanBuilderBasePoints": 46955,
-      "clanVersusPoints": 46955,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/gi58NS9TMcj0A6D6PjqbJsq8z9G6tdHLaM2QnOwaCLs.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/gi58NS9TMcj0A6D6PjqbJsq8z9G6tdHLaM2QnOwaCLs.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/gi58NS9TMcj0A6D6PjqbJsq8z9G6tdHLaM2QnOwaCLs.png"
-      }
-    },
-    {
-      "rank": 120,
-      "previousRank": 124,
+      "rank": 123,
+      "previousRank": 123,
       "tag": "#8U9VCQQC",
       "name": "Gamma-Ray Burst",
       "clanLevel": 34,
@@ -1804,8 +1849,8 @@
       }
     },
     {
-      "rank": 121,
-      "previousRank": 56,
+      "rank": 124,
+      "previousRank": 124,
       "tag": "#2QJCYCYC0",
       "name": "امیر",
       "clanLevel": 28,
@@ -1819,14 +1864,29 @@
       }
     },
     {
-      "rank": 122,
+      "rank": 125,
+      "previousRank": 125,
+      "tag": "#LLRGP8VP",
+      "name": "kncc",
+      "clanLevel": 30,
+      "members": 49,
+      "clanBuilderBasePoints": 46943,
+      "clanVersusPoints": 46943,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/zAqCujNkyz9R9jgjq-G3Vaq2-X4GxRD0rPPyVbeh7z8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/zAqCujNkyz9R9jgjq-G3Vaq2-X4GxRD0rPPyVbeh7z8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/zAqCujNkyz9R9jgjq-G3Vaq2-X4GxRD0rPPyVbeh7z8.png"
+      }
+    },
+    {
+      "rank": 126,
       "previousRank": 126,
       "tag": "#2YGYULL",
       "name": "추방자 연맹",
       "clanLevel": 39,
       "members": 48,
-      "clanBuilderBasePoints": 46939,
-      "clanVersusPoints": 46939,
+      "clanBuilderBasePoints": 46940,
+      "clanVersusPoints": 46940,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/gWI2GUTmwBpkaGyj35VVu1wFQgNshqOAdCI86NbhuiQ.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/gWI2GUTmwBpkaGyj35VVu1wFQgNshqOAdCI86NbhuiQ.png",
@@ -1834,8 +1894,23 @@
       }
     },
     {
-      "rank": 123,
-      "previousRank": 132,
+      "rank": 127,
+      "previousRank": 127,
+      "tag": "#2YVYLVYJV",
+      "name": "AUSTRIA ONE",
+      "clanLevel": 31,
+      "members": 48,
+      "clanBuilderBasePoints": 46932,
+      "clanVersusPoints": 46932,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/dtZVu0AGMRA-SXFlw3qttbypCQVe6laccIb-l0UKtAk.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/dtZVu0AGMRA-SXFlw3qttbypCQVe6laccIb-l0UKtAk.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/dtZVu0AGMRA-SXFlw3qttbypCQVe6laccIb-l0UKtAk.png"
+      }
+    },
+    {
+      "rank": 128,
+      "previousRank": 128,
       "tag": "#9YC98YPV",
       "name": "Покровители АДА",
       "clanLevel": 40,
@@ -1849,8 +1924,23 @@
       }
     },
     {
-      "rank": 124,
-      "previousRank": 218,
+      "rank": 129,
+      "previousRank": 129,
+      "tag": "#9Y28GQR",
+      "name": "RJJ",
+      "clanLevel": 35,
+      "members": 49,
+      "clanBuilderBasePoints": 46919,
+      "clanVersusPoints": 46919,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/nYV0rJsYETGhpDR-eRBe0cmU3xC0NMP4xlISckWhIEc.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/nYV0rJsYETGhpDR-eRBe0cmU3xC0NMP4xlISckWhIEc.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/nYV0rJsYETGhpDR-eRBe0cmU3xC0NMP4xlISckWhIEc.png"
+      }
+    },
+    {
+      "rank": 130,
+      "previousRank": 130,
       "tag": "#2GQCVL8YJ",
       "name": "GOOD LUCK",
       "clanLevel": 20,
@@ -1864,14 +1954,14 @@
       }
     },
     {
-      "rank": 125,
-      "previousRank": 138,
+      "rank": 131,
+      "previousRank": 131,
       "tag": "#8PC289C0",
       "name": "RATED X",
       "clanLevel": 32,
       "members": 50,
-      "clanBuilderBasePoints": 46910,
-      "clanVersusPoints": 46910,
+      "clanBuilderBasePoints": 46915,
+      "clanVersusPoints": 46915,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/5IWlCISAV2czS27M9k9iCc8YWlxVKBtTcmORXKPCsNQ.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/5IWlCISAV2czS27M9k9iCc8YWlxVKBtTcmORXKPCsNQ.png",
@@ -1879,67 +1969,22 @@
       }
     },
     {
-      "rank": 126,
-      "previousRank": 151,
-      "tag": "#LLRGP8VP",
-      "name": "kncc",
-      "clanLevel": 30,
+      "rank": 132,
+      "previousRank": 132,
+      "tag": "#2QUQQ9LRV",
+      "name": "Whole World",
+      "clanLevel": 24,
       "members": 49,
-      "clanBuilderBasePoints": 46907,
-      "clanVersusPoints": 46907,
+      "clanBuilderBasePoints": 46911,
+      "clanVersusPoints": 46911,
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/zAqCujNkyz9R9jgjq-G3Vaq2-X4GxRD0rPPyVbeh7z8.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/zAqCujNkyz9R9jgjq-G3Vaq2-X4GxRD0rPPyVbeh7z8.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/zAqCujNkyz9R9jgjq-G3Vaq2-X4GxRD0rPPyVbeh7z8.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/7FXGd03q4RnhoHqX2LFnO17a0rAG8IAfbbE8hSeey0M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/7FXGd03q4RnhoHqX2LFnO17a0rAG8IAfbbE8hSeey0M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/7FXGd03q4RnhoHqX2LFnO17a0rAG8IAfbbE8hSeey0M.png"
       }
     },
     {
-      "rank": 127,
-      "previousRank": 137,
-      "tag": "#2G08LRQ8C",
-      "name": "BOSH",
-      "clanLevel": 27,
-      "members": 48,
-      "clanBuilderBasePoints": 46907,
-      "clanVersusPoints": 46907,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/VEPjNBfn6ybbPdEWZ96VP-6jjSbvLGua2oNGMHTQnT0.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/VEPjNBfn6ybbPdEWZ96VP-6jjSbvLGua2oNGMHTQnT0.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/VEPjNBfn6ybbPdEWZ96VP-6jjSbvLGua2oNGMHTQnT0.png"
-      }
-    },
-    {
-      "rank": 128,
-      "previousRank": 131,
-      "tag": "#G8UQ8YJJ",
-      "name": "Титаны",
-      "clanLevel": 38,
-      "members": 50,
-      "clanBuilderBasePoints": 46905,
-      "clanVersusPoints": 46905,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/WjMDDl7DsjPbl8FiUa8qNpRI5r56ZPzI47GjgFIkUXU.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/WjMDDl7DsjPbl8FiUa8qNpRI5r56ZPzI47GjgFIkUXU.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/WjMDDl7DsjPbl8FiUa8qNpRI5r56ZPzI47GjgFIkUXU.png"
-      }
-    },
-    {
-      "rank": 129,
-      "previousRank": 129,
-      "tag": "#QYUQJQ2V",
-      "name": "필승!",
-      "clanLevel": 38,
-      "members": 45,
-      "clanBuilderBasePoints": 46900,
-      "clanVersusPoints": 46900,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/7FgGiXKK3BzMQqX6jAFp5oJGJXx7rCEtPJPfunrcHZk.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/7FgGiXKK3BzMQqX6jAFp5oJGJXx7rCEtPJPfunrcHZk.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/7FgGiXKK3BzMQqX6jAFp5oJGJXx7rCEtPJPfunrcHZk.png"
-      }
-    },
-    {
-      "rank": 130,
+      "rank": 133,
       "previousRank": 133,
       "tag": "#2JRCGJY",
       "name": "Fin - Kaamos",
@@ -1954,23 +1999,53 @@
       }
     },
     {
-      "rank": 131,
-      "previousRank": 100,
-      "tag": "#2PUCL22CU",
-      "name": "Mamba Mentality",
-      "clanLevel": 28,
-      "members": 49,
-      "clanBuilderBasePoints": 46896,
-      "clanVersusPoints": 46896,
+      "rank": 134,
+      "previousRank": 134,
+      "tag": "#G8UQ8YJJ",
+      "name": "Титаны",
+      "clanLevel": 38,
+      "members": 50,
+      "clanBuilderBasePoints": 46897,
+      "clanVersusPoints": 46897,
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/O8i3K7wbQchyuc0sfADeH_v-nA6PgcJ4ZuJp64T3378.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/O8i3K7wbQchyuc0sfADeH_v-nA6PgcJ4ZuJp64T3378.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/O8i3K7wbQchyuc0sfADeH_v-nA6PgcJ4ZuJp64T3378.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/WjMDDl7DsjPbl8FiUa8qNpRI5r56ZPzI47GjgFIkUXU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/WjMDDl7DsjPbl8FiUa8qNpRI5r56ZPzI47GjgFIkUXU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/WjMDDl7DsjPbl8FiUa8qNpRI5r56ZPzI47GjgFIkUXU.png"
       }
     },
     {
-      "rank": 132,
-      "previousRank": 141,
+      "rank": 135,
+      "previousRank": 135,
+      "tag": "#20RR8C8LY",
+      "name": "Nepali Gangster",
+      "clanLevel": 31,
+      "members": 49,
+      "clanBuilderBasePoints": 46892,
+      "clanVersusPoints": 46892,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/9uvYoy28ezG43QMmLw7jT1hgaUv0Y8QemH9-XSD9LX8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/9uvYoy28ezG43QMmLw7jT1hgaUv0Y8QemH9-XSD9LX8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/9uvYoy28ezG43QMmLw7jT1hgaUv0Y8QemH9-XSD9LX8.png"
+      }
+    },
+    {
+      "rank": 136,
+      "previousRank": 136,
+      "tag": "#QYUQJQ2V",
+      "name": "필승!",
+      "clanLevel": 38,
+      "members": 45,
+      "clanBuilderBasePoints": 46891,
+      "clanVersusPoints": 46891,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/7FgGiXKK3BzMQqX6jAFp5oJGJXx7rCEtPJPfunrcHZk.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/7FgGiXKK3BzMQqX6jAFp5oJGJXx7rCEtPJPfunrcHZk.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/7FgGiXKK3BzMQqX6jAFp5oJGJXx7rCEtPJPfunrcHZk.png"
+      }
+    },
+    {
+      "rank": 137,
+      "previousRank": 137,
       "tag": "#U0UYR9VV",
       "name": "دموع الورد",
       "clanLevel": 32,
@@ -1984,14 +2059,29 @@
       }
     },
     {
-      "rank": 133,
-      "previousRank": 134,
+      "rank": 138,
+      "previousRank": 138,
+      "tag": "#2RQY2YGVU",
+      "name": "winner",
+      "clanLevel": 25,
+      "members": 50,
+      "clanBuilderBasePoints": 46884,
+      "clanVersusPoints": 46884,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/cFTtgLaI8lrZY1jLsV-NJF3GQNY5V_q3afqejTO2N7o.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/cFTtgLaI8lrZY1jLsV-NJF3GQNY5V_q3afqejTO2N7o.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/cFTtgLaI8lrZY1jLsV-NJF3GQNY5V_q3afqejTO2N7o.png"
+      }
+    },
+    {
+      "rank": 139,
+      "previousRank": 139,
       "tag": "#2Q9JGLJJP",
       "name": "AE ĐOÀN KẾT",
       "clanLevel": 28,
       "members": 50,
-      "clanBuilderBasePoints": 46886,
-      "clanVersusPoints": 46886,
+      "clanBuilderBasePoints": 46881,
+      "clanVersusPoints": 46881,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/BDzyuhe03TqXh08lZ_IFBQQfYLy4Y30-EjgYKPDP5vM.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/BDzyuhe03TqXh08lZ_IFBQQfYLy4Y30-EjgYKPDP5vM.png",
@@ -1999,44 +2089,29 @@
       }
     },
     {
-      "rank": 134,
-      "previousRank": 68,
-      "tag": "#22PJJ20GC",
-      "name": "MarcinoCapucino",
-      "clanLevel": 34,
-      "members": 46,
-      "clanBuilderBasePoints": 46885,
-      "clanVersusPoints": 46885,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/bZ53REru-0f6wSbvb6uWpNETJHjRr9_Zx6IFpWN9KJ8.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/bZ53REru-0f6wSbvb6uWpNETJHjRr9_Zx6IFpWN9KJ8.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/bZ53REru-0f6wSbvb6uWpNETJHjRr9_Zx6IFpWN9KJ8.png"
-      }
-    },
-    {
-      "rank": 135,
-      "previousRank": 135,
-      "tag": "#P9JPU9QV",
-      "name": "#DangerZone",
-      "clanLevel": 34,
-      "members": 48,
-      "clanBuilderBasePoints": 46870,
-      "clanVersusPoints": 46870,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/YWcyCaiblQoZUX8cq0zZQC1fvh9BHzrF_4s00stlu1w.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/YWcyCaiblQoZUX8cq0zZQC1fvh9BHzrF_4s00stlu1w.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/YWcyCaiblQoZUX8cq0zZQC1fvh9BHzrF_4s00stlu1w.png"
-      }
-    },
-    {
-      "rank": 136,
+      "rank": 140,
       "previousRank": 140,
+      "tag": "#22GVV2RY",
+      "name": "KURD POWERS",
+      "clanLevel": 34,
+      "members": 49,
+      "clanBuilderBasePoints": 46869,
+      "clanVersusPoints": 46869,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/sE23M9MD0Lm_75K3QeVeRF5Idpj6eAI53cVsQirxXOs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/sE23M9MD0Lm_75K3QeVeRF5Idpj6eAI53cVsQirxXOs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/sE23M9MD0Lm_75K3QeVeRF5Idpj6eAI53cVsQirxXOs.png"
+      }
+    },
+    {
+      "rank": 141,
+      "previousRank": 141,
       "tag": "#29UG0LQ98",
       "name": "Battle Clashers",
       "clanLevel": 31,
       "members": 45,
-      "clanBuilderBasePoints": 46865,
-      "clanVersusPoints": 46865,
+      "clanBuilderBasePoints": 46868,
+      "clanVersusPoints": 46868,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/2-WKjCQVFMDGxd4avN-pr9BhbLpws3RXCfJEuvNjBzQ.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/2-WKjCQVFMDGxd4avN-pr9BhbLpws3RXCfJEuvNjBzQ.png",
@@ -2044,23 +2119,8 @@
       }
     },
     {
-      "rank": 137,
-      "previousRank": 76,
-      "tag": "#LRCJPRVV",
-      "name": "FAST N FURIOUS",
-      "clanLevel": 35,
-      "members": 47,
-      "clanBuilderBasePoints": 46855,
-      "clanVersusPoints": 46855,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/hoK1VREwyt1tIxeRgWbNjIsMz-YE2_43KU9oUiJdUOI.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/hoK1VREwyt1tIxeRgWbNjIsMz-YE2_43KU9oUiJdUOI.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/hoK1VREwyt1tIxeRgWbNjIsMz-YE2_43KU9oUiJdUOI.png"
-      }
-    },
-    {
-      "rank": 138,
-      "previousRank": 147,
+      "rank": 142,
+      "previousRank": 142,
       "tag": "#UUC8QPP",
       "name": "KING'S DESTINY",
       "clanLevel": 37,
@@ -2074,38 +2134,23 @@
       }
     },
     {
-      "rank": 139,
-      "previousRank": 164,
-      "tag": "#8UJPJQR8",
-      "name": "马六甲民联1",
-      "clanLevel": 37,
+      "rank": 143,
+      "previousRank": 143,
+      "tag": "#2RQR02LJR",
+      "name": "Legacy",
+      "clanLevel": 22,
       "members": 49,
-      "clanBuilderBasePoints": 46853,
-      "clanVersusPoints": 46853,
+      "clanBuilderBasePoints": 46849,
+      "clanVersusPoints": 46849,
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/dg1Va_RVG0JzSxI0v7SqMdvifOgWe8xC5ZdE1HXF_cM.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/dg1Va_RVG0JzSxI0v7SqMdvifOgWe8xC5ZdE1HXF_cM.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/dg1Va_RVG0JzSxI0v7SqMdvifOgWe8xC5ZdE1HXF_cM.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/1i7ih62IDlZIusaVc4lNBNIQI22EfPguX8xLKiP213A.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/1i7ih62IDlZIusaVc4lNBNIQI22EfPguX8xLKiP213A.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/1i7ih62IDlZIusaVc4lNBNIQI22EfPguX8xLKiP213A.png"
       }
     },
     {
-      "rank": 140,
-      "previousRank": 146,
-      "tag": "#2VJUQQJL",
-      "name": "Pinoy BDH -CA",
-      "clanLevel": 45,
-      "members": 49,
-      "clanBuilderBasePoints": 46843,
-      "clanVersusPoints": 46843,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/VKp877bc0RUNakuqUbkKwF0D3LnqUF_W3CLTERelnMw.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/VKp877bc0RUNakuqUbkKwF0D3LnqUF_W3CLTERelnMw.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/VKp877bc0RUNakuqUbkKwF0D3LnqUF_W3CLTERelnMw.png"
-      }
-    },
-    {
-      "rank": 141,
-      "previousRank": 116,
+      "rank": 144,
+      "previousRank": 144,
       "tag": "#28YC0Y0VY",
       "name": "Clan #28YC0Y0VY",
       "clanLevel": 29,
@@ -2119,8 +2164,23 @@
       }
     },
     {
-      "rank": 142,
-      "previousRank": 162,
+      "rank": 145,
+      "previousRank": 145,
+      "tag": "#2VJUQQJL",
+      "name": "Pinoy BDH -CA",
+      "clanLevel": 45,
+      "members": 49,
+      "clanBuilderBasePoints": 46840,
+      "clanVersusPoints": 46840,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/VKp877bc0RUNakuqUbkKwF0D3LnqUF_W3CLTERelnMw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/VKp877bc0RUNakuqUbkKwF0D3LnqUF_W3CLTERelnMw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/VKp877bc0RUNakuqUbkKwF0D3LnqUF_W3CLTERelnMw.png"
+      }
+    },
+    {
+      "rank": 146,
+      "previousRank": 146,
       "tag": "#28PJU2QJQ",
       "name": "BoTT Suomi",
       "clanLevel": 32,
@@ -2134,8 +2194,8 @@
       }
     },
     {
-      "rank": 143,
-      "previousRank": 149,
+      "rank": 147,
+      "previousRank": 147,
       "tag": "#80C89P8L",
       "name": "Vecchi Leoni",
       "clanLevel": 40,
@@ -2149,8 +2209,23 @@
       }
     },
     {
-      "rank": 144,
-      "previousRank": 130,
+      "rank": 148,
+      "previousRank": 148,
+      "tag": "#2U2PPPP2C",
+      "name": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+      "clanLevel": 12,
+      "members": 50,
+      "clanBuilderBasePoints": 46832,
+      "clanVersusPoints": 46832,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/4bGMDAPCVeHm63O20USrvK6MNTUC682b7gD835UIzC4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/4bGMDAPCVeHm63O20USrvK6MNTUC682b7gD835UIzC4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/4bGMDAPCVeHm63O20USrvK6MNTUC682b7gD835UIzC4.png"
+      }
+    },
+    {
+      "rank": 149,
+      "previousRank": 149,
       "tag": "#28LVPPPG",
       "name": "Sari Boys",
       "clanLevel": 33,
@@ -2164,23 +2239,23 @@
       }
     },
     {
-      "rank": 145,
-      "previousRank": 123,
-      "tag": "#9Y28GQR",
-      "name": "RJJ",
-      "clanLevel": 35,
-      "members": 48,
-      "clanBuilderBasePoints": 46813,
-      "clanVersusPoints": 46813,
+      "rank": 150,
+      "previousRank": 150,
+      "tag": "#8UJPJQR8",
+      "name": "马六甲民联1",
+      "clanLevel": 37,
+      "members": 49,
+      "clanBuilderBasePoints": 46826,
+      "clanVersusPoints": 46826,
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/nYV0rJsYETGhpDR-eRBe0cmU3xC0NMP4xlISckWhIEc.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/nYV0rJsYETGhpDR-eRBe0cmU3xC0NMP4xlISckWhIEc.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/nYV0rJsYETGhpDR-eRBe0cmU3xC0NMP4xlISckWhIEc.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/dg1Va_RVG0JzSxI0v7SqMdvifOgWe8xC5ZdE1HXF_cM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/dg1Va_RVG0JzSxI0v7SqMdvifOgWe8xC5ZdE1HXF_cM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/dg1Va_RVG0JzSxI0v7SqMdvifOgWe8xC5ZdE1HXF_cM.png"
       }
     },
     {
-      "rank": 146,
-      "previousRank": 155,
+      "rank": 151,
+      "previousRank": 151,
       "tag": "#28YQ8RJC2",
       "name": "★★★TÜRKİYEM★★★",
       "clanLevel": 35,
@@ -2194,14 +2269,44 @@
       }
     },
     {
-      "rank": 147,
-      "previousRank": 150,
+      "rank": 152,
+      "previousRank": 153,
+      "tag": "#UR2LY9UR",
+      "name": "Fúria",
+      "clanLevel": 34,
+      "members": 50,
+      "clanBuilderBasePoints": 46805,
+      "clanVersusPoints": 46805,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/J7HSLvJG3zhlCdadr0Dxbuvq9adG8wkaBYqu0kVm2rQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/J7HSLvJG3zhlCdadr0Dxbuvq9adG8wkaBYqu0kVm2rQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/J7HSLvJG3zhlCdadr0Dxbuvq9adG8wkaBYqu0kVm2rQ.png"
+      }
+    },
+    {
+      "rank": 153,
+      "previousRank": 152,
+      "tag": "#2RP2V0YYL",
+      "name": "TEAM⚡ RELAX",
+      "clanLevel": 11,
+      "members": 46,
+      "clanBuilderBasePoints": 46805,
+      "clanVersusPoints": 46805,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xyEwvOKu3jckDO7RSyaRgLAdSf1jqziKPiQWqzMWNHU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xyEwvOKu3jckDO7RSyaRgLAdSf1jqziKPiQWqzMWNHU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xyEwvOKu3jckDO7RSyaRgLAdSf1jqziKPiQWqzMWNHU.png"
+      }
+    },
+    {
+      "rank": 154,
+      "previousRank": 154,
       "tag": "#8J09RQC2",
       "name": "**СтарПерцы**",
       "clanLevel": 39,
       "members": 50,
-      "clanBuilderBasePoints": 46798,
-      "clanVersusPoints": 46798,
+      "clanBuilderBasePoints": 46805,
+      "clanVersusPoints": 46805,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/otKfNYMt7xFgWv1cPvfQofoZBvC9BjkWgkokwUNQnCg.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/otKfNYMt7xFgWv1cPvfQofoZBvC9BjkWgkokwUNQnCg.png",
@@ -2209,8 +2314,38 @@
       }
     },
     {
-      "rank": 148,
-      "previousRank": 119,
+      "rank": 155,
+      "previousRank": 155,
+      "tag": "#PU8P822V",
+      "name": "Jai Nepal",
+      "clanLevel": 30,
+      "members": 49,
+      "clanBuilderBasePoints": 46803,
+      "clanVersusPoints": 46803,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/tnzRhbg5W26pH4p0I8r-RullE9bn7XPVqdi5VrQ2d18.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/tnzRhbg5W26pH4p0I8r-RullE9bn7XPVqdi5VrQ2d18.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/tnzRhbg5W26pH4p0I8r-RullE9bn7XPVqdi5VrQ2d18.png"
+      }
+    },
+    {
+      "rank": 156,
+      "previousRank": 156,
+      "tag": "#2GP9QPCVQ",
+      "name": "สำนักไก่",
+      "clanLevel": 21,
+      "members": 48,
+      "clanBuilderBasePoints": 46785,
+      "clanVersusPoints": 46785,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/gUb3atSqVP0FnuglAX4fLQxQf432LHrsPa89EU7Ixeo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/gUb3atSqVP0FnuglAX4fLQxQf432LHrsPa89EU7Ixeo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/gUb3atSqVP0FnuglAX4fLQxQf432LHrsPa89EU7Ixeo.png"
+      }
+    },
+    {
+      "rank": 157,
+      "previousRank": 157,
       "tag": "#LQQJLQJ",
       "name": "Pak Num#1",
       "clanLevel": 28,
@@ -2224,23 +2359,8 @@
       }
     },
     {
-      "rank": 149,
+      "rank": 158,
       "previousRank": 158,
-      "tag": "#P9URLP22",
-      "name": "UptoyouThaiLand",
-      "clanLevel": 30,
-      "members": 50,
-      "clanBuilderBasePoints": 46784,
-      "clanVersusPoints": 46784,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/IMiOQpuluKCf86SQs2ytNVkxWQsDWvb3l3uTlC5yzio.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/IMiOQpuluKCf86SQs2ytNVkxWQsDWvb3l3uTlC5yzio.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/IMiOQpuluKCf86SQs2ytNVkxWQsDWvb3l3uTlC5yzio.png"
-      }
-    },
-    {
-      "rank": 150,
-      "previousRank": 159,
       "tag": "#PQ8UJUGY",
       "name": "Nachbarjungs",
       "clanLevel": 33,
@@ -2254,14 +2374,14 @@
       }
     },
     {
-      "rank": 151,
-      "previousRank": 117,
+      "rank": 159,
+      "previousRank": 159,
       "tag": "#JUPCP29",
       "name": "NGL WARRIORS",
       "clanLevel": 33,
       "members": 49,
-      "clanBuilderBasePoints": 46777,
-      "clanVersusPoints": 46777,
+      "clanBuilderBasePoints": 46774,
+      "clanVersusPoints": 46774,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/WyPWFyUUd89hyNDkYXGo2YO4iYOgaWbBjEKsSve4tYM.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/WyPWFyUUd89hyNDkYXGo2YO4iYOgaWbBjEKsSve4tYM.png",
@@ -2269,44 +2389,29 @@
       }
     },
     {
-      "rank": 152,
-      "previousRank": 154,
-      "tag": "#CGQQRVV8",
-      "name": "MALAKA",
-      "clanLevel": 37,
-      "members": 46,
-      "clanBuilderBasePoints": 46765,
-      "clanVersusPoints": 46765,
+      "rank": 160,
+      "previousRank": 160,
+      "tag": "#P9URLP22",
+      "name": "UptoyouThaiLand",
+      "clanLevel": 30,
+      "members": 50,
+      "clanBuilderBasePoints": 46773,
+      "clanVersusPoints": 46773,
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/kdsbEwbmttwYzCL7DEeZjhwbaSQKXCyGKERsKNQv_BM.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/kdsbEwbmttwYzCL7DEeZjhwbaSQKXCyGKERsKNQv_BM.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/kdsbEwbmttwYzCL7DEeZjhwbaSQKXCyGKERsKNQv_BM.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/IMiOQpuluKCf86SQs2ytNVkxWQsDWvb3l3uTlC5yzio.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/IMiOQpuluKCf86SQs2ytNVkxWQsDWvb3l3uTlC5yzio.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/IMiOQpuluKCf86SQs2ytNVkxWQsDWvb3l3uTlC5yzio.png"
       }
     },
     {
-      "rank": 153,
-      "previousRank": 528,
-      "tag": "#2Y8QRYR2P",
-      "name": "MURGAP",
-      "clanLevel": 33,
-      "members": 49,
-      "clanBuilderBasePoints": 46762,
-      "clanVersusPoints": 46762,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/6INWWSMdV3LH0VlkCtaHL5xlKRpNFzY2ESGfbiBziJY.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/6INWWSMdV3LH0VlkCtaHL5xlKRpNFzY2ESGfbiBziJY.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/6INWWSMdV3LH0VlkCtaHL5xlKRpNFzY2ESGfbiBziJY.png"
-      }
-    },
-    {
-      "rank": 154,
-      "previousRank": 115,
+      "rank": 161,
+      "previousRank": 161,
       "tag": "#8YU09RQP",
       "name": "achilles",
       "clanLevel": 35,
       "members": 47,
-      "clanBuilderBasePoints": 46759,
-      "clanVersusPoints": 46759,
+      "clanBuilderBasePoints": 46765,
+      "clanVersusPoints": 46765,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/t9k_KVk1lA4fi_ki8xsltJByKZR7_jfKKL3kK1OvZNs.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/t9k_KVk1lA4fi_ki8xsltJByKZR7_jfKKL3kK1OvZNs.png",
@@ -2314,8 +2419,38 @@
       }
     },
     {
-      "rank": 155,
-      "previousRank": 172,
+      "rank": 162,
+      "previousRank": 162,
+      "tag": "#CGQQRVV8",
+      "name": "MALAKA",
+      "clanLevel": 37,
+      "members": 46,
+      "clanBuilderBasePoints": 46763,
+      "clanVersusPoints": 46763,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/kdsbEwbmttwYzCL7DEeZjhwbaSQKXCyGKERsKNQv_BM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/kdsbEwbmttwYzCL7DEeZjhwbaSQKXCyGKERsKNQv_BM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/kdsbEwbmttwYzCL7DEeZjhwbaSQKXCyGKERsKNQv_BM.png"
+      }
+    },
+    {
+      "rank": 163,
+      "previousRank": 163,
+      "tag": "#9QYY0QVV",
+      "name": "Nepali Gorkas",
+      "clanLevel": 36,
+      "members": 48,
+      "clanBuilderBasePoints": 46760,
+      "clanVersusPoints": 46760,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/O0WdocG3snKxIuQHQC7uFxut_xYMfQbiHqtqbYh7Rjo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/O0WdocG3snKxIuQHQC7uFxut_xYMfQbiHqtqbYh7Rjo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/O0WdocG3snKxIuQHQC7uFxut_xYMfQbiHqtqbYh7Rjo.png"
+      }
+    },
+    {
+      "rank": 164,
+      "previousRank": 164,
       "tag": "#8QUU8PCP",
       "name": "RoyalFam",
       "clanLevel": 34,
@@ -2329,8 +2464,8 @@
       }
     },
     {
-      "rank": 156,
-      "previousRank": 166,
+      "rank": 165,
+      "previousRank": 165,
       "tag": "#8CLRLJC0",
       "name": "SLOVENIAN FIRE",
       "clanLevel": 36,
@@ -2344,8 +2479,23 @@
       }
     },
     {
-      "rank": 157,
-      "previousRank": 302,
+      "rank": 166,
+      "previousRank": 166,
+      "tag": "#GVPLQY92",
+      "name": "/STTRONG\\",
+      "clanLevel": 33,
+      "members": 47,
+      "clanBuilderBasePoints": 46745,
+      "clanVersusPoints": 46745,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/LohjgpYUuGNHUTWqmYVdxSjF5haUb4VloUjWmByKrXE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/LohjgpYUuGNHUTWqmYVdxSjF5haUb4VloUjWmByKrXE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/LohjgpYUuGNHUTWqmYVdxSjF5haUb4VloUjWmByKrXE.png"
+      }
+    },
+    {
+      "rank": 167,
+      "previousRank": 167,
       "tag": "#G2Q82UCC",
       "name": "Foederation",
       "clanLevel": 32,
@@ -2359,23 +2509,23 @@
       }
     },
     {
-      "rank": 158,
-      "previousRank": 171,
-      "tag": "#GVPLQY92",
-      "name": "/STTRONG\\",
+      "rank": 168,
+      "previousRank": 168,
+      "tag": "#2Y8QRYR2P",
+      "name": "MURGAP",
       "clanLevel": 33,
-      "members": 47,
-      "clanBuilderBasePoints": 46741,
-      "clanVersusPoints": 46741,
+      "members": 49,
+      "clanBuilderBasePoints": 46733,
+      "clanVersusPoints": 46733,
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/LohjgpYUuGNHUTWqmYVdxSjF5haUb4VloUjWmByKrXE.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/LohjgpYUuGNHUTWqmYVdxSjF5haUb4VloUjWmByKrXE.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/LohjgpYUuGNHUTWqmYVdxSjF5haUb4VloUjWmByKrXE.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/6INWWSMdV3LH0VlkCtaHL5xlKRpNFzY2ESGfbiBziJY.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/6INWWSMdV3LH0VlkCtaHL5xlKRpNFzY2ESGfbiBziJY.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/6INWWSMdV3LH0VlkCtaHL5xlKRpNFzY2ESGfbiBziJY.png"
       }
     },
     {
-      "rank": 159,
-      "previousRank": 177,
+      "rank": 169,
+      "previousRank": 169,
       "tag": "#2YY8C02P",
       "name": "$$$UKRAINE$$$",
       "clanLevel": 40,
@@ -2389,8 +2539,23 @@
       }
     },
     {
-      "rank": 160,
-      "previousRank": 108,
+      "rank": 170,
+      "previousRank": 170,
+      "tag": "#8C8CYVR8",
+      "name": "Gresik On Fire",
+      "clanLevel": 34,
+      "members": 45,
+      "clanBuilderBasePoints": 46724,
+      "clanVersusPoints": 46724,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Q4TeGC4F7YqEu-jVZpNK4ofakG05xCE5NmvdTrpq6cM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Q4TeGC4F7YqEu-jVZpNK4ofakG05xCE5NmvdTrpq6cM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Q4TeGC4F7YqEu-jVZpNK4ofakG05xCE5NmvdTrpq6cM.png"
+      }
+    },
+    {
+      "rank": 171,
+      "previousRank": 171,
       "tag": "#8CYUUPCV",
       "name": "일상같은 COC",
       "clanLevel": 36,
@@ -2404,38 +2569,8 @@
       }
     },
     {
-      "rank": 161,
-      "previousRank": 168,
-      "tag": "#8C8CYVR8",
-      "name": "Gresik On Fire",
-      "clanLevel": 34,
-      "members": 45,
-      "clanBuilderBasePoints": 46720,
-      "clanVersusPoints": 46720,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/Q4TeGC4F7YqEu-jVZpNK4ofakG05xCE5NmvdTrpq6cM.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/Q4TeGC4F7YqEu-jVZpNK4ofakG05xCE5NmvdTrpq6cM.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/Q4TeGC4F7YqEu-jVZpNK4ofakG05xCE5NmvdTrpq6cM.png"
-      }
-    },
-    {
-      "rank": 162,
-      "previousRank": 184,
-      "tag": "#9JJGPCRU",
-      "name": "Iran Paydar",
-      "clanLevel": 43,
-      "members": 50,
-      "clanBuilderBasePoints": 46719,
-      "clanVersusPoints": 46719,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/Sp4qDnsVUT_Xqn5j4pz2HLdjZRxUn9MH0Es61VbcPew.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/Sp4qDnsVUT_Xqn5j4pz2HLdjZRxUn9MH0Es61VbcPew.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/Sp4qDnsVUT_Xqn5j4pz2HLdjZRxUn9MH0Es61VbcPew.png"
-      }
-    },
-    {
-      "rank": 163,
-      "previousRank": 178,
+      "rank": 172,
+      "previousRank": 172,
       "tag": "#JP2G0JYL",
       "name": "دورهمی",
       "clanLevel": 29,
@@ -2449,8 +2584,8 @@
       }
     },
     {
-      "rank": 164,
-      "previousRank": 152,
+      "rank": 173,
+      "previousRank": 173,
       "tag": "#PQCVY90L",
       "name": "UNITED STATES",
       "clanLevel": 29,
@@ -2464,8 +2599,23 @@
       }
     },
     {
-      "rank": 165,
-      "previousRank": 179,
+      "rank": 174,
+      "previousRank": 174,
+      "tag": "#9JJGPCRU",
+      "name": "Iran Paydar",
+      "clanLevel": 43,
+      "members": 50,
+      "clanBuilderBasePoints": 46715,
+      "clanVersusPoints": 46715,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Sp4qDnsVUT_Xqn5j4pz2HLdjZRxUn9MH0Es61VbcPew.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Sp4qDnsVUT_Xqn5j4pz2HLdjZRxUn9MH0Es61VbcPew.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Sp4qDnsVUT_Xqn5j4pz2HLdjZRxUn9MH0Es61VbcPew.png"
+      }
+    },
+    {
+      "rank": 175,
+      "previousRank": 175,
       "tag": "#2V8QC2V",
       "name": "Quality",
       "clanLevel": 41,
@@ -2479,29 +2629,14 @@
       }
     },
     {
-      "rank": 166,
-      "previousRank": 97,
-      "tag": "#2RQY2YGVU",
-      "name": "winner",
-      "clanLevel": 25,
-      "members": 48,
-      "clanBuilderBasePoints": 46708,
-      "clanVersusPoints": 46708,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/cFTtgLaI8lrZY1jLsV-NJF3GQNY5V_q3afqejTO2N7o.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/cFTtgLaI8lrZY1jLsV-NJF3GQNY5V_q3afqejTO2N7o.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/cFTtgLaI8lrZY1jLsV-NJF3GQNY5V_q3afqejTO2N7o.png"
-      }
-    },
-    {
-      "rank": 167,
+      "rank": 176,
       "previousRank": 176,
       "tag": "#2LQJ09P2",
       "name": "Bandung",
       "clanLevel": 38,
       "members": 50,
-      "clanBuilderBasePoints": 46695,
-      "clanVersusPoints": 46695,
+      "clanBuilderBasePoints": 46698,
+      "clanVersusPoints": 46698,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/rveX1kJo5Izl8mGH6fchc2sSdDaBMCJxCIImCfGcjSI.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/rveX1kJo5Izl8mGH6fchc2sSdDaBMCJxCIImCfGcjSI.png",
@@ -2509,23 +2644,8 @@
       }
     },
     {
-      "rank": 168,
-      "previousRank": 203,
-      "tag": "#29CV02VC",
-      "name": "Monstergas jr.",
-      "clanLevel": 32,
-      "members": 50,
-      "clanBuilderBasePoints": 46690,
-      "clanVersusPoints": 46690,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/518p827uO2G8VQg3nwmclfczmLQ7UFAOC2zM414IOdk.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/518p827uO2G8VQg3nwmclfczmLQ7UFAOC2zM414IOdk.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/518p827uO2G8VQg3nwmclfczmLQ7UFAOC2zM414IOdk.png"
-      }
-    },
-    {
-      "rank": 169,
-      "previousRank": 182,
+      "rank": 177,
+      "previousRank": 177,
       "tag": "#P0CCP9JU",
       "name": ".50cal",
       "clanLevel": 38,
@@ -2539,8 +2659,23 @@
       }
     },
     {
-      "rank": 170,
-      "previousRank": 186,
+      "rank": 178,
+      "previousRank": 178,
+      "tag": "#29CV02VC",
+      "name": "Monstergas jr.",
+      "clanLevel": 32,
+      "members": 50,
+      "clanBuilderBasePoints": 46690,
+      "clanVersusPoints": 46690,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/518p827uO2G8VQg3nwmclfczmLQ7UFAOC2zM414IOdk.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/518p827uO2G8VQg3nwmclfczmLQ7UFAOC2zM414IOdk.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/518p827uO2G8VQg3nwmclfczmLQ7UFAOC2zM414IOdk.png"
+      }
+    },
+    {
+      "rank": 179,
+      "previousRank": 179,
       "tag": "#2QR2YGRG0",
       "name": "CHAPEUS D.PALHA",
       "clanLevel": 26,
@@ -2554,8 +2689,23 @@
       }
     },
     {
-      "rank": 171,
-      "previousRank": 192,
+      "rank": 180,
+      "previousRank": 180,
+      "tag": "#RP8UL209",
+      "name": "無言OK援軍のみ活用クラン",
+      "clanLevel": 34,
+      "members": 48,
+      "clanBuilderBasePoints": 46685,
+      "clanVersusPoints": 46685,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/wXeFl-Kjo9gQfLqhCBN-rJ8--S13_LRHXp8uFd8VDuI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/wXeFl-Kjo9gQfLqhCBN-rJ8--S13_LRHXp8uFd8VDuI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/wXeFl-Kjo9gQfLqhCBN-rJ8--S13_LRHXp8uFd8VDuI.png"
+      }
+    },
+    {
+      "rank": 181,
+      "previousRank": 181,
       "tag": "#28UYU9Q2",
       "name": "GNADENLOS",
       "clanLevel": 38,
@@ -2569,23 +2719,8 @@
       }
     },
     {
-      "rank": 172,
-      "previousRank": 189,
-      "tag": "#RP8UL209",
-      "name": "無言OK援軍のみ活用クラン",
-      "clanLevel": 34,
-      "members": 48,
-      "clanBuilderBasePoints": 46681,
-      "clanVersusPoints": 46681,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/wXeFl-Kjo9gQfLqhCBN-rJ8--S13_LRHXp8uFd8VDuI.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/wXeFl-Kjo9gQfLqhCBN-rJ8--S13_LRHXp8uFd8VDuI.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/wXeFl-Kjo9gQfLqhCBN-rJ8--S13_LRHXp8uFd8VDuI.png"
-      }
-    },
-    {
-      "rank": 173,
-      "previousRank": 180,
+      "rank": 182,
+      "previousRank": 182,
       "tag": "#28L2G9P2U",
       "name": "Infinite War",
       "clanLevel": 35,
@@ -2599,23 +2734,8 @@
       }
     },
     {
-      "rank": 174,
-      "previousRank": 298,
-      "tag": "#2YU9GYYPP",
-      "name": "Oops I'm Sorry",
-      "clanLevel": 31,
-      "members": 50,
-      "clanBuilderBasePoints": 46672,
-      "clanVersusPoints": 46672,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/UlvV9KNxDOAZc1EFReLufgf1NRCQlDUSkk_w2ls_v2A.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/UlvV9KNxDOAZc1EFReLufgf1NRCQlDUSkk_w2ls_v2A.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/UlvV9KNxDOAZc1EFReLufgf1NRCQlDUSkk_w2ls_v2A.png"
-      }
-    },
-    {
-      "rank": 175,
-      "previousRank": 190,
+      "rank": 183,
+      "previousRank": 183,
       "tag": "#2QCV2GYVV",
       "name": "#amc mini",
       "clanLevel": 30,
@@ -2629,8 +2749,8 @@
       }
     },
     {
-      "rank": 176,
-      "previousRank": 187,
+      "rank": 184,
+      "previousRank": 184,
       "tag": "#2JPPC2RG2",
       "name": "Loyal Warriors",
       "clanLevel": 19,
@@ -2644,53 +2764,38 @@
       }
     },
     {
-      "rank": 177,
-      "previousRank": 144,
-      "tag": "#22GVV2RY",
-      "name": "KURD POWERS",
-      "clanLevel": 34,
-      "members": 48,
-      "clanBuilderBasePoints": 46666,
-      "clanVersusPoints": 46666,
+      "rank": 185,
+      "previousRank": 185,
+      "tag": "#JUY0JGQL",
+      "name": "TELUGU",
+      "clanLevel": 35,
+      "members": 50,
+      "clanBuilderBasePoints": 46668,
+      "clanVersusPoints": 46668,
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/sE23M9MD0Lm_75K3QeVeRF5Idpj6eAI53cVsQirxXOs.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/sE23M9MD0Lm_75K3QeVeRF5Idpj6eAI53cVsQirxXOs.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/sE23M9MD0Lm_75K3QeVeRF5Idpj6eAI53cVsQirxXOs.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/ja2qL7X57ZGo9LlG2YzEUaSajaLlUd4s5XT6-eNaEPY.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ja2qL7X57ZGo9LlG2YzEUaSajaLlUd4s5XT6-eNaEPY.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ja2qL7X57ZGo9LlG2YzEUaSajaLlUd4s5XT6-eNaEPY.png"
       }
     },
     {
-      "rank": 178,
-      "previousRank": 174,
-      "tag": "#9VVU2Q0V",
-      "name": "War Maniacs",
-      "clanLevel": 34,
-      "members": 48,
-      "clanBuilderBasePoints": 46651,
-      "clanVersusPoints": 46651,
+      "rank": 186,
+      "previousRank": 186,
+      "tag": "#29PULV99J",
+      "name": "SWE",
+      "clanLevel": 30,
+      "members": 49,
+      "clanBuilderBasePoints": 46648,
+      "clanVersusPoints": 46648,
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/XcIUV7OVxyzRRSdav517vRvQQbr0sZOejrdOTalSQ68.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/XcIUV7OVxyzRRSdav517vRvQQbr0sZOejrdOTalSQ68.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/XcIUV7OVxyzRRSdav517vRvQQbr0sZOejrdOTalSQ68.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/dDBnxFBJ3AVX6QrX0B3k_ui-CaQ1LQFyLkB5Uw9o1Hk.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/dDBnxFBJ3AVX6QrX0B3k_ui-CaQ1LQFyLkB5Uw9o1Hk.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/dDBnxFBJ3AVX6QrX0B3k_ui-CaQ1LQFyLkB5Uw9o1Hk.png"
       }
     },
     {
-      "rank": 179,
-      "previousRank": 148,
-      "tag": "#908UY9QR",
-      "name": "KOMAHDOSS!",
-      "clanLevel": 29,
-      "members": 47,
-      "clanBuilderBasePoints": 46650,
-      "clanVersusPoints": 46650,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/MOIArWUkqkAWvBynO158a5ts7wAtRZjN2GOFwoqmYPU.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/MOIArWUkqkAWvBynO158a5ts7wAtRZjN2GOFwoqmYPU.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/MOIArWUkqkAWvBynO158a5ts7wAtRZjN2GOFwoqmYPU.png"
-      }
-    },
-    {
-      "rank": 180,
-      "previousRank": 262,
+      "rank": 187,
+      "previousRank": 187,
       "tag": "#LC8G9CR8",
       "name": "Azerbaycan",
       "clanLevel": 31,
@@ -2704,8 +2809,38 @@
       }
     },
     {
-      "rank": 181,
-      "previousRank": 185,
+      "rank": 188,
+      "previousRank": 188,
+      "tag": "#QVUYRJLL",
+      "name": "The Bad Batch",
+      "clanLevel": 34,
+      "members": 50,
+      "clanBuilderBasePoints": 46646,
+      "clanVersusPoints": 46646,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/njngOKd-6qAXoT8ni9QX-Mmf1F3RPPQq5J8hTHLurzM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/njngOKd-6qAXoT8ni9QX-Mmf1F3RPPQq5J8hTHLurzM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/njngOKd-6qAXoT8ni9QX-Mmf1F3RPPQq5J8hTHLurzM.png"
+      }
+    },
+    {
+      "rank": 189,
+      "previousRank": 189,
+      "tag": "#9VVU2Q0V",
+      "name": "War Maniacs",
+      "clanLevel": 34,
+      "members": 48,
+      "clanBuilderBasePoints": 46645,
+      "clanVersusPoints": 46645,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/XcIUV7OVxyzRRSdav517vRvQQbr0sZOejrdOTalSQ68.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/XcIUV7OVxyzRRSdav517vRvQQbr0sZOejrdOTalSQ68.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/XcIUV7OVxyzRRSdav517vRvQQbr0sZOejrdOTalSQ68.png"
+      }
+    },
+    {
+      "rank": 190,
+      "previousRank": 190,
       "tag": "#C02CRJV",
       "name": "Днепр 18+",
       "clanLevel": 39,
@@ -2719,8 +2854,8 @@
       }
     },
     {
-      "rank": 182,
-      "previousRank": 188,
+      "rank": 191,
+      "previousRank": 191,
       "tag": "#2LL9UY9LQ",
       "name": "PREDATOR LIGUE",
       "clanLevel": 22,
@@ -2734,38 +2869,23 @@
       }
     },
     {
-      "rank": 183,
-      "previousRank": 221,
-      "tag": "#2GLRY9V9U",
-      "name": "الدسم",
-      "clanLevel": 20,
+      "rank": 192,
+      "previousRank": 192,
+      "tag": "#2G2RJQ2UG",
+      "name": "EcoPoint",
+      "clanLevel": 22,
       "members": 50,
-      "clanBuilderBasePoints": 46637,
-      "clanVersusPoints": 46637,
+      "clanBuilderBasePoints": 46638,
+      "clanVersusPoints": 46638,
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/wurMk1u6Ga8aAmmvHneAUFHGltJh_yTrJUPv4PWwS2I.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/wurMk1u6Ga8aAmmvHneAUFHGltJh_yTrJUPv4PWwS2I.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/wurMk1u6Ga8aAmmvHneAUFHGltJh_yTrJUPv4PWwS2I.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/HR14YwrDCreLi_UbgnXaXtYVWLM_MGhEkKjBFswGjBE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/HR14YwrDCreLi_UbgnXaXtYVWLM_MGhEkKjBFswGjBE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/HR14YwrDCreLi_UbgnXaXtYVWLM_MGhEkKjBFswGjBE.png"
       }
     },
     {
-      "rank": 184,
-      "previousRank": 229,
-      "tag": "#2CC0CJVC",
-      "name": "activewar",
-      "clanLevel": 36,
-      "members": 49,
-      "clanBuilderBasePoints": 46636,
-      "clanVersusPoints": 46636,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/Ame5i-v9KkMaMNR2JXZCkd7GJY4AQP9rZA5L55HNiVA.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/Ame5i-v9KkMaMNR2JXZCkd7GJY4AQP9rZA5L55HNiVA.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/Ame5i-v9KkMaMNR2JXZCkd7GJY4AQP9rZA5L55HNiVA.png"
-      }
-    },
-    {
-      "rank": 185,
-      "previousRank": 305,
+      "rank": 193,
+      "previousRank": 193,
       "tag": "#QUL289V",
       "name": "LTU",
       "clanLevel": 38,
@@ -2779,14 +2899,14 @@
       }
     },
     {
-      "rank": 186,
-      "previousRank": 204,
+      "rank": 194,
+      "previousRank": 194,
       "tag": "#8URJ8YLG",
       "name": "30+ og aktiv",
       "clanLevel": 37,
       "members": 49,
-      "clanBuilderBasePoints": 46622,
-      "clanVersusPoints": 46622,
+      "clanBuilderBasePoints": 46624,
+      "clanVersusPoints": 46624,
       "badgeUrls": {
         "small": "https://api-assets.clashofclans.com/badges/70/cSIZGp_TY4w-oVYD0EtNxYAqFEu3Tk6NlHh2xP1Hkus.png",
         "medium": "https://api-assets.clashofclans.com/badges/200/cSIZGp_TY4w-oVYD0EtNxYAqFEu3Tk6NlHh2xP1Hkus.png",
@@ -2794,23 +2914,23 @@
       }
     },
     {
-      "rank": 187,
-      "previousRank": 197,
-      "tag": "#JUY0JGQL",
-      "name": "TELUGU",
-      "clanLevel": 35,
-      "members": 49,
-      "clanBuilderBasePoints": 46617,
-      "clanVersusPoints": 46617,
+      "rank": 195,
+      "previousRank": 195,
+      "tag": "#2GLRY9V9U",
+      "name": "الدسم",
+      "clanLevel": 20,
+      "members": 50,
+      "clanBuilderBasePoints": 46623,
+      "clanVersusPoints": 46623,
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/ja2qL7X57ZGo9LlG2YzEUaSajaLlUd4s5XT6-eNaEPY.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/ja2qL7X57ZGo9LlG2YzEUaSajaLlUd4s5XT6-eNaEPY.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/ja2qL7X57ZGo9LlG2YzEUaSajaLlUd4s5XT6-eNaEPY.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/wurMk1u6Ga8aAmmvHneAUFHGltJh_yTrJUPv4PWwS2I.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/wurMk1u6Ga8aAmmvHneAUFHGltJh_yTrJUPv4PWwS2I.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/wurMk1u6Ga8aAmmvHneAUFHGltJh_yTrJUPv4PWwS2I.png"
       }
     },
     {
-      "rank": 188,
-      "previousRank": 431,
+      "rank": 196,
+      "previousRank": 196,
       "tag": "#LUG2VJP9",
       "name": "##BATTLE TEAM##",
       "clanLevel": 39,
@@ -2824,8 +2944,23 @@
       }
     },
     {
-      "rank": 189,
-      "previousRank": 379,
+      "rank": 197,
+      "previousRank": 197,
+      "tag": "#Q2V2LL2L",
+      "name": "無言",
+      "clanLevel": 35,
+      "members": 47,
+      "clanBuilderBasePoints": 46612,
+      "clanVersusPoints": 46612,
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/wORjv0WcJufjJXpYCWmwVpWsWYCDz17ZEprFxuxRSRE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/wORjv0WcJufjJXpYCWmwVpWsWYCDz17ZEprFxuxRSRE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/wORjv0WcJufjJXpYCWmwVpWsWYCDz17ZEprFxuxRSRE.png"
+      }
+    },
+    {
+      "rank": 198,
+      "previousRank": 198,
       "tag": "#U2JVY229",
       "name": "GNADENLOS™",
       "clanLevel": 35,
@@ -2839,168 +2974,33 @@
       }
     },
     {
-      "rank": 190,
-      "previousRank": 194,
-      "tag": "#Q2V2LL2L",
-      "name": "無言",
-      "clanLevel": 35,
-      "members": 47,
-      "clanBuilderBasePoints": 46610,
-      "clanVersusPoints": 46610,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/wORjv0WcJufjJXpYCWmwVpWsWYCDz17ZEprFxuxRSRE.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/wORjv0WcJufjJXpYCWmwVpWsWYCDz17ZEprFxuxRSRE.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/wORjv0WcJufjJXpYCWmwVpWsWYCDz17ZEprFxuxRSRE.png"
-      }
-    },
-    {
-      "rank": 191,
-      "previousRank": 198,
-      "tag": "#Y09PU2GP",
-      "name": "台灣英雄聯盟基地",
-      "clanLevel": 31,
-      "members": 49,
-      "clanBuilderBasePoints": 46606,
-      "clanVersusPoints": 46606,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/ah_zuZsQmhAwOEertShjDhyTHWppyVcoZkgbdshcLPY.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/ah_zuZsQmhAwOEertShjDhyTHWppyVcoZkgbdshcLPY.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/ah_zuZsQmhAwOEertShjDhyTHWppyVcoZkgbdshcLPY.png"
-      }
-    },
-    {
-      "rank": 192,
-      "previousRank": 157,
-      "tag": "#2RQR02LJR",
-      "name": "Legacy",
-      "clanLevel": 22,
-      "members": 49,
-      "clanBuilderBasePoints": 46590,
-      "clanVersusPoints": 46590,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/1i7ih62IDlZIusaVc4lNBNIQI22EfPguX8xLKiP213A.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/1i7ih62IDlZIusaVc4lNBNIQI22EfPguX8xLKiP213A.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/1i7ih62IDlZIusaVc4lNBNIQI22EfPguX8xLKiP213A.png"
-      }
-    },
-    {
-      "rank": 193,
-      "previousRank": 209,
-      "tag": "#Q0CVUJ2J",
-      "name": "Việt Nam HERO",
-      "clanLevel": 33,
-      "members": 50,
-      "clanBuilderBasePoints": 46585,
-      "clanVersusPoints": 46585,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/jomo-cHI1HHaWK4mkMo6zINXxI6dh9Ki3KUWyWc1hzE.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/jomo-cHI1HHaWK4mkMo6zINXxI6dh9Ki3KUWyWc1hzE.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/jomo-cHI1HHaWK4mkMo6zINXxI6dh9Ki3KUWyWc1hzE.png"
-      }
-    },
-    {
-      "rank": 194,
-      "previousRank": 200,
-      "tag": "#2QG2RVUCL",
-      "name": "WAR IMPERIUM",
-      "clanLevel": 30,
-      "members": 48,
-      "clanBuilderBasePoints": 46580,
-      "clanVersusPoints": 46580,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/--ouC6WooOc_l9T8QF0x9RpdyLWXxWAOqhvVwUPQ8n8.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/--ouC6WooOc_l9T8QF0x9RpdyLWXxWAOqhvVwUPQ8n8.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/--ouC6WooOc_l9T8QF0x9RpdyLWXxWAOqhvVwUPQ8n8.png"
-      }
-    },
-    {
-      "rank": 195,
-      "previousRank": 210,
-      "tag": "#8JGV8QPP",
-      "name": "КАЗАНЬ",
-      "clanLevel": 35,
-      "members": 49,
-      "clanBuilderBasePoints": 46575,
-      "clanVersusPoints": 46575,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/6LHqrnTrkURO8mX_mctEkpTRR7Acwm7NBchjCWpX36g.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/6LHqrnTrkURO8mX_mctEkpTRR7Acwm7NBchjCWpX36g.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/6LHqrnTrkURO8mX_mctEkpTRR7Acwm7NBchjCWpX36g.png"
-      }
-    },
-    {
-      "rank": 196,
-      "previousRank": 121,
-      "tag": "#P2GVUQL",
-      "name": "TAMIL",
-      "clanLevel": 36,
-      "members": 48,
-      "clanBuilderBasePoints": 46574,
-      "clanVersusPoints": 46574,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/2CjVSuWrYPSbgvNU2pjJHrOlAT88WTvfn6plHQ5sK_0.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/2CjVSuWrYPSbgvNU2pjJHrOlAT88WTvfn6plHQ5sK_0.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/2CjVSuWrYPSbgvNU2pjJHrOlAT88WTvfn6plHQ5sK_0.png"
-      }
-    },
-    {
-      "rank": 197,
-      "previousRank": 202,
-      "tag": "#2URGV8LU",
-      "name": "Dead Amigos",
-      "clanLevel": 33,
-      "members": 50,
-      "clanBuilderBasePoints": 46565,
-      "clanVersusPoints": 46565,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/IwDXCTSy9sxd85or-WLSiL2mpHbERkfzKuB_JMRUGuw.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/IwDXCTSy9sxd85or-WLSiL2mpHbERkfzKuB_JMRUGuw.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/IwDXCTSy9sxd85or-WLSiL2mpHbERkfzKuB_JMRUGuw.png"
-      }
-    },
-    {
-      "rank": 198,
-      "previousRank": 201,
-      "tag": "#2GYGCPV",
-      "name": "UKRAINE",
-      "clanLevel": 40,
-      "members": 47,
-      "clanBuilderBasePoints": 46565,
-      "clanVersusPoints": 46565,
-      "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/MMqbjlmO-y68Wm4zyphGgyDCI_d346S5K09ZmxjJg0A.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/MMqbjlmO-y68Wm4zyphGgyDCI_d346S5K09ZmxjJg0A.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/MMqbjlmO-y68Wm4zyphGgyDCI_d346S5K09ZmxjJg0A.png"
-      }
-    },
-    {
       "rank": 199,
-      "previousRank": 153,
-      "tag": "#UR2LY9UR",
-      "name": "Fúria",
-      "clanLevel": 34,
-      "members": 49,
-      "clanBuilderBasePoints": 46562,
-      "clanVersusPoints": 46562,
+      "previousRank": 199,
+      "tag": "#20GJ8J2PJ",
+      "name": "BADINI CLAN",
+      "clanLevel": 28,
+      "members": 50,
+      "clanBuilderBasePoints": 46611,
+      "clanVersusPoints": 46611,
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/J7HSLvJG3zhlCdadr0Dxbuvq9adG8wkaBYqu0kVm2rQ.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/J7HSLvJG3zhlCdadr0Dxbuvq9adG8wkaBYqu0kVm2rQ.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/J7HSLvJG3zhlCdadr0Dxbuvq9adG8wkaBYqu0kVm2rQ.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/ONBHOVymboouRJOXq5B9HfIU2I5YZhyIFLSuvmSnuqA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ONBHOVymboouRJOXq5B9HfIU2I5YZhyIFLSuvmSnuqA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ONBHOVymboouRJOXq5B9HfIU2I5YZhyIFLSuvmSnuqA.png"
       }
     },
     {
       "rank": 200,
-      "previousRank": 337,
-      "tag": "#2G2RJQ2UG",
-      "name": "EcoPoint",
-      "clanLevel": 22,
+      "previousRank": 200,
+      "tag": "#Y09PU2GP",
+      "name": "台灣英雄聯盟基地",
+      "clanLevel": 31,
       "members": 49,
-      "clanBuilderBasePoints": 46561,
-      "clanVersusPoints": 46561,
+      "clanBuilderBasePoints": 46597,
+      "clanVersusPoints": 46597,
       "badgeUrls": {
-        "small": "https://api-assets.clashofclans.com/badges/70/HR14YwrDCreLi_UbgnXaXtYVWLM_MGhEkKjBFswGjBE.png",
-        "medium": "https://api-assets.clashofclans.com/badges/200/HR14YwrDCreLi_UbgnXaXtYVWLM_MGhEkKjBFswGjBE.png",
-        "large": "https://api-assets.clashofclans.com/badges/512/HR14YwrDCreLi_UbgnXaXtYVWLM_MGhEkKjBFswGjBE.png"
+        "small": "https://api-assets.clashofclans.com/badges/70/ah_zuZsQmhAwOEertShjDhyTHWppyVcoZkgbdshcLPY.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ah_zuZsQmhAwOEertShjDhyTHWppyVcoZkgbdshcLPY.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ah_zuZsQmhAwOEertShjDhyTHWppyVcoZkgbdshcLPY.png"
       }
     }
   ]
